@@ -369,6 +369,288 @@ http://50.7.234.10:8278/Spotv2/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE Network HD
 http://50.7.234.10:8278/Wwe/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="#####  FRANCE SPORTS   #####" tvg-logo="http://go4.pw/FRANCE/france.png" group-title="EU | FRANCE SPORTS",#####  FRANCE SPORTS   #####
+http://atg100.xyz:80/UL33K17/SYC4T9D/56635
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR - BEIN SPORTS 1 FHD : " tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 1 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/56655
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR - BEIN SPORTS 1 HEVC : " tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 1 HEVC : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/56580
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR - BEIN SPORTS 1 SD : " tvg-logo="http://go4.pw/bein/bein1.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 1 SD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/56544
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR - BEIN SPORTS 2 FHD :  " tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 2 FHD :  
+http://atg100.xyz:80/UL33K17/SYC4T9D/56654
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR - BEIN SPORTS 2 FHD²" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 2 FHD²
+http://atg100.xyz:80/UL33K17/SYC4T9D/157012
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR - BEIN SPORTS 2 HEVC :  " tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 2 HEVC :  
+http://atg100.xyz:80/UL33K17/SYC4T9D/56579
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR - BEIN SPORTS 2 SD : " tvg-logo="http://go4.pw/bein/bein-sports-hd-2.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 2 SD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/56543
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR - BEIN SPORTS 3 FHD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 3 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56653
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR - BEIN SPORTS 3 HEVC" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 3 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56578
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR - BEIN SPORTS 3 SD" tvg-logo="http://go4.pw/bein/bein-sports-3.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS 3 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56542
+#EXTINF:-1 tvg-id="beinsportsmax4.fr" tvg-name="FR - BEIN SPORTS MAX 4 FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/BEINMAX4.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 4 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/62502
+#EXTINF:-1 tvg-id="beinsportsmax5.fr" tvg-name="FR - BEIN SPORTS MAX 5 FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/BEINMAX5.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 5 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/62501
+#EXTINF:-1 tvg-id="beinsportsmax6.fr" tvg-name="FR - BEIN SPORTS MAX 6 FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/BEINMAX6.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 6 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/62500
+#EXTINF:-1 tvg-id="beinsportsmax7.fr" tvg-name="FR - BEIN SPORTS MAX 7 FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/BEINMAX7.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 7 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/62499
+#EXTINF:-1 tvg-id="beinsportsmax8.fr" tvg-name="FR - BEIN SPORTS MAX 8 FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/BEINMAX8.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 8 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/62498
+#EXTINF:-1 tvg-id="beinsportsmax9.fr" tvg-name="FR - BEIN SPORTS MAX 9 FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/BEINMAX9.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 9 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/62497
+#EXTINF:-1 tvg-id="beinsportsmax10.fr" tvg-name="FR - BEIN SPORTS MAX 10 FHD : " tvg-logo="http://go4.pw/BEIN/BEIN-PORTS-MAX-1.png" group-title="EU | FRANCE SPORTS",FR - BEIN SPORTS MAX 10 FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/211992
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR - CANAL + SPORT FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Canal_plus_Sport.png" group-title="EU | FRANCE SPORTS",FR - CANAL + SPORT FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56644
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR - CANAL + SPORT HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/Canal_plus_Sport.png" group-title="EU | FRANCE SPORTS",FR - CANAL + SPORT HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56569
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR - CANAL + SPORT SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Canal_plus_Sport.png" group-title="EU | FRANCE SPORTS",FR - CANAL + SPORT SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56533
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR - CANAL+ 360 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ 360 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/311207
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR - CANAL+ 360 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ 360 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/311208
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="FR - CANAL+ 360 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ 360 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/311209
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR - CANAL+ FOOT FHD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-plus-foot(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ FOOT FHD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/311116
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR - CANAL+ FOOT HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-plus-foot(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ FOOT HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/853546
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR - CANAL+ FOOT HEVC :" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-plus-foot(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ FOOT HEVC :
+http://atg100.xyz:80/UL33K17/SYC4T9D/311117
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="FR - CANAL+ FOOT SD : " tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-plus-foot(1).png" group-title="EU | FRANCE SPORTS",FR - CANAL+ FOOT SD : 
+http://atg100.xyz:80/UL33K17/SYC4T9D/311118
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR - CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canalpluspremierleague.png" group-title="EU | FRANCE SPORTS",FR - CANAL+ PREMIER LEAGUE FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/203876
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR - CANAL+ PREMIER LEAGUE HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/canalpluspremierleague.png" group-title="EU | FRANCE SPORTS",FR - CANAL+ PREMIER LEAGUE HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/203880
+#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="FR - CANAL+ PREMIER LEAGUE SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canalpluspremierleague.png" group-title="EU | FRANCE SPORTS",FR - CANAL+ PREMIER LEAGUE SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/203881
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 1 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 1 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069960
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 2 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 2 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069961
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 3 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 3 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069962
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 4 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 4 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069963
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 5 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 5 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069964
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 6 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 6 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069965
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 7 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 7 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069966
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 8 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 8 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069967
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 9 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 9 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069968
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 10 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 10 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069969
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 11 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 11 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069970
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 12 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 12 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069971
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 13 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 13 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069972
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 14 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 14 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069973
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 15 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 15 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069975
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 16 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 16 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069976
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 17 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 17 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069977
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 18 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 18 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069978
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 19 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 19 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1069979
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 1 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 1 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019732
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 2 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 2 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019733
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 3 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 3 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019734
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 4 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 4 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019735
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 5 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 5 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019736
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 6 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 6 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019737
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 7 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 7 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019738
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 8 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 8 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019739
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 9 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 9 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019740
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 10 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 10 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019741
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 11 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 11 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019742
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 12 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 12 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019743
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 13 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 13 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019744
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 14 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 14 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019745
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 15 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 15 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019746
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 16 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 16 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019747
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 17 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 17 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019748
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 18 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 18 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019749
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ 4K HDR" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal+.png" group-title="EU | FRANCE SPORTS",FR - CANAL+ 4K HDR
+http://atg100.xyz:80/UL33K17/SYC4T9D/1044112
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ UHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal+.png" group-title="EU | FRANCE SPORTS",FR - CANAL+ UHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1044106
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ BOXOFFICE UHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal+.png" group-title="EU | FRANCE SPORTS",FR - CANAL+ BOXOFFICE UHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1044114
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIVE 19 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal[1].png" group-title="EU | FRANCE SPORTS",FR - CANAL+ LIVE 19 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/1019750
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 1 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56671
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 FHD² " tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 1 FHD² 
+http://atg100.xyz:80/UL33K17/SYC4T9D/157017
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 1 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56596
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 HEVC²" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 1 HEVC²
+http://atg100.xyz:80/UL33K17/SYC4T9D/157027
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 1 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56560
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR - RMC SPORT 2 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/349337
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR - RMC SPORT 2 FHD²" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 2 FHD²
+http://atg100.xyz:80/UL33K17/SYC4T9D/163513
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR - RMC SPORT 2 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 2 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56595
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR - RMC SPORT 2 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT 2 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56559
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 3 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT LIVE 3 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/215571
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 3 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT LIVE 3 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/215572
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 3 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT LIVE 3 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/215573
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 4 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT LIVE 4 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/215574
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT LIVE 4 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT LIVE 4 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/215575
+#EXTINF:-1 tvg-id="rmcsportuhd.fr" tvg-name="FR - RMC SPORT UHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC SPORT UHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/152649
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC TALK SPORT FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC TALK SPORT FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/829615
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC TALK SPORT HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="EU | FRANCE SPORTS",FR - RMC TALK SPORT HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/829614
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR - AUTO MOTO FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/automoto11.png" group-title="EU | FRANCE SPORTS",FR - AUTO MOTO FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56637
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR - AUTO MOTO HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/automoto11.png" group-title="EU | FRANCE SPORTS",FR - AUTO MOTO HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56562
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="FR - AUTO MOTO SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/automoto11.png" group-title="EU | FRANCE SPORTS",FR - AUTO MOTO SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56526
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="FR - EQUIDIA FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIDIALIVEFHD.png" group-title="EU | FRANCE SPORTS",FR - EQUIDIA FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56639
+#EXTINF:-1 tvg-id="" tvg-name="FR - EQUIDIA HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIDIALIVEFHD.png" group-title="EU | FRANCE SPORTS",FR - EQUIDIA HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56564
+#EXTINF:-1 tvg-id="" tvg-name="FR - EQUIDIA SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIDIALIVEFHD.png" group-title="EU | FRANCE SPORTS",FR - EQUIDIA SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56528
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR - EQUIPE 21 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/LEQUIPE21HD.png" group-title="EU | FRANCE SPORTS",FR - EQUIPE 21 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56642
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR - Equipe 21 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/LEQUIPE21HD.png" group-title="EU | FRANCE SPORTS",FR - Equipe 21 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56567
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="FR - EQUIPE 21 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/LEQUIPE21HD.png" group-title="EU | FRANCE SPORTS",FR - EQUIPE 21 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56531
+#EXTINF:-1 tvg-id="" tvg-name="FR - EQUIPE LIVE 1 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIPELIVE1.png" group-title="EU | FRANCE SPORTS",FR - EQUIPE LIVE 1 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/330265
+#EXTINF:-1 tvg-id="" tvg-name="FR - EQUIPE LIVE 1 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIPELIVE1.png" group-title="EU | FRANCE SPORTS",FR - EQUIPE LIVE 1 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/737356
+#EXTINF:-1 tvg-id="" tvg-name="FR - EQUIPE LIVE 2 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIPELIVE2.png" group-title="EU | FRANCE SPORTS",FR - EQUIPE LIVE 2 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/330264
+#EXTINF:-1 tvg-id="" tvg-name="FR - EQUIPE LIVE 2 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EQUIPELIVE2.png" group-title="EU | FRANCE SPORTS",FR - EQUIPE LIVE 2 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/737381
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR - EUROSPORT 1 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 1 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56652
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR - EUROSPORT 1 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 1 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56577
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR - EUROSPORT 1 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 1 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56541
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR - EUROSPORT 2 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 2 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56651
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR - EUROSPORT 2 HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 2 HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56576
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR - EUROSPORT 2 SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 2 SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56540
+#EXTINF:-1 tvg-id="eurosport3601.fr" tvg-name="FR - EUROSPORT 360 1 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 1 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/210229
+#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR - EUROSPORT 360 2 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 2 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/210230
+#EXTINF:-1 tvg-id="eurosport3603.fr" tvg-name="FR - EUROSPORT 360 3 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 3 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/210231
+#EXTINF:-1 tvg-id="eurosport3604.fr" tvg-name="FR - EUROSPORT 360 4 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 4 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/210232
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="FR - EUROSPORT 360 5 FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 5 FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/210233
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 6 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 6 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/957682
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 7 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 7 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/957683
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 8 HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 8 HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/957684
+#EXTINF:-1 tvg-id="" tvg-name="FR - GOLF FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/GOLF%20FHD.png" group-title="EU | FRANCE SPORTS",FR - GOLF FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/330263
+#EXTINF:-1 tvg-id="" tvg-name="FR - GOLF HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/GOLF%20FHD.png" group-title="EU | FRANCE SPORTS",FR - GOLF HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/330262
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR - GOLF+ FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/GOLF%2B.png" group-title="EU | FRANCE SPORTS",FR - GOLF+ FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56636
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR - GOLF+ HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/GOLF%2B.png" group-title="EU | FRANCE SPORTS",FR - GOLF+ HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56561
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR - GOLF+   SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/GOLF%2B.png" group-title="EU | FRANCE SPORTS",FR - GOLF+   SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56525
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR - INFO SPORT+  FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/INFOSPORT%2B.png" group-title="EU | FRANCE SPORTS",FR - INFO SPORT+  FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56641
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR - INFO SPORT  HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/INFOSPORT%2B.png" group-title="EU | FRANCE SPORTS",FR - INFO SPORT  HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56566
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="FR - INFO SPORT  SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/INFOSPORT%2B.png" group-title="EU | FRANCE SPORTS",FR - INFO SPORT  SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56530
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR - OL TV FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/OL-TV.png" group-title="EU | FRANCE SPORTS",FR - OL TV FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56643
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR - OL TV HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/OL-TV.png" group-title="EU | FRANCE SPORTS",FR - OL TV HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/56568
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR - OL TV SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/OL-TV.png" group-title="EU | FRANCE SPORTS",FR - OL TV SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/56532
+#EXTINF:-1 tvg-id="" tvg-name="FR - OLYMPIA FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/OLYMPIA.png" group-title="EU | FRANCE SPORTS",FR - OLYMPIA FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/79396
+#EXTINF:-1 tvg-id="" tvg-name="FR - OLYMPIA HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/OLYMPIA.png" group-title="EU | FRANCE SPORTS",FR - OLYMPIA HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/79394
+#EXTINF:-1 tvg-id="" tvg-name="FR - OLYMPIA SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/OLYMPIA.png" group-title="EU | FRANCE SPORTS",FR - OLYMPIA SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/79395
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 1 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 1 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330755
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 2 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 2 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330756
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 3 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 3 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330757
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 4 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 4 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330758
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 5 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 5 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330759
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 6 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 6 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330760
+#EXTINF:-1 tvg-id="" tvg-name="FR - SKWEEK LIVE 7 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR - SKWEEK LIVE 7 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330761
+#EXTINF:-1 tvg-id="" tvg-name="FR -SKWEEK LIVE 8 FHD (ONLY ON EVENT )" tvg-logo="http://go4.pw/EUROPE/FRANCE/sweek11.png" group-title="EU | FRANCE SPORTS",FR -SKWEEK LIVE 8 FHD (ONLY ON EVENT )
+http://atg100.xyz:80/UL33K17/SYC4T9D/330762
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR - TRACE SPORT STARS FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/trace-sport-stars-1.png" group-title="EU | FRANCE SPORTS",FR - TRACE SPORT STARS FHD
+http://atg100.xyz:80/UL33K17/SYC4T9D/231636
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR - TRACE SPORT STARS HEVC" tvg-logo="http://go4.pw/EUROPE/FRANCE/trace-sport-stars-1.png" group-title="EU | FRANCE SPORTS",FR - TRACE SPORT STARS HEVC
+http://atg100.xyz:80/UL33K17/SYC4T9D/231644
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="FR - TRACE SPORT STARS SD" tvg-logo="http://go4.pw/EUROPE/FRANCE/trace-sport-stars-1.png" group-title="EU | FRANCE SPORTS",FR - TRACE SPORT STARS SD
+http://atg100.xyz:80/UL33K17/SYC4T9D/231649
 
 #EXTINF:-1,EPL: Astro SuperSport 1 HD
 http://23.227.147.172:80/0987654321/0987654321/1391035.ts
