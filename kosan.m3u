@@ -657,9 +657,7 @@ http://50.7.234.10:8278/Spotv2/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",ช่อง WWE Network HD
 http://50.7.234.10:8278/Wwe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="#####  FRANCE SPORTS   #####" tvg-logo="http://go4.pw/FRANCE/france.png" group-title="EU | FRANCE SPORTS",#####  FRANCE SPORTS   #####
-
-
+#####  FRANCE SPORTS   #####
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (1)
 http://watchindia.net:8880/live/40972/04523/2232.m3u8
@@ -2119,6 +2117,8 @@ http://watchindia.net:8880/movie/40972/04523/2713.mkv
 http://watchindia.net:8880/movie/40972/04523/2714.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvESXaz3562U7zT2BttrV5VTMLf.jpg" group-title="Malayalam",Swargam (2024)
 http://watchindia.net:8880/movie/40972/04523/2715.mkv
+
+
 #EXTINF:-1 tvg-id="colors.in" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (1)
 http://watchindia.net:8880/live/40972/04523/801.m3u8
 #EXTINF:-1 tvg-id="colors.in" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (2)
@@ -2703,6 +2703,8 @@ http://watchindia.net:8880/movie/40972/04523/2575.mkv
 http://watchindia.net:8880/movie/40972/04523/2576.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg2OTJkY2QtMWIzYS00OGFhLWI3YTgtYTA5MWRhMjdhZDk3XkEyXkFqcGdeQXVyMTY0NjI3Mjcx._V1_FMjpg_UY474_.jpg" group-title="Hindi",I Love You (2023)
 http://watchindia.net:8880/movie/40972/04523/2577.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg" group-title="Hindi",Bloody Daddy (2023)
 http://watchindia.net:8880/movie/40972/04523/2578.mkv
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD
@@ -3015,6 +3017,8 @@ http://watchindia.net:8880/live/40972/04523/941.m3u8
 http://watchindia.net:8880/live/40972/04523/940.m3u8
 #EXTINF:-1 tvg-id="maamusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Star_Maa_Music.png" group-title="Telugu",Star Maa Music
 http://watchindia.net:8880/live/40972/04523/2192.m3u8
+
+
 #EXTINF:-1 tvg-id="colorskannadahd.in" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_HD.png" group-title="Kannada",Colors HD Kannada
 http://watchindia.net:8880/live/40972/04523/982.m3u8
 #EXTINF:-1 tvg-id="colorssuper.in" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_Super.png" group-title="Kannada",Colors Super HD
@@ -3047,6 +3051,8 @@ http://watchindia.net:8880/live/40972/04523/1004.m3u8
 http://watchindia.net:8880/live/40972/04523/1003.m3u8
 #EXTINF:-1 tvg-id="zeekannada.in" tvg-logo="https://watchindia.net/images/channels/kannada/Zee_TV.png" group-title="Kannada",Zee Kannada HD
 http://watchindia.net:8880/live/40972/04523/1001.m3u8
+
+
 #EXTINF:-1 tvg-id="9x.jhakaas.in" tvg-logo="https://watchindia.net/images/channels/marathi/9X_Jhakaas.png" group-title="Marathi",9X Jhakaas
 http://watchindia.net:8880/live/40972/04523/926.m3u8
 #EXTINF:-1 tvg-id="abpmajha.in" tvg-logo="https://watchindia.net/images/channels/marathi/ABP_Majha.png" group-title="Marathi",ABP Majha
@@ -3079,6 +3085,8 @@ http://watchindia.net:8880/live/40972/04523/913.m3u8
 http://watchindia.net:8880/live/40972/04523/914.m3u8
 #EXTINF:-1 tvg-id="zeeyuva.in" tvg-logo="https://watchindia.net/images/channels/marathi/Zee_Yuva.png" group-title="Marathi",Zee Yuva
 http://watchindia.net:8880/live/40972/04523/915.m3u8
+
+
 #EXTINF:-1 tvg-id="aakashaath.in" tvg-logo="https://watchindia.net/images/channels/bengali/Aakash_Aath.png" group-title="Bengali",Aakash Aath
 http://watchindia.net:8880/live/40972/04523/2295.m3u8
 #EXTINF:-1 tvg-id="abpananda.in" tvg-logo="https://watchindia.net/images/channels/bengali/ABP_Ananda.png" group-title="Bengali",ABP Ananda
@@ -3101,6 +3109,8 @@ http://watchindia.net:8880/live/40972/04523/2290.m3u8
 http://watchindia.net:8880/live/40972/04523/2287.m3u8
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo="https://watchindia.net/images/channels/bengali/Zee_Bangla_HD.png" group-title="Bengali",Zee Bangla HD
 http://watchindia.net:8880/live/40972/04523/2283.m3u8
+
+
 #EXTINF:-1 tvg-id="abpasmita.in" tvg-logo="https://watchindia.net/images/channels/gujurati/ABP_Asmita.png" group-title="Gujurati",ABP Asmita HD
 http://watchindia.net:8880/live/40972/04523/1012.m3u8
 #EXTINF:-1 tvg-id="cnbcbajar.in" tvg-logo="https://watchindia.net/images/channels/gujurati/CNBC_Bajar.png" group-title="Gujurati",CNBC Bajar
@@ -3125,6 +3135,8 @@ http://watchindia.net:8880/live/40972/04523/1007.m3u8
 http://watchindia.net:8880/live/40972/04523/1009.m3u8
 #EXTINF:-1 tvg-id="zee24kalak.in" tvg-logo="https://watchindia.net/images/channels/gujurati/Zee_24_Kalak.png" group-title="Gujurati",Zee 24 Kalak
 http://watchindia.net:8880/live/40972/04523/1008.m3u8
+
+
 #EXTINF:-1 tvg-id="news.in" tvg-logo="" group-title="Urdu",92 News
 http://watchindia.net:8880/live/40972/04523/1050.m3u8
 #EXTINF:-1 tvg-id="jayaplus.in" tvg-logo="" group-title="Urdu",A Plus
@@ -3201,6 +3213,8 @@ http://watchindia.net:8880/live/40972/04523/1028.m3u8
 http://watchindia.net:8880/live/40972/04523/1020.m3u8
 #EXTINF:-1 tvg-id="1sports.in" tvg-logo="" group-title="Urdu",PTV Sports
 http://watchindia.net:8880/live/40972/04523/2325.m3u8
+
+
 #EXTINF:-1 tvg-id="tataskyadbutkahaniyan.in" tvg-logo="" group-title="Punjabi",5AAB TV
 http://watchindia.net:8880/live/40972/04523/2195.m3u8
 #EXTINF:-1 tvg-id="9xtashan.in" tvg-logo="" group-title="Punjabi",9X Tashan
@@ -3235,6 +3249,8 @@ http://watchindia.net:8880/live/40972/04523/1946.m3u8
 http://watchindia.net:8880/live/40972/04523/1952.m3u8
 #EXTINF:-1 tvg-id="zeepunjabi.in" tvg-logo="" group-title="Punjabi",Zee Punjabi
 http://watchindia.net:8880/live/40972/04523/1951.m3u8
+
+
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="English Movies",& Flix HD
 http://watchindia.net:8880/live/40972/04523/2088.m3u8
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="English Movies",& Prive HD
@@ -3263,6 +3279,7 @@ http://watchindia.net:8880/live/40972/04523/2170.m3u8
 http://watchindia.net:8880/live/40972/04523/2178.m3u8
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="English Movies",Sony Pix HD
 http://watchindia.net:8880/live/40972/04523/2101.m3u8
+
 #EXTINF:-1 tvg-id="aande.us" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title="USA Network",A&E Network
 http://watchindia.net:8880/live/40972/04523/2044.m3u8
 #EXTINF:-1 tvg-id="abcnewslive.us" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png" group-title="USA Network",ABC News
@@ -3536,6 +3553,7 @@ http://xtv.ooo:8080/kamal@555/kamal@555/246010
 http://xtv.ooo:8080/kamal@555/kamal@555/301102
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="IN: Republic Bangla" group-title="BANGLADESH",IN: Republic Bangla
 http://xtv.ooo:8080/kamal@555/kamal@555/355824
+
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="***KIDS***" group-title="INDIAN | KIDS Cartoon",***KIDS***
 http://xtv.ooo:8080/kamal@555/kamal@555/106148
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" tvg-name="IN: Cartoon Network" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
