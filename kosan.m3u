@@ -47,7 +47,10 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png",ช MWD
-http://203.81.84.130/hls/mwd_mwd/index.m3u8
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png",ช MWD
+http://203.81.84.130/hls/mwd/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/uqrXcWB.png",ช่อง YTV
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
