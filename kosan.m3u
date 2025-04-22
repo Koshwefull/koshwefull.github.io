@@ -1172,6 +1172,330 @@ https://dookeela.live/live-tv/cnn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dookeela.live/live-tv/bbc-news
 
+***********************Movies*****"****************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="TH movie", HBOHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="TH movie", HBOHD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOTHAI.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="TH movie", HBOHits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="TH movie", HBOHits
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOHits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="TH movie", HBOSignature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="TH movie", HBOSignature
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOSignature.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="TH movie", HBOFamily
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="TH movie", HBOFamily
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOFAMILY.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="TH movie",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="TH movie",Cinemax
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0118/DASH/V0118.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=4002ff47344b9ced00a33bea2e4b1d9f&chunkHttps=true&tmid=B0003&tpbk=YoXe2QbQyTstjZC0&rrt=1743385126&tmod=rfk&rsid=006e1ca3-d862-45cb-8412-fc045953e39f&tuid=481188ed3b&cdn=redfox-https&tdid=b3de881184e3f807e4e980518f786cd6&origin=anevia&tfa=f0-fc&tttl=1743471526
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="TH movie",Rock-Entertainment
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockentertainmentred.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="TH movie",ROCK Action
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0166/DASH/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=4002ff47344b9ced00a33bea2e4b1d9f&chunkHttps=true&tmid=B0003&tpbk=YoXe2QbQyTstjZC0&rrt=1743385126&tmod=rfk&rsid=006e1ca3-d862-45cb-8412-fc045953e39f&tuid=481188ed3b&cdn=redfox-https&tdid=b3de881184e3f807e4e980518f786cd6&origin=anevia&tfa=f0-fc&tttl=1743471526
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TH movie",Axn
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TH movie",Axn
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/axn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="TH movie",Warnertv
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/400px-Paramount_Network.svg.png" group-title="TH movie",Paramount
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="TH movie",trueTHAIFILM
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="TH movie",trueTHAIFILM
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/truethaiflim.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TH movie",trueFILM1
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TH movie",trueFILM1
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/film1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TH movie",trueFILM2
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TH movie",trueFILM2
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/film2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TH movie",trueMOVIEHITS
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TH movie",trueMOVIEHITS
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/truehitsmovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="TH movie",trueFILMASIA
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="TH movie",trueFILMASIA
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/filmasian.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="TH movie",trueSeries
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="TH movie",trueSeries
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/trueseries.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="TH movie",trueASIANMORE
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="TH movie",trueASIANMORE
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/trueasianmore.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="TH movie",CCM
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="TH movie",CCM
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/ccm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="TH movie",AsianHits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="TH movie",TVBThai
+https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="TH movie",Dragon
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="TH movie",Attv
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="TH movie",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="TH movie",FWMOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="TH movie",FWSOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QfgNajz.png" group-title="TH movie",Siam Channel
+https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="TH movie",Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="TH movie",Siamnewstv
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="TH movie",Gochannel
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="TH movie",Chiangrai
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.i-pic.info/i/6CRS654262.png" group-title="TH movie",MOUNCHON TV
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVU8Io3jYa9dX3vXUapj5t6JFdDmnz83i6g&usqp=CAU" group-title="TH movie",Channel8thailand
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="TH movie",Universal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg" group-title="TH movie",การ์ตูน
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="TH movie",movies1
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="TH movie",movies2
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="TH movie",movies3
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/Cinemachi
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="TH movie",movies4
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/PING
+
+***********************************************************************************
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="Movie Shwe",&Flix HD
+http://watchindia.net:8880/live/97869/86543/2088.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="Movie Shwe",&Prive HD
+http://watchindia.net:8880/live/97869/86543/2103.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="Movie Shwe",Movies Now HD
+http://watchindia.net:8880/live/97869/86543/2102.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="Movie Shwe",Sony Pix HD
+http://watchindia.net:8880/live/97869/86543/2101.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="Movie Shwe",Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="Movie Shwe",HitsMovie
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png"group-title="Movie Shwe",HITS NOW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODRfMTI5ODc4NF9I/Qk8tSEQucG5nJmhhc2g9MzU5N2Y0MGZkOTdmOTFmMTdmZjVkN2FkZjQzMmYzMDk=.png" group-title="Movie Shwe",HBO FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8983.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODBfMTI5ODc4MF9I/Qk8tMi1IRC5wbmcmaGFzaD04ODI1MDAy/N2MwYWQ1YzlmODQ4MGVkZDQ2MTJmMDhiYQ==.png" group-title="Movie Shwe",HBO 2 FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8984.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODJfMTI5ODc4Ml9I/Qk8tMy1IRC5wbmcmaGFzaD1kNDI3MzVk/MjgxZDcwMjM1MWJlZWYxYzY3ODczMWI1NQ==.png" group-title="Movie Shwe",HBO 3 FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8985.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MjlfMTI5ODcyOV9D/SU5FTUFYLUhELnBuZyZoYXNoPThlMTc0/ZjQ3MWViZmVkZjA3ODk0OTAzNzMwMWI3OGI1.png" group-title="Movie Shwe",Cinemax FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8988.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDcl/MkYyOSUyRjEzNjI0MTdfMTM2MjQxN19D/SU5FTUFYLTItSEQucG5nJmhhc2g9ODYw/YTQ4N2E0NWYyOGU1ZGQ0Mzc5NTc5NDgwMWM2NzQ=.png" group-title="Movie Shwe",Cinemax 2 FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/31388.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Movie Shwe",AMC FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/31382.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI2XzE1NTMzMjZf/QVhOX0hELnBuZyZoYXNoPTU1NWRkMjk3MDc5ZWQ3ZjNkZDAwMDY5ZmRjODYyOWFk.png" group-title="Movie Shwe",AXN FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8981.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Movie Shwe",AXN White
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/9081.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/AXN_Black_Logo.png" group-title="Movie Shwe",AXN Black
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/9082.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AXN_SPIN.png" group-title="Movie Shwe",AXN Spin
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/9083.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_Film_Now_%282018%29.png" group-title="Movie Shwe",Film Now FHD
+http://main.movistar-balancer.store:8080/live/bxx6XPCjXSUfJMFbkjc4WyBzXCqmL4/wD7PgZviO6kHRp96cv2koxLAnmTFfB/8982.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Movie Shwe",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="Movie Shwe",Afriwood Blockbuster
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movie Shwe",Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Movie Shwe",AVA Family 
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movie Shwe",CineRomantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movie Shwe",CineSony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Movie Shwe",CinePremiere
+http://wanicelife.com:8880/live/cristonio-iptv/cristonio9933568/2777.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movie Shwe",CineTerror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movie Shwe",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0C13nKluN2nYqDrn7Ki3gOUWWds_6Ieivg&s" group-title="Movie Shwe",DuniaSinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rtL5L81.png" group-title="Movie Shwe",Flicks of Fury
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Movie Shwe",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Movie Shwe",iFilm2
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movie Shwe",LifetimeMoviesEast
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xeO1Zb4.png" group-title="Movie Shwe",MovieBox
+https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Movie Shwe",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movie Shwe",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movie Shwe",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Movie Shwe",Persiana HD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movie Shwe",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movie Shwe",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Movie Shwe",Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OVF9UEh.png" group-title="Movie Shwe",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movie Shwe",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xnAUYDp.png" group-title="Movie Shwe",Pluto TV Ciné
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a64-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aaa3f7a8-585d-4916-bff9-f90769b38333
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movie Shwe",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Movie Shwe",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Movie Shwe",Pluto TV Cine Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Movie Shwe",Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="Movie Shwe",Pluto TV Cine Família (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y27HHe1.png" group-title="Movie Shwe",Pluto TV Ciné Rétro
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055170-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16087aae-45a5-4664-9dd5-7ba7c4fa78cf
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w3lUi4t.png" group-title="Movie Shwe",Pluto TV Cinema Italiano Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9j1njE3.png" group-title="Movie Shwe",Pluto TV Crime Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ab21513-d563-430f-ace4-ec869e2676fb
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SJcqknt.png" group-title="Movie Shwe",Pluto TV Crime Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xoaIAus.png" group-title="Movie Shwe",Pluto TV Cult Films
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PvhbHTZ.png" group-title="Movie Shwe",Pluto TV Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b9b883-5344-4e99-81f9-dc1d9942ca58
+#EXTINF:-1 tvg-id="s" tvg-logo="https://i.imgur.com/GVOYX4L.png" group-title="Movie Shwe",Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aQ18r9x.png" group-title="Movie Shwe",Pluto TV Film Azione Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YEbc5EM.png" group-title="Movie Shwe",Pluto TV Film Classici Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ADNrqKM.png" group-title="Movie Shwe",Pluto TV Film Commedia Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOxuHUn.png" group-title="Movie Shwe",Pluto TV Film Drama Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aZverZQ.png" group-title="Movie Shwe",Pluto TV Film Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LAvRDve.png" group-title="Movie Shwe",Pluto TV Film Romantici Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3SWPIek.png" group-title="Movie Shwe",Pluto TV Film Thriller Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Movie Shwe",Pluto TV Filmes Suspense (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movie Shwe",Pluto TV Horror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5rbfiFp.png" group-title="Movie Shwe",Pluto TV Indies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce40e59246a395e9758923e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea084-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1717ce52-d158-4c4f-870e-5f72d6328d3d
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RJhxl8t.png" group-title="Movie Shwe",Pluto TV Kultfilme
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea088-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3418c444-a5b9-456d-9d11-e4e9c7b5eec0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/P9Zoa9L.png" group-title="Movie Shwe",Pluto TV Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i51xfAn.png" group-title="Movie Shwe",Pluto TV Movies (England) (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Movie Shwe",Pluto TV Novelas Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WJnHkEm.png" group-title="Movie Shwe",Pluto TV Novelas Thriller (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H9k3OXN.png" group-title="Movie Shwe",Pluto TV Reaction
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32aea123-3ab5-4713-944a-87ebeb334781
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/grmHcZs.png" group-title="Movie Shwe",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec799-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cee60e-49f2-4985-953a-f2cde441fe54
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gxipj7d.png" group-title="Movie Shwe",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d84357a9-e5ec-4c91-a037-9a426fa2cdff
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GJBxfyf.png" group-title="Movie Shwe",Pluto TV Romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1459-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195653a1-6a75-4cb6-b94d-0fe4a7594dba
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0jHyTvu.png" group-title="Movie Shwe",Pluto TV Romance (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zkl2Tin.png" group-title="Movie Shwe",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91571e99-b22e-454e-9622-6abd1ff79fd1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2nKPaeK.png" group-title="Movie Shwe",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Movie Shwe",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed62db1c-5556-4fa7-b231-9514fcc69832
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Movie Shwe",Pluto TV Spotlight
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JzwO8IO.png" group-title="Movie Shwe",Pluto TV Staff Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Movie Shwe",Pluto TV Telemundo Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Movie Shwe",Pluto TV Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7idSqx.png" group-title="Movie Shwe",Pluto TV Thrillers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b27ed94e-1347-4dd0-af99-b2e901fd5e71
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="Movie Shwe",Pluto TV Westerns
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wGH6shZ.png" group-title="Movie Shwe",Polsat Film (1080p)
+http://109.233.89.166/Polsat_Film_HD/index.m3u8
+
+****************************************************
+
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",ช่อง MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 
