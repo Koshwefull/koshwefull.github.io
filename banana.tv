@@ -532,34 +532,91 @@ http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_SI9IV9ZUtX0A6LzXfJn6Is/ts
 #EXTINF:-1 xui-id="186" tvg-id="" tvg-name="ANTV" tvg-logo="https://www.dropbox.com/scl/fi/q6m7zunpcrlo0wuu6e405/2_20231013_173633_0000.jpg?rlkey=fpzlkprsj5dllf6gyjb0mpel5&dl=1" group-title="Indo & Malay",ANTV
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_Q_c4AfTRQdwNssFnN2OHas/ts
 #EXTINF:-1 xui-id="345" tvg-id="AstroPremierLeague" tvg-name="EPL 1" tvg-logo="https://www.dropbox.com/scl/fi/xca7a7eipd4uljtxibecg/20230815_175357_0000.jpg?rlkey=c3vbvcdb1zst465178i5j7ews&dl=1" group-title="Football",EPL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_Ufah6mVWVM-I8MPI-QAirM/ts
 #EXTINF:-1 xui-id="146" tvg-id="" tvg-name="Suria (SG)" tvg-logo="https://www.dropbox.com/scl/fi/sr9u9ipvrvnt7gpu6ulxh/Untitled-design_20231022_215447_0000.jpg?rlkey=4a8nywm8jp8ehxqt1o8k7l1an&dl=1" group-title="Indo & Malay",Suria (SG)
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_QLvxhSKqEoL8TWu2GGzeoc/ts
 #EXTINF:-1 xui-id="346" tvg-id="AstroPremierLeague2" tvg-name="EPL 2" tvg-logo="https://www.dropbox.com/scl/fi/mcgsow7ovllfkf3gqsrvx/20230815_180141_0000.jpg?rlkey=t0cspz8367irxx9bow6evqgqp&dl=1" group-title="Football",EPL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_ZKsl85WzcjoRtWMyHn148s/ts
 #EXTINF:-1 xui-id="643" tvg-id="AstroGrandstand" tvg-name="EPL 3" tvg-logo="https://www.dropbox.com/scl/fi/cztke51s99pkhgwmaq0zg/20230815_180320_0000.jpg?rlkey=16c6o33zs5lyzvsuejjtfmnqx&dl=1" group-title="Football",EPL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_ZxE2hWj0l228yK34VAmSBo/ts
 #EXTINF:-1 xui-id="23048" tvg-id="AstroFootball" tvg-name="EPL 4" tvg-logo="https://www.dropbox.com/scl/fi/crodji3jp2o0b5ffpv218/20230815_180515_0000.jpg?rlkey=uos23l8dqqtv08anj3y291s4e&dl=1" group-title="Football",EPL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_QIf-3nHI4XMK4He0ElbbJc/ts
 #EXTINF:-1 xui-id="651" tvg-id="AstroPremierLeague3" tvg-name="EPL 5 (Live HD)" tvg-logo="https://www.dropbox.com/scl/fi/u1fp2v4z93eh5lgmebf48/20230829_183203_0000.jpg?rlkey=lfkna6qn3fisxm71hpqac131w&dl=1" group-title="Football",EPL 5 (Live HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_ctGZhcp6xRVFKbSHn--Hjw/ts
 #EXTINF:-1 xui-id="117" tvg-id="" tvg-name="EPL 5 SD" tvg-logo="https://www.dropbox.com/scl/fi/tgs0kqh0r46vyeunee1yj/20231001_202941_0000.jpg?rlkey=okp4edtlyl9amkq3olw7f7rjq&dl=1" group-title="Football",EPL 5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_ULoLrJvQbGhSxcMdY7-Log/ts
 #EXTINF:-1 xui-id="555" tvg-id="TV1" tvg-name="EPL 6" tvg-logo="https://www.dropbox.com/scl/fi/qbqu0p9y3ppoyjtcn92yj/20230815_181945_0000.jpg?rlkey=71y33xnhzlgvrhxd281zoegw8&dl=1" group-title="Football",EPL 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_QUs10OcIDWjr97uetcXvBA/ts
 #EXTINF:-1 xui-id="605" tvg-id="" tvg-name="EPL 7" tvg-logo="https://www.dropbox.com/scl/fi/nc1prud3qiiyujuhcwjbv/20230815_182237_0000.jpg?rlkey=3qtfabuu2sez2sja4wtwa09c6&dl=1" group-title="Football",EPL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_fqd847BFm9C8e5arivstg8/ts
 #EXTINF:-1 xui-id="35606" tvg-id="" tvg-name="SerieA 1" tvg-logo="https://www.dropbox.com/scl/fi/nigkl44dgblqdo003bpsf/Photo-Jan-22-2025-4-49-41-PM.png?rlkey=tzd7tw9ce9y7qg1htl1sm329w&st=bzd5ynzh&dl=1" group-title="Football",SerieA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_QaylFEnvpvxa53OobZQrVg/ts
 #EXTINF:-1 xui-id="35607" tvg-id="" tvg-name="SerieA 2" tvg-logo="https://www.dropbox.com/scl/fi/nigkl44dgblqdo003bpsf/Photo-Jan-22-2025-4-49-41-PM.png?rlkey=tzd7tw9ce9y7qg1htl1sm329w&st=bzd5ynzh&dl=1" group-title="Football",SerieA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_T8w27w8qzWWd0RFQ7D3z4E/ts
-#EXTINF:-1 xui-id="7143" tvg-id="" tvg-name="M Sport HD 1  (Live EPL only)" tvg-logo="https://www.dropbox.com/scl/fi/uahh7liiytf7tmg6z4vmp/Photo-Nov-10-2024-6-37-14-PM.jpg?rlkey=hfjuwbnyhwzbi3zlqotii2b9o&st=8owmr2xd&dl=1" group-title="Football",M Sport HD 1  (Live EPL only)
+#EXTINF:-1 xui-id="7143" tvg-id="" tvg-name="M Sport HD 1  (Live EPL only)" tvg-logo="https://www.dropbox.com/scl/fi/uahh7liiytf7tmg6z4vmp/Photo-Nov-10-2024-6-37-14-PM.jpg?rlkey=hfjuwbnyhwzbi3zlqotii2b9o&st=8owmr2xd&dl=1" group-title="Football",M Sport HD 1 
+(Live EPL only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_R46LMGrVkhW6_f6mRiH_yI/ts
 #EXTINF:-1 xui-id="29818" tvg-id="" tvg-name="M Sport HD 2 EPL" tvg-logo="https://www.dropbox.com/scl/fi/g6jcvtruzp82u38u36593/Photo-Nov-10-2024-6-41-18-PM.jpg?rlkey=m40ta7iwvjay1oryf427q0foa&st=wfobg7mi&dl=1" group-title="Football",M Sport HD 2 EPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_YWeyMDcq8Zij3Kgje8prhk/ts
 #EXTINF:-1 xui-id="29819" tvg-id="" tvg-name="M Sport EPL 1 (Live Only)" tvg-logo="https://www.dropbox.com/scl/fi/fz7n54ul35mc6aij1xqze/Photo-Nov-10-2024-6-50-08-PM.jpg?rlkey=h0c4mykgfpxvqytxu4y6ni9o7&st=lirm037e&dl=1" group-title="Football",M Sport EPL 1 (Live Only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_YTOzLN9MqdIQBpQQFlfgzE/ts
 #EXTINF:-1 xui-id="29820" tvg-id="" tvg-name="M Sport EPL 2 (Live Only)" tvg-logo="https://www.dropbox.com/scl/fi/cdekej69ob9apdzzxm3mn/Photo-Nov-10-2024-6-45-05-PM.jpg?rlkey=13715pc6iq0e91rw1tyy13vhg&st=3iby6rmr&dl=1" group-title="Football",M Sport EPL 2 (Live Only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_cGoFpfjo_QOTdENKZS_Lc4/ts
 #EXTINF:-1 xui-id="348" tvg-id="" tvg-name="M Sport UCL 1" tvg-logo="https://www.dropbox.com/scl/fi/4hgfuy1eid7jkwxz3k2m4/Photo-Nov-11-2024-12-09-43-PM.jpg?rlkey=3n3ia9vhwsba2szyjfcn4xs7l&st=qremvp0x&dl=1" group-title="Football",M Sport UCL 1
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_UypOPke79VJ9uaDq94V_rM/ts
@@ -1142,7 +1199,7 @@ http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_Ue9zRUph6N5X3SfgpRqge0/ts
 #EXTINF:-1 xui-id="30338" tvg-id="" tvg-name="RTM 1" tvg-logo="" group-title="Indo & Malay",RTM 1
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_REaxTPcWw3ELQAF6x2JNwQ/ts
 #EXTINF:-1 xui-id="30339" tvg-id="" tvg-name="RTM Okey" tvg-logo="" group-title="Indo & Malay",RTM Okey
-http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_WmYNI5UyQ5ZYWQ-4kTkhMo/ts
+http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_WmYNI5UyQ5ZYWQ-4kTkhMo/tsí
 #EXTINF:-1 xui-id="30340" tvg-id="" tvg-name="RTM 2" tvg-logo="" group-title="Indo & Malay",RTM 2
 http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_bgBbNHwue36qhUG7fPnTRc/ts
 #EXTINF:-1 xui-id="30347" tvg-id="" tvg-name="Ch7 PP" tvg-logo="" group-title="test",Ch7 PP
@@ -1365,7 +1422,7 @@ http://bananatv.org:25461/play/wD5w2YD7hq6Fv6Bet2RxDJrWvw0_4HOqHoO_kK287dg#.mp4
 http://bananatv.org:25461/play/wD5w2YD7hq6Fv6Bet2RxDExj1YQdrmEoWFAdqTqU2Xk#.mp4
 #EXTINF:-1 xui-id="232" tvg-name="Netrikann (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkh1Ho7maLu3Yu-BL7HrzCQsjUQYUyHhsXEZrPdRaiVg.jpg" group-title="India",Netrikann (2021)
 http://bananatv.org:25461/play/wD5w2YD7hq6Fv6Bet2RxDMQBQPBMIM7ewBzrLhO0XYg#.mp4
-#EXTINF:-1 xui-id="233" tvg-name="Bhuj: The Pride of India (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLemAXBDIOLjWIIfuhr81vUd4JMqWglfW6Damq6rjstoE.jpg" group-title="India",Bhuj: The Pride of India (2021)
+#EXTINF:-1 xui-id="233" tvg-name="Bhuj: The Pride of India (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLemAXBDIOLjWIIfuhr81vUd4JMqWglfW6Damq6rjstoE.jupg" group-title="India",Bhuj: The Pride of India (2021)
 http://bananatv.org:25461/play/wD5w2YD7hq6Fv6Bet2RxDEiCr_yktzzpBOkXiNvFLuU#.mp4
 #EXTINF:-1 xui-id="234" tvg-name="Ghibah (2021)" tvg-logo="http://bananatv.org:25461/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLji3_A2wtRNwT312nQvd79jxUnbZ4yNNbDrNfsrR49Eo.jpg" group-title="Asian",Ghibah (2021)
 http://bananatv.org:25461/play/wD5w2YD7hq6Fv6Bet2RxDHZRdofghorlXg3fjdGKXA4#.mp4
