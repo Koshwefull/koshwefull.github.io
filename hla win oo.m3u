@@ -1,0 +1,358 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="espn.nz" tvg-name="|NZ| SKY ESPN ???" tvg-logo="https://pbs.twimg.com/profile_images/629268708620431360/lS_hY3As_400x400.jpg" group-title="|NZ| NEW ZEALAND",|NZ| SKY ESPN ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579815
+
+#EXTINF:-1 tvg-ID="espn2.nz" tvg-name="|NZ| SKY ESPN 2 ???" tvg-logo="https://pbs.twimg.com/profile_images/629268708620431360/lS_hY3As_400x400.jpg" group-title="|NZ| NEW ZEALAND",|NZ| SKY ESPN 2 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579814
+
+#EXTINF:-1 tvg-ID="skysport1.nz" tvg-name="|NZ| SKY SPORTS 1 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 1 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579826
+
+#EXTINF:-1 tvg-ID="skysport2.nz" tvg-name="|NZ| SKY SPORTS 2 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 2 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579825
+
+#EXTINF:-1 tvg-ID="skysport3.nz" tvg-name="|NZ| SKY SPORTS 3 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 3 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579824
+
+#EXTINF:-1 tvg-ID="eden.nz" tvg-name="|NZ| SKY SPORTS Premier League ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS Premier League ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579819
+
+#EXTINF:-1 tvg-ID="skysportselect.nz" tvg-name="|NZ| SKY SPORTS Select ???" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wfd0yt1642607115.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS Select ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579817
+
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL PLAY 1" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="|FR| NETFLIX | CANALPLAY",|FR| CANAL PLAY 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10337
+
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL PLAY 2" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="|FR| NETFLIX | CANALPLAY",|FR| CANAL PLAY 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10338
+
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL PLAY 3" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="|FR| NETFLIX | CANALPLAY",|FR| CANAL PLAY 3
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10339
+
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="|UK| SKY NATURE ???" tvg-logo="http://138.199.27.237:8080/UK/SKY-Nature.png" group-title="|UK|  DOCUMENTARY",|UK| SKY NATURE ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/76147
+
+#EXTINF:-1 tvg-ID="goltv.us" tvg-name="|US|  GOL TV ??? 1080" tvg-logo="http://138.199.27.237:8080/USA/GOLF.png" group-title="|US| SPORTS NETWORK",|US|  GOL TV ??? 1080
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54230
+
+#EXTINF:-1 tvg-ID="fightnetwork.us" tvg-name="|US| FIGHT NETWORK" tvg-logo="http://138.199.27.237:8080/USA/FIGHTNETWORK.png" group-title="|US| SPORTS NETWORK",|US| FIGHT NETWORK
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54240
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Bellator MMA" tvg-logo="" group-title="|US| PLUTO TV",US | Bellator MMA
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246970
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Baywatch" tvg-logo="" group-title="|US| BOX OFFICE 24/7",24/7 Baywatch
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419275
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| UFC Channel" tvg-logo="http://138.199.27.237:8080/USA/UFC.png" group-title="|US| UFC NETWORK",|US| UFC Channel
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/156530
+
+#EXTINF:-1 tvg-ID="" tvg-name="EN | DAZN FIFA CUP HD EN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/2015_FIFA_Club_World_Cup.svg/1200px-2015_FIFA_Club_World_Cup.svg.png" group-title="|UK| SPORTS",EN | DAZN FIFA CUP HD EN
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1390353
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 1" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="|UK| HUB SPORTS",|UK| HUB SPORTS 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/280827
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 2" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="|UK| HUB SPORTS",|UK| HUB SPORTS 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/280828
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HUB SPORTS 3" tvg-logo="http://138.199.27.237:8080/UK/HUBSPORTS.png" group-title="|UK| HUB SPORTS",|UK| HUB SPORTS 3
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/280829
+
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|UK| beIN Sports 2" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"
+
+#EXTINF:-1 tvg-ID="elevensports.us" tvg-name="|US| ELEVEN SPORTS ??" tvg-logo="http://138.199.27.237:8080/PORTUGAL/ELEVENSPORTS.png" group-title="|US| SPORTS NETWORK",|US| ELEVEN SPORTS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13133
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| Fox Sports Soccer ?? US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports Soccer ?? US
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/197342
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US|PREMIERE 1" tvg-logo="http://138.199.27.237:8080/USA/PREMIERSPORT.png" group-title="|US| PREMIERE SPORT",|US|PREMIERE 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/195286
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US|PREMIERE 2" tvg-logo="http://138.199.27.237:8080/USA/PREMIERSPORT.png" group-title="|US| PREMIERE SPORT",|US|PREMIERE 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/195287
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US|PREMIERE 3" tvg-logo="http://138.199.27.237:8080/USA/PREMIERSPORT.png" group-title="|US| PREMIERE SPORT",|US|PREMIERE 3
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/195288
+
+#EXTINF:-1 tvg-ID="golfchannel.us" tvg-name="|US| GOLF CHANNEL" tvg-logo="http://138.199.27.237:8080/USA/GOLF.png" group-title="|US| SPORTS NETWORK",|US| GOLF CHANNEL
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13136
+
+#EXTINF:-1 tvg-ID="atandtsportsnetsouthwest.us" tvg-name="|US| TSN Sport 1 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3522.png" group-title="|US| SPORTS NETWORK",|US| TSN Sport 1 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12350
+
+#EXTINF:-1 tvg-ID="comcastsnynewyorksportsnet.us" tvg-name="|US| TSN Sport 2 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3523.png" group-title="|US| SPORTS NETWORK",|US| TSN Sport 2 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12351
+
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="|UK| ITV ?? 3" tvg-logo="http://138.199.27.237:8080/UK/ITV3.png" group-title="|UK| KINGDOM",|UK| ITV ?? 3
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10572
+
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="|UK| ITV ?? 2" tvg-logo="http://138.199.27.237:8080/UK/ITV2.png" group-title="|UK| KINGDOM",|UK| ITV ?? 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10573
+
+#EXTINF:-1 tvg-ID="itv1angliaplus1.uk" tvg-name="|UK|  ITV+1" tvg-logo="http://138.199.27.237:8080/UK/ITV1.png" group-title="|UK| KINGDOM",|UK|  ITV+1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/91949
+
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 1 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303258
+
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="|UK| PREMIER SPORTS 2 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 2 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303257
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK | Saudi Pro League" tvg-logo="https://www.gaveanews.com/wp-content/uploads/Saudi-Pro-League.png" group-title="|UK| SPORTS",UK | Saudi Pro League
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/969125
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK | Saudi Pro League" tvg-logo="https://www.gaveanews.com/wp-content/uploads/Saudi-Pro-League.png" group-title="|UK| SPORTS",UK | Saudi Pro League
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/969124
+
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="|UK| MUTV ??" tvg-logo="http://138.199.27.237:8080/UK/MUTV.png" group-title="|UK| UK SD",|UK| MUTV ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205877
+
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="|UK|  LIVERPOOL TV" tvg-logo="http://138.199.27.237:8080/UK/LIVERPOOL.png" group-title="|UK| SPORTS",|UK|  LIVERPOOL TV
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/77412
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BEIN SPORT 2" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| SPORTS",|UK| BEIN SPORT 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/403758
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BEIN SPORT 3" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| SPORTS",|UK| BEIN SPORT 3
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/403759
+
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| BEIN SPORT" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| SPORTS",|UK| BEIN SPORT
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/403757
+
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|UK| BEIN SPORTS ?? EN 1" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| BEIN SPORT",|UK| BEIN SPORTS ?? EN 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/73973
+
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|UK| BEIN SPORTS ?? EN 2" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| BEIN SPORT",|UK| BEIN SPORTS ?? EN 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/73974
+
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 3 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 3 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54885
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| BEIN SPORTS EN ESPANOL ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="|US| SPORTS NETWORK",|US| BEIN SPORTS EN ESPANOL ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/280694
+
+#EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="|US| Fox Sports 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/3513.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13148
+
+#EXTINF:-1 tvg-ID="foxsports2.us" tvg-name="|US| Fox Sports 2 US" tvg-logo="http://138.199.27.237:8080/0tv_logo/3514.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 2 US
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11148
+
+#EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="|US| Fox Sports 1 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3513.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 1 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13134
+
+#EXTINF:-1 tvg-ID="foxsports2.us" tvg-name="|US| Fox Sports 2 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3514.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 2 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13135
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| Fox Sports YES Network ?? US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports YES Network ?? US
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/197352
+
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="|US| ESPN USA" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="|US| SPORTS NETWORK",|US| ESPN USA
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11203
+
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="|US| ESPN 2 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="|US| SPORTS NETWORK",|US| ESPN 2 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11204
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA  | 01 - Belgium vs Italy 5:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA  | 01 - Belgium vs Italy 5:00pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311725
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA  | 02- Spain vs Portugal 8:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA  | 02- Spain vs Portugal 8:00pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311726
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 03 - Slovenia U21 vs Czechia U21 8:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 03 - Slovenia U21 vs Czechia U21 8:00pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311727
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 04 - Netherlands vs Scotland 7:30pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 04 - Netherlands vs Scotland 7:30pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311728
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 05 - Jagiellonia vs Real Betis 5:45pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 05 - Jagiellonia vs Real Betis 5:45pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311729
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 06 - Fiorentina vs Celje 5:45pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 06 - Fiorentina vs Celje 5:45pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311730
+
+#EXTINF:-1 tvg-ID="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ??? 50FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS 1 ??? 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303270
+
+#EXTINF:-1 tvg-ID="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ??? 50 FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS 2 ??? 50 FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303271
+
+#EXTINF:-1 tvg-ID="tntsports3.uk" tvg-name="|UK| TNT SPORTS  3 ??? 50FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS  3 ??? 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303255
+
+#EXTINF:-1 tvg-ID="tntsports4.uk" tvg-name="|UK| TNT SPORTS  4 ??? 50FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS  4 ??? 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303256
+
+#EXTINF:-1 tvg-ID="tntsports5.uk" tvg-name="|UK| TNT SPORT  5" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORT  5
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/968928
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 1 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 1 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304468
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 2 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 2 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304469
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 3 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 3 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304470
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 4 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 4 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304471
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 5 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 5 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304472
+
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ???" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="|UK| SPORTS",|UK| SKY SPORTS PREMIER LEAGUE ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/50272
+
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAUGE 50FPS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="|UK| SPORTS",|UK| SKY SPORTS PREMIER LEAUGE 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303269
+
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL  ???" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| SPORTS",|UK| SKY SPORTS FOOTB
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV HORROR" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV HORROR
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246634
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV THRILLERS" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV THRILLERS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246633
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV ACTION" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV ACTION
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246630
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV MOVIES" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV MOVIES
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246629
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV ADVENTURE" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV ADVENTURE
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246627
+
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="|UK| SKY CINEMA THRILLER ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMATHRILLER.png" group-title="|UK| UK SD",|UK| SKY CINEMA THRILLER ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205872
+
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="|UK| SKY CINEMA PREMIER ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMAPREMIER.png" group-title="|UK| UK SD",|UK| SKY CINEMA PREMIER ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205873
+
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="|UK| SKY CINEMA GREATS ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMAGREATS.png" group-title="|UK| UK SD",|UK| SKY CINEMA GREATS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205869
+
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="|UK| SKY CINEMA SCIFI HORROR ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMASCI-FI.png" group-title="|UK| UK SD",|UK| SKY CINEMA SCIFI HORROR ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205868
+
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="|UK| SKY CINEMA SELECT ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMASELECT.png" group-title="|UK| UK SD",|UK| SKY CINEMA SELECT ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205866
+
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="|UK| SKY CINEMA HITS ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMAHITS.png" group-title="|UK| UK SD",|UK| SKY CINEMA HITS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205865
+
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="|UK| SKY CINEMA ACTION ??" tvg-logo="http://138.199.27.237:8080/UK/SKYCINEMAACTION.png" group-title="|UK| UK SD",|UK| SKY CINEMA ACTION ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205864
+
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="|UK| TCM ??" tvg-logo="http://138.199.27.237:8080/UK/TCM.png" group-title="|UK| KINGDOM",|UK| TCM ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10567
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Pluto TV Thrillers" tvg-logo="" group-title="|US| PLUTO TV",US | Pluto TV Thrillers
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246773
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Pluto TV Terror" tvg-logo="" group-title="|US| PLUTO TV",US | Pluto TV Terror
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246775
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Pluto TV Horror" tvg-logo="" group-title="|US| PLUTO TV",US | Pluto TV Horror
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246774
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Pluto TV Crime Movies" tvg-logo="" group-title="|US| PLUTO TV",US | Pluto TV Crime Movies
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246772
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Pluto TV Action" tvg-logo="" group-title="|US| PLUTO TV",US | Pluto TV Action
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246766
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Mission Impossible" tvg-logo="" group-title="|US| PLUTO TV",US | Mission Impossible
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246919
+
+#EXTINF:-1 tvg-ID="amc.us" tvg-name="|US| AMC ??" tvg-logo="http://138.199.27.237:8080/USA/AMCHD.png" group-title="|US| MOVIES NETWORK",|US| AMC ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11194
+
+#EXTINF:-1 tvg-ID="americanheroeschannel.us" tvg-name="|US| American Heroes Channel" tvg-logo="http://185.165.243.195/logo_plus/USA/AMERICANHEROCHANNELHD.png" group-title="|US| ENTERTAINMENT NETWORK",|US| American Heroes Channel
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11193
+
+#EXTINF:-1 tvg-ID="bbcamerica.us" tvg-name="|US| BBC AMERICA" tvg-logo="http://138.199.27.237:8080/USA/BBCAmerica.png" group-title="|US| MOVIES NETWORK",|US| BBC AMERICA
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13085
+
+#EXTINF:-1 tvg-ID="fxx.us" tvg-name="|US| FXX" tvg-logo="http://138.199.27.237:8080/0tv_logo/3531.png" 
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="||UK|| FOX NEWS" tvg-logo="http://138.199.27.237:8080/UK/FOX.png" group-title="|UK| KINGDOM",||UK|| FOX NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13640
+
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| ALJAZEERA NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|UK| KINGDOM",|UK| ALJAZEERA NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13644
+
+#EXTINF:-1 tvg-ID="newsnation.us" tvg-name="|US| NEWS NATION HD" tvg-logo="" group-title="|US| NEWS NETWORK",|US| NEWS NATION HD
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1262308
+
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|US| FRANCE 24 (English)" tvg-logo="http://138.199.27.237:8080/USA/FRANCE24.png" group-title="|US| NEWS NETWORK",|US| FRANCE 24 (English)
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54270
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
+
+#EXTINF:-1 tvg-ID="dwenglishl.us" tvg-name="|US| DW" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="|US| NEWS NETWORK",|US| DW
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75367
+
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="|UK| ANIMAL PLANT ???" tvg-logo="http://138.199.27.237:8080/UK/ANIMALPLANETHD.png" group-title="|UK|  DOCUMENTARY",|UK| ANIMAL PLANT ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/58613
+
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="|UK| ANIMAL PLANET ??" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|UK|  DOCUMENTARY",|UK| ANIMAL PLANET ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10549
+
+#EXTINF:-1 tvg-ID="nauticalchannel.uk" tvg-name="|UK| NAUTICAL CHANNEL" tvg-logo="http://138.199.27.237:8080/UK/NAUTICALCHANNEL.png" group-title="|UK|  DOCUMENTARY",|UK| NAUTICAL CHANNEL
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/309464
+
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="|UK| NAT GEO WILD ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|UK|  DOCUMENTARY",|UK| NAT GEO WILD ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10550
+
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="|UK| NAT GEO WILD ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|UK|  DOCUMENTARY",|UK| NAT GEO WILD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/58611
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV ANIMALS" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV ANIMALS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246722
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| GHOST HUNTERS" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| GHOST HUNTERS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246660
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOVE NATURE  ???" tvg-logo="" group-title="|UK|  DOCUMENTARY",|UK| LOVE NATURE  ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/264338
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
+
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo2
+
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|US| FRANCE 24 (English)" tvg-logo="http://138.199.27.237:8080/USA/FRANCE24.png" group-title="|US| NEWS NETWORK",|US| FRANCE 24 (English)
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/5427001/pk6o5g2s9o/54268
+
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|US| SKY NEWS AMERICA ??" tvg-logo="http://138.199.27.237:8080/USA/SKYNEWS.png" group-title="|US| NEWS NETWORK",|US| SKY NEWS AMERICA ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75411
+
+#EXTINF:-1 tvg-ID="cnn.us" tvg-name="|US| CNN ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13154
+
+#EXTINF:-1 tvg-ID="tvone.uk" tvg-name="|UK| RTE ONE ??" tvg-logo="http://138.199.27.237:8080/UK/RTEONE.png" group-title="|UK| KINGDOM",|UK| RTE ONE ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10495
+
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="||UK|| FOX NEWS" tvg-logo="http://138.199.27.237:8080/UK/FOX.png" group-title="|UK| KINGDOM",||UK|| FOX NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13640
+
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|UK| EURONEWS" tvg-logo="http://138.199.27.237:8080/UK/EURONEWS.png" group-title="|UK| KINGDOM",|UK| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13638
+
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| ALJAZEERA NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|UK| KINGDOM",|UK| ALJAZEERA NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13644
+
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="|UK| BBC WORLD NEWS" tvg-logo="http://138.199.27.237:8080/UK/BBCNEWS.png" group-title="|UK| KINGDOM",|UK| BBC WORLD NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13645
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| BBC World News" tvg-logo="http://103.161.34.238/dreamtv/tv/BBCWorld.png" group-title="|US| NEWS NETWORK",|US| BBC World News
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/230835
+
+#EXTINF:-1 tvg-ID="foxnews.us" tvg-name="|US| FOX NEWS. ???." tvg-logo="http://138.199.27.237:8080/USA/FOXNEWSHD.png" group-title="|US| NEWS NETWORK",|US| FOX NEWS. ???.
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/22169
