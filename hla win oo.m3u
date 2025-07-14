@@ -799,4 +799,35 @@ http://dkipi.com:80/36897712172961/32794904576547/40485
 #EXTINF:-1 tvg-id="ext" group-title="AR❖ BEIN MEDIA 4K",BEIN: MOVIES 3 HD
 http://dkipi.com:80/36897712172961/32794904576547/40486
 
+#EXTGRP:Спорт
+http://ott.watch/stream/D3FX33QMIH1/333.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",TV 3 Sport HD LT
 
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Van Damme
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289099
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Vin Diesel
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289097
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Will Smith
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289098
+
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Sylvester Stallone Rambo
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289101
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Milla Jovovich
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289111
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Johnny Depp
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289114
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Jackie Chan
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289119
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Jason Statham
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289117
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR JET LLI
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289115
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Bruce Willis
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289123
+#EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Denzel Washington
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289122
