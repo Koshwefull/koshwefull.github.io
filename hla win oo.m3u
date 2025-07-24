@@ -527,12 +527,6 @@ http://dkipi.com:80/36897712172961/32794904576547/194513
 http://dkipi.com:80/36897712172961/32794904576547/194515
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="ext" group-title="AR❖ BEIN MEDIA 4K",BEIN: MOVIES 1 HD
 http://dkipi.com:80/36897712172961/32794904576547/40484
 
@@ -743,9 +737,6 @@ http://dkipi.com:80/36897712172961/32794904576547/194513
 #EXTINF:-1 tvg-id="ext" group-title="AR❖ UEFA SPORT 4K",UEFA 3 HD
 http://dkipi.com:80/36897712172961/32794904576547/194515
 
-
-
-
 #EXTGRP:Спорт
 http://ott.watch/stream/D3FX33QMIH1/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
@@ -847,9 +838,6 @@ http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289115
 http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289123
 #EXTINF:-1 tvg-id="ext" group-title="|AR| NETFLIX",AR Denzel Washington
 http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/1289122
-
-
-
 
 http://ott.watch/stream/D3FX33QMIH1/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
@@ -1486,3 +1474,381 @@ http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24038
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24037
 #EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport3.png" group-title="EURO | CROATIA",CRO: ARENA SPORT 3
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/240
+
+
+#EXTINF:-1 tvg-id="FIFA.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/g0BccBJ5/IMG-2292.png", FIFA Plus 
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Goal.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/QtZLwyXN/IMG-2346.png", Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 tvg-id="Realmadrid.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GpNRBHb9/IMG-2493.png", Real Madrid TV
+https://shorturl.at/v4P0h
+
+#EXTINF:-1 tvg-id="Barcelona.uk" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png", Top Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena.cz" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/59ZdJpVQ/IMG-2942.png", Arena Sport 1
+https://stream1.freetv.fun/arena-sport-1-2.ctv
+
+#EXTINF:-1 tvg-id="Dsports.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Qx02gCBx/IMG-2761.png", DSports 
+http://38.211.242.128:8001/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-id="SSC.cz" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/QxwQfKF8/IMG-2837.png", SSC 1
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
+
+
+#EXTINF:-1 tvg-id="Sports.db" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RZXTyWbg/IMG-2284.png", Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-id="Sports.db" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/DzS1NBGz/IMG-2285.png", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="Sports.db" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zGVLD3Gt/IMG-2286.png", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="SCL.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/brpCVmqb/IMG-2787.png", Strongman Champions league 
+https://tinyurl.com/3cx6wmdm
+
+#EXTINF:-1 tvg-id="UFC.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp", UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="France24.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5t7VKhvW/IMG-2682.png", France 24
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+
+#EXTINF:-1 tvg-id="DW.gr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.png", DW En
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/ZRX02B3m/IMG-2686.png", Al Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#EXTINF:-1 tvg-id="BBC.cn" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Kzv35v22/IMG-1948.png", BBC World News 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/hvgm5x6D/IMG-2117.png", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8zTkSnj4/IMG-2254.png", FOX News
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3Ns0rNzT/IMG-2315.png", LiveNow from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Hollywood.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/1tdzd6JK/IMG-2303.png", Action Hollywood Movies 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Miramax.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5tNz40VZ/IMG-2795.png", Miramax Movies 
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tubi.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/0NB1KL5n/IMG-2435.png", Moviesphere 
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/vm4p52mZ/IMG-2775.png", Universal Movies 
+https://tinyurl.com/235wj9yp
+
+#EXTINF:-1 tvg-id="HBO.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/pXRYBBYz/IMG-2364.png", HBO2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Pxm2VTXK/IMG-2366.png", CINEMAX
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Newid.kr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/tgZY1ck4/IMG-2189.png", KMOVIES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | PORTUGAL",PT: SPORT TV +
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/29668
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | PORTUGAL",PT: SPORT TV 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24984
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | PORTUGAL",PT: SPORT TV 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24982
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | PORTUGAL",PT: SPORT TV 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24980
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | PORTUGAL",PT: SPORT TV 4
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24979
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | PORTUGAL",PT: SPORT TV 5
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24978
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/Sport_tv_6.png" group-title="PT | PORTUGAL",PT: SPORT TV 6
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/29669
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25024
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25025
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25026
+
+
+
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT",PL: CANAL+ SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10129
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/23826
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="PL | SPORT",PL: CANAL+ SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/23832
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="LAME | BRAZIL",BR: SPORTV 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10675
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="LAME | BRAZIL",BR: SPORTV 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10674
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://docdog.top/logo/countries/brazil/sportv3.png" group-title="LAME | BRAZIL",BR: SPORTV 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10673
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/a-spor-tr.png" group-title="EURO | TURKISH",TR: A SPOR
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57836
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="EURO | TURKISH",TR: S SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58012
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="EURO | TURKISH",TR: S SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58013
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR 1" tvg-logo="" group-title="EURO | TURKISH",TR: SMART SPOR 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58052
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 1" tvg-logo="" group-title="EURO | TURKISH",TR: Saran Sport 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58017
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 2" tvg-logo="" group-title="EURO | TURKISH",TR: Saran Sport 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58018
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/trt-spor-tr.png" group-title="EURO | TURKISH",TR: TRT SPOR
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58081
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="EURO | TURKISH",TR: BEIN SPORTS 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57821
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="EURO | TURKISH",TR: BEIN SPORTS 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57822
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="EURO | TURKISH",TR: BEIN SPORTS 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57823
+
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8111
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT",FR: CANAL+ SPORT 360
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25959
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8008
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8006
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8298
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1 HD
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57554
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT",FR: BEIN SPORTS 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8299
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8300
+
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="FR | SPORT",FR: RMC SPORT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8338
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT",FR: RMC SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8339
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="FR: RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="FR | SPORT",FR: RMC SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8340
+
+#EXTINF:-1 tvg-id="FIFA.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/g0BccBJ5/IMG-2292.png", FIFA Plus 
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Goal.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/QtZLwyXN/IMG-2346.png", Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 tvg-id="Realmadrid.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GpNRBHb9/IMG-2493.png", Real Madrid TV
+https://shorturl.at/v4P0h
+
+#EXTINF:-1 tvg-id="Barcelona.uk" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png", Top Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena.cz" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/59ZdJpVQ/IMG-2942.png", Arena Sport 1
+https://stream1.freetv.fun/arena-sport-1-2.ctv
+
+#EXTINF:-1 tvg-id="Dsports.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Qx02gCBx/IMG-2761.png", DSports 
+http://38.211.242.128:8001/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-id="SSC.cz" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/QxwQfKF8/IMG-2837.png", SSC 1
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
+
+
+#EXTINF:-1 tvg-id="Sports.db" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RZXTyWbg/IMG-2284.png", Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 tvg-id="Sports.db" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/DzS1NBGz/IMG-2285.png", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="Sports.db" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zGVLD3Gt/IMG-2286.png", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="SCL.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/brpCVmqb/IMG-2787.png", Strongman Champions league 
+https://tinyurl.com/3cx6wmdm
+
+#EXTINF:-1 tvg-id="UFC.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp", UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="France24.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5t7VKhvW/IMG-2682.png", France 24
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+
+#EXTINF:-1 tvg-id="DW.gr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.png", DW En
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Aljazeera.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/ZRX02B3m/IMG-2686.png", Al Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#EXTINF:-1 tvg-id="BBC.cn" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Kzv35v22/IMG-1948.png", BBC World News 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/hvgm5x6D/IMG-2117.png", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8zTkSnj4/IMG-2254.png", FOX News
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3Ns0rNzT/IMG-2315.png", LiveNow from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Hollywood.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/1tdzd6JK/IMG-2303.png", Action Hollywood Movies 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Miramax.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5tNz40VZ/IMG-2795.png", Miramax Movies 
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tubi.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/0NB1KL5n/IMG-2435.png", Moviesphere 
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/vm4p52mZ/IMG-2775.png", Universal Movies 
+https://tinyurl.com/235wj9yp
+
+#EXTINF:-1 tvg-id="HBO.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/pXRYBBYz/IMG-2364.png", HBO2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Pxm2VTXK/IMG-2366.png", CINEMAX
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Newid.kr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/tgZY1ck4/IMG-2189.png", KMOVIES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | PORTUGAL",PT: SPORT TV +
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/29668
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | PORTUGAL",PT: SPORT TV 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24984
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | PORTUGAL",PT: SPORT TV 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24982
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | PORTUGAL",PT: SPORT TV 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24980
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | PORTUGAL",PT: SPORT TV 4
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24979
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | PORTUGAL",PT: SPORT TV 5
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/24978
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/Sport_tv_6.png" group-title="PT | PORTUGAL",PT: SPORT TV 6
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/29669
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25024
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25025
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | PORTUGAL",PT: ELEVEN SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25026
+
+
+
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT",PL: CANAL+ SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10129
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT",PL: CANAL+ SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/23826
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="PL | SPORT",PL: CANAL+ SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/23832
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="LAME | BRAZIL",BR: SPORTV 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10675
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="LAME | BRAZIL",BR: SPORTV 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10674
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://docdog.top/logo/countries/brazil/sportv3.png" group-title="LAME | BRAZIL",BR: SPORTV 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/10673
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/a-spor-tr.png" group-title="EURO | TURKISH",TR: A SPOR
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57836
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="EURO | TURKISH",TR: S SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58012
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="EURO | TURKISH",TR: S SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58013
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR 1" tvg-logo="" group-title="EURO | TURKISH",TR: SMART SPOR 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58052
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 1" tvg-logo="" group-title="EURO | TURKISH",TR: Saran Sport 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58017
+#EXTINF:-1 tvg-id="" tvg-name="TR: Saran Sport 2" tvg-logo="" group-title="EURO | TURKISH",TR: Saran Sport 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58018
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/trt-spor-tr.png" group-title="EURO | TURKISH",TR: TRT SPOR
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/58081
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="EURO | TURKISH",TR: BEIN SPORTS 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57821
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="EURO | TURKISH",TR: BEIN SPORTS 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57822
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="EURO | TURKISH",TR: BEIN SPORTS 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57823
+
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8111
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT",FR: CANAL+ SPORT 360
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25959
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8008
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8006
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8298
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1 HD
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57554
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT",FR: BEIN SPORTS 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8299
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8300
+
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="FR | SPORT",FR: RMC SPORT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8338
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT",FR: RMC SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8339
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="FR: RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="FR | SPORT",FR: RMC SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8340j
+
