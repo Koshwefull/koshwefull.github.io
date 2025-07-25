@@ -2215,3 +2215,102 @@ http://vlue.life:80/live/Amia4029@/snzLttrWzS/506934.m3u8
 http://vlue.life:80/live/Amia4029@/snzLttrWzS/506935.m3u8
 
 
+#EXTINF:-1,CO: ESPN COLOMBIA
+http://206.212.244.71:8080/5467546/3648794/86765
+
+
+#EXTINF:-1 tvg-id="Bein.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zfDNbnp7/IMG-2011.png", Bein Sports
+https://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/xdjDpL1X/IMG-2488.png", Bein Sports xtra 
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bein.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/2y77tL65/IMG-2490.png", Bein Sports xtra esp
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png", ESPN
+https://stream1.freetv.fun/espn-6.ctv
+
+#EXTINF:-1 tvg-id="ESPN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/gcTBS4yX/IMG-2607.png", ESPN 2
+http://143.244.60.30/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/sD3kgp5w/IMG-2497.png", ESPN U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png", Fox Sports 1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/dVR1rDMd/IMG-2105.png", Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1 tvg-id="Astro.uk" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/SsFqsF1w/IMG-2881.png", Astro Premier League
+https://live.catvod.com/smart.php?id=go_assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Astro.uk" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/wxF8KmHK/IMG-2880.webp", Astro Premier League 2
+https://live.catvod.com/smart.php?id=go_assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Astro.uk" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/xCcH0m7s/IMG-2879.png", Astro Football 
+https://live.catvod.com/smart.php?id=go_assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FW.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/CxNv6nGZ/IMG-1838.png", T Sport 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png", CH7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png", PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+
+#EXTINF:-1 tvg-id="True4U.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png", True 4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN.es" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/cJBBcmBj/IMG-2357.png", AXN Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH APEHA" tvg-logo="https://docdog.top/logo/countries/russian/matchapeha.png" group-title="EURO | RUSSIAN",RUS: MATCH APEHA
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52011
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH ARENA" tvg-logo="https://docdog.top/logo/countries/russian/matcharena.png" group-title="EURO | RUSSIAN",RUS: MATCH ARENA
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52012
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH BOX" tvg-logo="https://docdog.top/logo/countries/russian/MATCHBOX.jpg" group-title="EURO | RUSSIAN",RUS: MATCH BOX
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52013
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOLL 1" tvg-logo="https://docdog.top/logo/countries/russian/MATCHFUTBOLL1.png" group-title="EURO | RUSSIAN",RUS: MATCH FUTBOLL 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52014
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOLL 2" tvg-logo="https://docdog.top/logo/countries/russian/MATCHFUTBOLL2.png" group-title="EURO | RUSSIAN",RUS: MATCH FUTBOLL 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52015
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOLL 3" tvg-logo="https://docdog.top/logo/countries/russian/index.png" group-title="EURO | RUSSIAN",RUS: MATCH FUTBOLL 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52016
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH GAME" tvg-logo="https://docdog.top/logo/countries/russian/MATCHGAME.png" group-title="EURO | RUSSIAN",RUS: MATCH GAME
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52017
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH IGRA" tvg-logo="https://docdog.top/logo/countries/russian/matchigra.png" group-title="EURO | RUSSIAN",RUS: MATCH IGRA
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52018
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH OUR SPORTS" tvg-logo="https://docdog.top/logo/countries/russian/MATCHOURSPORTS.png" group-title="EURO | RUSSIAN",RUS: MATCH OUR SPORTS
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52019
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH PLANET" tvg-logo="https://docdog.top/logo/countries/russian/matchplanet.png" group-title="EURO | RUSSIAN",RUS: MATCH PLANET
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52020
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH PREMIERE" tvg-logo="https://docdog.top/logo/countries/russian/MATCHPREMIERE.png" group-title="EURO | RUSSIAN",RUS: MATCH PREMIERE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52021
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH SPORTS" tvg-logo="https://docdog.top/logo/countries/russian/matchsports.png" group-title="EURO | RUSSIAN",RUS: MATCH SPORTS
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/52022
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX" tvg-logo="https://docdog.top/logo/countries/india/sony-six-hd-in.png" group-title="ASIA | INDIA",IN: SONY SIX
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53628
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 1" tvg-logo="https://docdog.top/logo/countries/india/sony-ten-1-in.png" group-title="ASIA | INDIA",IN: SONY TEN 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53629
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 2" tvg-logo="https://docdog.top/logo/countries/india/sony-ten-2-in.png" group-title="ASIA | INDIA",IN: SONY TEN 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53630
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 3" tvg-logo="https://docdog.top/logo/countries/india/sony-ten-3-in.png" group-title="ASIA | INDIA",IN: SONY TEN 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53631
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="ASIA | INDIA",IN: STAR SPORTS SELECT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53650
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="ASIA | INDIA",IN: STAR SPORTS SELECT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53651
