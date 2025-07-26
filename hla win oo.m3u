@@ -2597,3 +2597,134 @@ http://vlue.life:80/live/Amia4029@/snzLttrWzS/424706.m3u8
 http://vlue.life:80/live/Amia4029@/snzLttrWzS/424843.m3u8
 #EXTINF:-1,IN | Eng: Movies Now FHD
 http://vlue.life:80/l
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="ASIA | INDIA",IN: STAR SPORTS SELECT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53650
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="ASIA | INDIA",IN: STAR SPORTS SELECT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/53651
+
+#EXTINF:-1,IN | Sport: Star Sports Select 1 Eng HD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/424696.m3u8
+#EXTINF:-1,IN | Sport: Star Sports Select 2 Eng HD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/424697.m3u8
+
+
+#EXTINF:-1,IT: RAI NEWS 24 VIP
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/376804.m3u8
+
+
+
+#EXTINF:-1,PT: RTP 1 HD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/486906.m3u8
+
+#EXTINF:-1,ES: GOL TV
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/497212.m3u8
+
+#EXTINF:-1,IT: SKY SPORT SERIE A VIP
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/376734.m3u8
+
+
+#EXTINF:-1,IT: SKY SPORT FOOTBALL VIP
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/376731.m3u8
+
+#EXTINF:-1,IT: SPORT ITALIA VIP
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/376739.m3u8
+#EXTINF:-1,IT: SPORT ITALIA +24 VIP
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/376740.m3u8
+
+#EXTINF:-1,FR: RMC SPORT 1
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/496892.m3u8
+
+
+#EXTINF:-1,IN: Star Sports Select 1 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/424521.m3u8
+
+
+
+#EXTINF:-1,IN: Star Sports Select 2 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/424523.m3u8
+
+#EXTINF:-1,IN: STAR SPORTS Select 1 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425228.m3u8
+#EXTINF:-1,IN: STAR SPORTS Select 2 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425229.m3u8
+
+
+#EXTINF:-1,YES: YES Sport 1 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425653.m3u8
+#EXTINF:-1,YES: YES Sport 2 HD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425654.m3u8
+#EXTINF:-1,YES: YES Sport 3 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425655.m3u8
+#EXTINF:-1,YES: YES Sport 4 FHD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425656.m3u8
+#EXTINF:-1,YES: YES Sport 5 HD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425657.m3u8
+#EXTINF:-1,YES: YES Sport 5 Live HD [ Live Match ]
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/425658.m3u8
+
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MYANMAR TV",ABA SHWE 124
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/lV7WEVs.png", Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="MYANMAR TV",BUDDHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_ZS2Dvz0Gq-cdQ1xqcZMB6o/ts
+#http://bananatv.org:25461/play/io48MTZ8AZonwo4DSXWl_ZS2Dvz0Gq-cdQ1xqcZMB6o/ts
+#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", Mahar TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png", MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w31827482.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDU6NTM6NDAgQU0maGFzaF92YWx1ZT1pV3FzL1c1eSs2SmFZVFRlckE2SmFRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEx
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MRTV-4.png/revision/latest?cb=20220604135321", MRTV-4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w1248025825.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDE6MDQ6MTUgUE0maGFzaF92YWx1ZT1JOHZ2MWV5eXF3aTBHd0V6NUZuUEVRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrVf6cgFB6RoZAOuoCVYWt4siAG8bQkuPdwL6ZLAG6wmlNqM3PpIVgTzEcFs1LCRbNIw&usqp=CAU", MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-hluttaw-mm.png", MRTV Parliament
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/5plus.jpg", 5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m9Oj7qzR8JESDiS1qppOtJryjEXDl7qR-JzY4F5DF42w=s900-c-k-c0x00ffffff-no-rj", Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3lZYNo_oMyK_uYPv6OIb3OenTqkRbImwc5-vFrI8TrZd0P1wYN2FfsOMseLp4qiozw&usqp=CAU", Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png", MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg", MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://media.licdn.cn/dms/image/C4D0BAQEnCuEUhzaOzQ/company-logo_200_200/0/1520275067936?e=2159024400&v=beta&t=LtWp94VnKmBzGCajTkFMksodoGxGFzNOvb0PMHsGGPs", MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg", Channel 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3410378a394640eb86502983c88f1369:4d86374689bfe39f402b99e8999c3683
+https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_9/output2/index.mpd
+#https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_9/outpu/index.mpd
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/MM5evnD.png", FortuneTV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/ClmWqE5.png", FortuneTV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", MWD
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/uqrXcWB.png", YTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e79f41754e43699341208b2d46829e:38c27f941b00f015210813b8392ac505
+https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd
+#https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/5aLFslk.jpg", MRTV NEW
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/uqrXcWB.pg", DVB NWE
+https://live-stream.dvb.no/hls/stream_low/index.m3u8
