@@ -37,6 +37,21 @@ http://103.120.172.74:1030
 http://103.120.172.74:4700
 
 
+#EXTINF:-1 ,True Premier 1
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 ,True Premier 2
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 ,True Premier 3
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 ,True Premier 4
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 ,True Sports 1
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 ,True Sports 2
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 ,True Sports 3
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL PLAY 1" tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="|FR| NETFLIX | CANALPLAY",|FR| CANAL PLAY 1
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10337
 
