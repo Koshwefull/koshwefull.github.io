@@ -76,6 +76,57 @@ http://filex.me:8080/000003/000003/500255
 http://filex.me:8080/000003/000003/247155
 #EXTINF:-1,IN | SONY SPORTS 2 4K
 http://filex.me:8080/000003/000003/247156
+
+#EXTM3U#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ᵁᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256123
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256629
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL FOOT ᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256631
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ˢᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ˢᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256121
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR|  CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="|FR| CANAL+ SPORT",|FR|  CANAL+ SPORT 360 ᵁᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256628
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ Sport 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ Sport 360 ᵁᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256124
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ SPORT360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ SPORT360 ᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256630
+#EXTINF:-1 tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ Sport 360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ Sport 360 ᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256122
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR|  CANAL+ SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="|FR| CINEMA",|FR|  CANAL+ SPORT ᵁᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/32774
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ SPORT ᵁᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250679
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| Canal+ Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="|FR| CANAL+ SPORT",|FR| Canal+ Sport ᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/250
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL  SPORT ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/CANALSPORT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL  SPORT ˢᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12885
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR|  CANAL+ PREMIER LEAGUE ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="|FR| CANAL+ SPORT",|FR|  CANAL+ PREMIER LEAGUE ᵁᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/115870
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ PREMIER LEAGUE ᴴᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/114146
+#EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE ˢᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ PREMIER LEAGUE ˢᴰ
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/115874
+
+#EXTINF:-1,Canel Extra 1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9841.ts
+ 
+#EXTINF:-1,Canel Extra 2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9843.ts
+ 
+#EXTINF:-1,Canel Extra 3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9845.ts
+ 
+#EXTINF:-1,Canel Extra 4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/9847.ts
+ 
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN SPORTS 1 EN 4K" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="beIN Sports 4K ⚽",beIN SPORTS 1 EN 4K
+http://forevertv.me:2095/1234578/Wq6wdahq497563/142781
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN SPORTS 2 EN 4K" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="beIN Sports 4K ⚽",beIN SPORTS 2 EN 4K
+http://forevertv.me:2095/1234578/Wq6wdahq497563/142782
+
+
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-na
 #EXTINF:-1,IN | SONY SPORTS 3 4K
 http://filex.me:8080/000003/000003/247157
 
@@ -83,3 +134,4 @@ http://filex.me:8080/000003/000003/247157
 http://filex.me:8080/000003/000003/247161
 #EXTINF:-1,IN | STAR SPORTS SELECT 2 FHD
 http://filex.me:8080/000003/000003/247162
+
