@@ -133,5 +133,47 @@ http://filex.me:8080/000003/000003/247157
 #EXTINF:-1,IN | STAR SPORTS SELECT 1 FHD
 http://filex.me:8080/000003/000003/247161
 #EXTINF:-1,IN | STAR SPORTS SELECT 2 FHD
-http://filex.me:8080/000003/000003/247162
+http://filex.me:8080/000003/000003/24716http
 
+
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN SPORTS 1 English FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="beIN Sports FHD ⚽",beIN SPORTS 1 English FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/71054
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN SPORTS 2 English FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="beIN Sports FHD ⚽",beIN SPORTS 2 English FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/71055
+
+
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="SERIE A 1 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD1.png" group-title="beIN Sports FHD ⚽",SERIE A 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/164551
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="SERIE A 2 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD2.png" group-title="beIN Sports FHD ⚽",SERIE A 2 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/202005
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="Serei A 2 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD2.png" group-title="beIN Sports FHD ⚽",Serei A 2 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/202004
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT 1 HD" tvg-logo="http://194.163.160.164/STARZPLAY/STARZPLAY.SPORT1.png" group-title="STARZ PLAY",STARZPLAY SPORT 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302939
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT 2 HD" tvg-logo="http://194.163.160.164/STARZPLAY/STARZPLAY.SPORT2.png" group-title="STARZ PLAY",STARZPLAY SPORT 2 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302940
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT ASIA 1 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.ASIA1.png" group-title="STARZ PLAY",AD SPORT ASIA 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302941
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT ASIA 2 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.ASIA2.png" group-title="STARZ PLAY",AD SPORT ASIA 2 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302942
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 1 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM1.HD.png" group-title="STARZ PLAY",AD SPORT PREMUIM 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302949
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 1  4K" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM1.4K.png" group-title="STARZ PLAY",AD SPORT PREMUIM 1  4K
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302950
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 2 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM2.HD.png" group-title="STARZ PLAY",AD SPORT PREMUIM 2 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302951
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 2 4K" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM2.4K.png" group-title="STARZ PLAY",AD SPORT PREMUIM 2 4K
+http://forevertv.me:2095/1234578/Wq6wdahq497563/302952
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORTS" tvg-logo="http://194.163.160.164/STARZPLAY/STARZPLAY.SPORTS.png" group-title="STARZ PLAY",STARZPLAY SPORTS
+http://forevertv.me:2095/1234578/Wq6wdahq497563/306382
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY Premier League" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" group-title="UK Sports",UK: SKY Premier League
+http://forevertv.me:2095/1234578/Wq6wdahq497563/103647
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="UK Sports",UK: Sky Sports Arena FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/166293
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="UK Sports",UK: SKY SPORTS FOOTBALL
+http://forevertv.me:2095/1234578/Wq6wdahq497563/103652
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="UK Sports",UK: SKY SPORTS FOOTBALL HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/103653
