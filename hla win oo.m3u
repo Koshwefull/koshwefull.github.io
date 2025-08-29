@@ -273,3 +273,62 @@ http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
 http://ott.watch/stream/D3FX33QMIH1/390.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 1 Baltic
+
+http://ott.watch/stream/D3FX33QMIH1/461.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 1
+
+http://ott.watch/stream/D3FX33QMIH1/391.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 2
+#EXTGRP:Спорт
+http://ott.watch/stream/D3FX33QMIH1/392.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 3 HD
+
+http://ott.watch/stream/D3FX33QMIH1/393.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 4
+
+http://ott.watch/stream/D3FX33QMIH1/394.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Sport 5 HD
+
+http://ott.watch/stream/D3FX33QMIH1/212.m3u8
+
+
+http://ott.watch/stream/D3FX33QMIH1/178.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viju+ Sport HD
+http://ott.watch/stream/D3FX33QMIH1/333.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",TV 3 Sport HD LT
+
+#EXTINF:-1,AF: SUPERSPORT PREMIER LEAGUE
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/423977.m3u8
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="🔴SONY(OTT)",SONY TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="🔴SONY(OTT)", SONY TEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN- Star Sports Select 1 HD" tvg-logo="http://www.vod-logo.net/photos/0fd2842de38cb92a4889bcddc7f95867.jpg" group-title="IND. General / भारतीय जनरल",IN- Star Sports Select 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33356
+
+#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
+http://filex.me:8080/000003/000003/52100
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
+http://103.120.172.74:4700
+
+#EXTINF:-1 tvg-ID="atandtsportsnetsouthwest.us" tvg-name="|US| TSN Sport 1 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3522.png" group-title="|US| SPORTS NETWORK",|US| TSN Sport 1 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12350
+
+#EXTINF:-1 tvg-ID="comcastsnynewyorksportsnet.us" tvg-name="|US| TSN Sport 2 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3523.png" group-title="|US| SPORTS NETWORK",|US| TSN Sport 2 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12351
+
+
+EXTINF:-1,CO: ESPN COLOMBIA
+http://206.212.244.71:8080/5467546/3648794/86765
+
