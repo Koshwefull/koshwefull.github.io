@@ -563,5 +563,46 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11204
 http://top102856-4k.org:80/abderahimkangoo201/
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 1 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 1 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304468
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 2 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 2 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304469
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 3 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 3 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304470
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 4 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 4 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304471
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 5 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 5 ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304472
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ???" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="|UK| SPORTS",|UK| SKY SPORTS PREMIER LEAGUE ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/50272
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAUGE 50FPS" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="|UK| SPORTS",|UK| SKY SPORTS PREMIER LEAUGE 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303269
+
+
+#EXTINF:-1 tvg-id="Astro.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/SsFqsF1w/IMG-2881.png", Astro Premier League
+https://live.catvod.com/smart.php?id=go_assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/wxF8KmHK/IMG-2880.webp", Astro Premier League 2
+https://live.catvod.com/smart.php?id=go_assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/xCcH0m7s/IMG-2879.png", Astro Football 
+https://live.catvod.com/smart.php?id=go_assp4/playlist.m3u8
+#EXTINF:-1 ,True Premier 1
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 ,True Premier 2
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 ,True Premier 3
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 ,True Premier 4
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 ,True Sports 1
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 ,True Sports 2
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 ,True Sports 3
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
+
 
 
