@@ -332,3 +332,65 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12351
 EXTINF:-1,CO: ESPN COLOMBIA
 http://206.212.244.71:8080/5467546/3648794/86765
 
+#EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="|US| Fox Sports 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/3513.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13148
+
+#EXTINF:-1 tvg-ID="foxsports2.us" tvg-name="|US| Fox Sports 2 US" tvg-logo="http://138.199.27.237:8080/0tv_logo/3514.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 2 US
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11148
+#EXTINF:-1 tvg-ID="goltv.us" tvg-name="|US|  GOL TV ??? 1080" tvg-logo="http://138.199.27.237:8080/USA/GOLF.png" group-title="|US| SPORTS NETWORK",|US|  GOL TV ??? 1080
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54230
+
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ??" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| UK SD",|UK| SKY SPORTS FOOTBALL ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205924
+
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 1 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303258
+
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="|UK| PREMIER SPORTS 2 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 2 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303257
+
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 3 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 3 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54885
+
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="NL- Ziggo Sport Extra 1 HD" tvg-logo="http://www.vod-logo.net/photos/15a8ca74fc26e58e0c26c644a14b0a6c.jpg" group-title="Netherlands",NL- Ziggo Sport Extra 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33471
+#EXTINF:-1 tvg-id="ziggosportextra2.nl" tvg-name="NL- Ziggo Sport Extra 2" tvg-logo="http://www.vod-logo.net/photos/f25a308f8e6dfe78684c3f771ee11b7d.jpg" group-title="Netherlands",NL- Ziggo Sport Extra 2
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33472
+
+#EXTINF:-1 tvg-id="" tvg-name="Ro- Digi Sport 1 HD" tvg-logo="http://www.vod-logo.net/photos/52ec543832518c5d3128cd6fa2ec0a36.jpg" group-title="Romania",Ro- Digi Sport 1 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33423
+#EXTINF:-1 tvg-id="" tvg-name="Ro- Digi Sport 2 HD" tvg-logo="http://www.vod-logo.net/photos/1d8d750cc255929b495a9ff5bb7ab64e.jpg" group-title="Romania",Ro- Digi Sport 2 HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33424
+#EXTINF:-1 tvg-id="" tvg-name="Ro- Digi Sport 3" tvg-logo="http://www.vod-logo.net/photos/c779c83dfdf3ec0ccb445551551789c6.jpg" group-title="Romania",Ro- Digi Sport 3
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33425
+
+#EXTINF:-1 tvg-id="" tvg-name="[SE] TV4 Fotboll" tvg-logo="" group-title="Sweden / svenska",[SE] TV4 Fotboll
+http://forevertv.me:2095/1234578/Wq6wdahq497563/467556
+
+#EXTINF:-1,HR: Arena Sport 1
+http://filex.me:8080/000003/000003/317325
+#EXTINF:-1,HR: Arena Sport 2
+http://filex.me:8080/000003/000003/317326
+#EXTINF:-1,HR: Arena Sport 3
+http://filex.me:8080/000003/000003/317327
+
+#EXTINF:-1,BE: ELEVEN SPORTS 1
+http://filex.me:8080/000003/000003/317612
+#EXTINF:-1,BE: ELEVEN SPORTS 2
+http://filex.me:8080/000003/000003/317613
+#EXTINF:-1,BE: ELEVEN SPORTS 3
+http://filex.me:8080/000003/000003/317614
+
+#EXTINF:-1,BE: Play Sports 1
+http://filex.me:8080/000003/000003/317631
+#EXTINF:-1,BE: Play Sports 2
+http://filex.me:8080/000003/000003/317632
+#EXTINF:-1,BE: Play Sports 3
+http://filex.me:8080/000003/000003/317633
+
+#EXTINF:-1,AL: SuperSport 1
+http://filex.me:8080/000003/000003/304013
+#EXTINF:-1,AL: SuperSport 2
+http://filex.me:8080/000003/000003/304014
+#EXTINF:-1,AL: SuperSport 3
+http://filex.me:8080/000003/000003/304015
