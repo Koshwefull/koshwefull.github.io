@@ -77,7 +77,8 @@ http://filex.me:8080/000003/000003/247155
 #EXTINF:-1,IN | SONY SPORTS 2 4K
 http://filex.me:8080/000003/000003/247156
 
-#EXTM3U#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ᵁᴴᴰ
+#EXTM3U
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ᵁᴴᴰ
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256123
 #EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256629
