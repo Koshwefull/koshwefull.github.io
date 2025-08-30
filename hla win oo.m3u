@@ -1,4 +1,4 @@
-#EXTM3U
+ယ#EXTM3U
 
 #EXTINF:-1,Astro Sport1
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/6663.ts
@@ -388,9 +388,71 @@ http://filex.me:8080/000003/000003/317632
 #EXTINF:-1,BE: Play Sports 3
 http://filex.me:8080/000003/000003/317633
 
+#EXTINF:-1,Eleven Sport SD1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5413.ts
+ 
+#EXTINF:-1,Eleven Sport SD2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/5415.ts
+ 
+#EXTINF:-1,Canel Sport SD1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8122.ts
+ 
+#EXTINF:-1,Canel Sport SD5
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/8126.ts
+ 
+#EXTINF:-1,Arena Sport1
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10442.ts
+ 
+#EXTINF:-1,Arena Sport2
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10444.ts
+ 
+#EXTINF:-1,Arena Sport3
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10446.ts
+ 
+#EXTINF:-1,Arena Sport4
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10448.ts
+ 
+#EXTINF:-1,Arena Sport8
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10455.ts
+ 
+#EXTINF:-1,Arena Sport9
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10456.ts
+ 
+#EXTINF:-1,Arena Sport10
+http://xu.port360.xyz:8080/metin-5/p3NHWHu/10443.ts
+
+#EXTINF:-1,UFC FIGHT HD (1)
+http://filex.me:8080/000003/000003/509255
+#EXTINF:-1,UFC FIGHT HD (2)
+http://filex.me:8080/000003/000003/509256
+
+#EXTINF:-1,TNT SPOTS 1 HD
+http://filex.me:8080/000003/000003/529243
+#EXTINF:-1,TNT SPOTS 2 HD
+http://filex.me:8080/000003/000003/529247
+#EXTINF:-1,TNT SPOTS 3 HD
+http://filex.me:8080/000003/000003/529251
+
+#EXTINF:-1,A SPORTS FHD
+http://filex.me:8080/000003/000003/247168
+#EXTINF:-1,FAST SPORTS HD
+http://filex.me:8080/000003/000003/247169
+#EXTINF:-1,PTV SPORTS FHD
+http://filex.me:8080/000003/000003/247170
+#EXTINF:-1,TEN SPORTS FHD
+http://filex.me:8080/000003/000003/247171
+
+#EXTINF:-1 tvg-id="Bar?a TV" tvg-name="ES: BARCA TV" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="ES | DEPORTES",ES: BARCA TV
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/5560
+#EXTINF:-1 tvg-id="0" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ES | DEPORTES",ES: REAL MADRID TV
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/5729
+
+
 #EXTINF:-1,AL: SuperSport 1
 http://filex.me:8080/000003/000003/304013
 #EXTINF:-1,AL: SuperSport 2
 http://filex.me:8080/000003/000003/304014
 #EXTINF:-1,AL: SuperSport 3
 http://filex.me:8080/000003/000003/304015
+
+
