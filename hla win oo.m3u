@@ -341,7 +341,7 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11148
 #EXTINF:-1 tvg-ID="goltv.us" tvg-name="|US|  GOL TV ??? 1080" tvg-logo="http://138.199.27.237:8080/USA/GOLF.png" group-title="|US| SPORTS NETWORK",|US|  GOL TV ??? 1080
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54230
 
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ??" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| UK SD",|UK| SKY SPORTS FOOTBALL ??
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ??" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| UK SD",|UK| SskyskysY SPORTS FOOTBALL ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205924
 
 #EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 1 ???
@@ -457,3 +457,64 @@ http://filex.me:8080/000003/000003/304014
 http://filex.me:8080/000003/000003/304015
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA  | 01 - Belgium vs Italy 5:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA  | 01 - Belgium vs Italy 5:00pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311725
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA  | 02- Spain vs Portugal 8:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA  | 02- Spain vs Portugal 8:00pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311726
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 03 - Slovenia U21 vs Czechia U21 8:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 03 - Slovenia U21 vs Czechia U21 8:00pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311727
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 04 - Netherlands vs Scotland 7:30pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 04 - Netherlands vs Scotland 7:30pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311728
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 05 - Jagiellonia vs Real Betis 5:45pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 05 - Jagiellonia vs Real Betis 5:45pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311729
+
+#EXTINF:-1 tvg-ID="" tvg-name="UEFA | 06 - Fiorentina vs Celje 5:45pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA | 06 - Fiorentina vs Celje 5:45pm
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311730
+
+#EXTINF:-1 tvg-ID="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ??? 50FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS 1 ??? 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303270
+
+#EXTINF:-1 tvg-ID="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ??? 50 FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS 2 ??? 50 FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303271
+
+#EXTINF:-1 tvg-ID="tntsports3.uk" tvg-name="|UK| TNT SPORTS  3 ??? 50FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS  3 ??? 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303255
+
+#EXTINF:-1 tvg-ID="tntsports4.uk" tvg-name="|UK| TNT SPORTS  4 ??? 50FPS" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORTS  4 ??? 50FPS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303256
+
+#EXTINF:-1 tvg-ID="tntsports5.uk" tvg-name="|UK| TNT SPORT  5" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| SPORTS",|UK| TNT SPORT  5
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/968928
+
+
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| SPORTS ARABIC",|SPO| AD SPORT 3 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/50159
+#EXTINF:-1 tvg-ID="fightnetwork.us" tvg-name="|US| FIGHT NETWORK" tvg-logo="http://138.199.27.237:8080/USA/FIGHTNETWORK.png" group-title="|US| SPORTS NETWORK",|US| FIGHT NETWORK
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54240
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | Bellator MMA" tvg-logo="" group-title="|US| PLUTO TV",US | Bellator MMA
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246970
+#EXTINF:-1 tvg-ID="" tvg-name="|US| UFC Channel" tvg-logo="http://138.199.27.237:8080/USA/UFC.png" group-title="|US| UFC NETWORK",|US| UFC Channel
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/156530
+
+#EXTINF:-1 tvg-ID="" tvg-name="EN | DAZN FIFA CUP HD EN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/2015_FIFA_Club_World_Cup.svg/1200px-2015_FIFA_Club_World_Cup.svg.png" group-title="|UK| SPORTS",EN | DAZN FIFA CUP HD EN
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1390353
+
+#EXTINF:-1 tvg-ID="espn.nz" tvg-name="|NZ| SKY ESPN ???" tvg-logo="https://pbs.twimg.com/profile_images/629268708620431360/lS_hY3As_400x400.jpg" group-title="|NZ| NEW ZEALAND",|NZ| SKY ESPN ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579815
+
+#EXTINF:-1 tvg-ID="espn2.nz" tvg-name="|NZ| SKY ESPN 2 ???" tvg-logo="https://pbs.twimg.com/profile_images/629268708620431360/lS_hY3As_400x400.jpg" group-title="|NZ| NEW ZEALAND",|NZ| SKY ESPN 2 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579814
+
+#EXTINF:-1 tvg-ID="skysport1.nz" tvg-name="|NZ| SKY SPORTS 1 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 1 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579826
+
+#EXTINF:-1 tvg-ID="skysport2.nz" tvg-name="|NZ| SKY SPORTS 2 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 2 ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579825
+
+#EXTINF:-1 tvg-ID="skys
