@@ -661,7 +661,9 @@ http://filex.me:8080/000003/000003/291227
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279310
 #EXTINF:-1 tvg-ID="bbcworldnewsnorthamerica.us" tvg-name="|US| BBC WORLD NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/BBCWORLDNEWS.png" group-title="|US| NEWS NETWORK",|US| BBC WORLD NEWS ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279309
-#EXTINF:-1 tvg-ID="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN INTERNATIONAL ??
+#EXTINF:-1 tvg-ID="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.group-title
+
+roup-title="|US| NEWS NETWORK",|US| CNN INTERNATIONAL ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279311
 #EXTINF:-1 tvg-ID="dwenglishl.us" tvg-name="|US| DW" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="|US| NEWS NETWORK",|US| DW
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75367
@@ -703,4 +705,70 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/230835
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 #EXTINF:-1 tvg-id="DW.gr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.
 
+
+#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BeIN BBC Earth HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.BBC.EARTH.HD.png" group-title="beIN Entertainment",BeIN BBC Earth HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/10723
+#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="BeIN National Geographic Wild FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.NATIONAL.GEOGRAPHIC.WILD.FHD.png" group-title="beIN Entertainment",BeIN National Geographic Wild FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/33609
+
+#EXTINF:-1,NL: ANIMAL PLANET
+http://filex.me:8080/000003/000003/303611
+#EXTINF:-1,NL: Love Nature
+http://filex.me:8080/000003/000003/303612
+#EXTINF:-1,NL: NAT GEO Wild
+http://filex.me:8080/000003/000003/303613
+
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="|UK| ANIMAL PLANT ???" tvg-logo="http://138.199.27.237:8080/UK/ANIMALPLANETHD.png" group-title="|UK|  DOCUMENTARY",|UK| ANIMAL PLANT ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/58613
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="|UK| ANIMAL PLANET ??" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|UK|  DOCUMENTARY",|UK| ANIMAL PLANET ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10549
+
+#EXTINF:-1 tvg-ID="nauticalchannel.uk" tvg-name="|UK| NAUTICAL CHANNEL" tvg-logo="http://138.199.27.237:8080/UK/NAUTICALCHANNEL.png" group-title="|UK|  DOCUMENTARY",|UK| NAUTICAL CHANNEL
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/309464
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="|UK| NAT GEO WILD ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|UK|  DOCUMENTARY",|UK| NAT GEO WILD ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10550
+
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="|UK| NAT GEO WILD ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|UK|  DOCUMENTARY",|UK| NAT GEO WILD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/58611
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV ANIMALS" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV ANIMALS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246722
+
+#EXTINF:-1 tvg-id="Xplore.us" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/c4qbpfNk/IMG-2820.png", Xplore
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="BBC.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/KvN6yXcp/IMG-1985.png", BBC Earth 
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+#EXTINF:-1 tvg-id="Natgeo.us" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/vZpcKfxJ/IMG-2120.png", Nat Geo Wild
+http://143.244.60.30/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="Wildearth.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/W11QN9hN/IMG-2020.png", Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-id="WildNature.ca" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/8C4ksyxP/IMG-2459.png", Wild Nature 
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/491.m3u8
+#EXTINF:-1 tvg-id="FW.th" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/J4GqNGr8/IMG-2532.png", Love Nature 
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.us" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/MTBsd4xz/IMG-2455.png", Animal Planet 
+https://fl5.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LOVE NATURE  ???" tvg-logo="" group-title="|UK|  DOCUMENTARY",|UK| LOVE NATURE  ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/264338
+#EXTINF:-1,NL: Love Nature HD
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/486097.m3u8
+#EXTINF:-1,NL: Love Nature 4K
+http://vlue.life:80/live/Amia4029@/snzLttrWzS/486098.m3u8
+#EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="|US| National Geographic Wild ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|US| ENTERTAINMENT NETWORK",|US| National Geographic Wild ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11171
+#EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="|US| Nat Geo Wild ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Nat Geo Wild ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13106
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="|US|  Nat Geo ??" tvg-logo="http://logodmtv.ddns.net/logo/5079.png" group-title="|US| ENTERTAINMENT NETWORK",|US|  Nat Geo ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11173
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="|US| Nat Geo ?? West" tvg-logo="http://138.199.27.237:8080/USA/NATGEOUSA.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Nat Geo ?? West
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/276023
+#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="|US| Animal Planet" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Ani
+
+#EXTINF:-1 tvg-id="natgeowild.sa" tvg-name="OSN National Geographic Wild FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NATIONAL.GEOGRAPHIC.WILD.png" group-title="OSN FHD",OSN National Geographic Wild FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/984
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet HD" tvg-logo="http://194.163.160.164/OSN/OSN.ANIMAL.PLANET.png" group-title="OSN FHD",OSN Animal Planet HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/2587
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA: LOVE NATURE HD" tvg-logo="http://luz20.com/logos/picon-canada/lovenature.png" group-title="Canada",CA: LOVE NATURE HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/87634
 
