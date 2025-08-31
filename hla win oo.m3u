@@ -604,5 +604,103 @@ https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 
 
+#EXTINF:-1,US: ABC News
+http://filex.me:8080/000003/000003/291227
+#EXTINF:-1 tvg-ID="aljazeeraenglish.qa" tvg-name="|US| AL JAZEERA ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|US| NEWS NETWORK",|US| AL JAZEERA ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279310
+#EXTINF:-1 tvg-ID="bbcworldnewsnorthamerica.us" tvg-name="|US| BBC WORLD NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/BBCWORLDNEWS.png" group-title="|US| NEWS NETWORK",|US| BBC WORLD NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279309
+#EXTINF:-1 tvg-ID="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN INTERNATIONAL ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279311
+#EXTINF:-1 tvg-ID="dwenglishl.us" tvg-name="|US| DW" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="|US| NEWS NETWORK",|US| DW
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75367
+#EXTINF:-1 tvg-id="dwenglishl.us" tvg-name="US- DW English" tvg-logo="https://i.ibb.co/S7QdSKp/Asset-1-8x.png" group-title="USA ",US- DW English
+http://forevertv.me:2095/1234578/Wq6wdahq497563/82429
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo2
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|US| FRANCE 24 (English)" tvg-logo="http://138.199.27.237:8080/USA/FRANCE24.png" group-title="|US| NEWS NETWORK",|US| FRANCE 24 (English)
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/5427001/pk6o5g2s9o/54268
+#EXTINF:-1 tvg-ID="foxnews.us" tvg-name="|US| FOX NEWS. ???." tvg-logo="http://138.199.27.237:8080/USA/FOXNEWSHD.png" group-title="|US| NEWS NETWORK",|US| FOX NEWS. ???.
+http://top102856-4k.org:80/abderahimkangoo201/pk6#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo2
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|US| SKY NEWS AMERICA ??" tvg-logo="http://138.199.27.237:8080/USA/SKYNEWS.png" group-title="|US| NEWS NETWORK",|US| SKY NEWS AMERICA ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75411
+#EXTINF:-1 tvg-ID="newsnation.us" tvg-name="|US| NEWS NATION HD" tvg-logo="" group-title="|US| NEWS NETWORK",|US| NEWS NATION HD
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1262308
+#EXTINF:-1 tvg-ID="tvone.uk" tvg-name="|UK| RTE ONE ??" tvg-logo="http://138.199.27.237:8080/UK/RTEONE.png" group-title="|UK| KINGDOM",|UK| RTE ONE ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10495
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RT NEWS ENGLISH" tvg-logo="http://194.163.160.164/NEWS/RT.png" group-title="News ",RT NEWS ENGLISH
+http://forevertv.me:2095/1234578/Wq6wdahq497563/395722
+#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TV5  Style HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDESTYLE.png" group-title="|FR| TNT HD",|FR| TV5  Style HD
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/2583
+#EXTINF:-1 tvg-id="cnninternationalna.ca" tvg-name="CA: CNN INTERNATIONAL HD" tvg-logo="https://i.ibb.co/qyW6WyP/Asset-2-8x.png" group-title="Canada",CA: CNN INTERNATIONAL HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/87596
+#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
+#EXTINF:-1 tvg-ID="cnn.us" tvg-name="|US| CNN ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13154
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="||UK|| FOX NEWS" tvg-logo="http://138.199.27.237:8080/UK/FOX.png" group-title="|UK| KINGDOM",||UK|| FOX NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13640
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|UK| EURONEWS" tvg-logo="http://138.199.27.237:8080/UK/EURONEWS.png" group-title="|UK| KINGDOM",|UK| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13638
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| ALJAZEERA NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|UK| KINGDOM",|UK| ALJAZEERA NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13644
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="|UK| BBC WORLD NEWS" tvg-logo="http://138.199.27.237:8080/UK/BBCNEWS.png" group-title="|UK| KINGDOM",|UK| BBC WORLD NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13645
+#EXTINF:-1 tvg-ID="" tvg-name="|US| BBC World News" tvg-logo="
+
+
+#EXTINF:-1,US: ABC News
+http://filex.me:8080/000003/000003/291227
+#EXTINF:-1 tvg-ID="aljazeeraenglish.qa" tvg-name="|US| AL JAZEERA ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|US| NEWS NETWORK",|US| AL JAZEERA ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279310
+#EXTINF:-1 tvg-ID="bbcworldnewsnorthamerica.us" tvg-name="|US| BBC WORLD NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/BBCWORLDNEWS.png" group-title="|US| NEWS NETWORK",|US| BBC WORLD NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279309
+#EXTINF:-1 tvg-ID="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN INTERNATIONAL ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279311
+#EXTINF:-1 tvg-ID="dwenglishl.us" tvg-name="|US| DW" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="|US| NEWS NETWORK",|US| DW
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75367
+#EXTINF:-1 tvg-id="dwenglishl.us" tvg-name="US- DW English" tvg-logo="https://i.ibb.co/S7QdSKp/Asset-1-8x.png" group-title="USA ",US- DW English
+http://forevertv.me:2095/1234578/Wq6wdahq497563/82429
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo2
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|US| FRANCE 24 (English)" tvg-logo="http://138.199.27.237:8080/USA/FRANCE24.png" group-title="|US| NEWS NETWORK",|US| FRANCE 24 (English)
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/5427001/pk6o5g2s9o/54268
+#EXTINF:-1 tvg-ID="foxnews.us" tvg-name="|US| FOX NEWS. ???." tvg-logo="http://138.199.27.237:8080/USA/FOXNEWSHD.png" group-title="|US| NEWS NETWORK",|US| FOX NEWS. ???.
+http://top102856-4k.org:80/abderahimkangoo201/pk6#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo2
+#EXTINF:-1 tvg-ID="newsnation.us" tvg-name="|US| NEWS NATION HD" tvg-logo="" group-title="|US| NEWS NETWORK",|US| NEWS NATION HD
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1262308
+
+#EXTINF:-1 tvg-id="" tvg-name="RT NEWS ENGLISH" tvg-logo="http://194.163.160.164/NEWS/RT.png" group-title="News ",RT NEWS ENGLISH
+http://forevertv.me:2095/1234578/Wq6wdahq497563/395722
+#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TV5  Style HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDESTYLE.png" group-title="|FR| TNT HD",|FR| TV5  Style HD
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/2583
+#EXTINF:-1 tvg-id="cnninternationalna.ca" tvg-name="CA: CNN INTERNATIONAL HD" tvg-logo="https://i.ibb.co/qyW6WyP/Asset-2-8x.png" group-title="Canada",CA: CNN INTERNATIONAL HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/87596
+#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
+#EXTINF:-1 tvg-ID="cnn.us" tvg-name="|US| CNN ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13154
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="||UK|| FOX NEWS" tvg-logo="http://138.199.27.237:8080/UK/FOX.png" group-title="|UK| KINGDOM",||UK|| FOX NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13640
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|UK| EURONEWS" tvg-logo="http://138.199.27.237:8080/UK/EURONEWS.png" group-title="|UK| KINGDOM",|UK| EURONEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13638
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| ALJAZEERA NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|UK| KINGDOM",|UK| ALJAZEERA NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13644
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="|UK| BBC WORLD NEWS" tvg-logo="http://138.199.27.237:8080/UK/BBCNEWS.png" group-title="|UK| KINGDOM",|UK| BBC WORLD NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13645
+#EXTINF:-1 tvg-ID="" tvg-name="|US| BBC World News" tvg-logo="http://103.161.34.238/dreamtv/tv/BBCWorld.png" group-title="|US| NEWS NETWORK",|US| BBC World News
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/230835
+#EXTINF:-1 tvg-id="France24.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5t7VKhvW/IMG-2682.png", France 24
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+#EXTINF:-1 tvg-id="DW.gr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.
 
 
