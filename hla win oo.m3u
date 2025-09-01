@@ -822,3 +822,57 @@ http://206.212.244.71:8080/5467546/3648794/2214
 #EXTINF:-1 tvg-ID="americanheroeschannel.us" tvg-name="|US| American Heroes Channel" tvg-logo="http://185.165.243.195/logo_plus/USA/AMERICANHEROCHANNELHD.png" group-title="|US| ENTERTAINMENT NETWORK",|US| American Heroes Channel
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11193
 
+#EXTINF:-1,IN | MOVIE NOW HD
+http://filex.me:8080/000003/000003/113
+#EXTINF:-1,IN | STAR MOVIES HD
+http://filex.me:8080/000003/000003/52223
+#EXTINF:-1,IN | STAR MOVIES SELECT ENGLISH HD
+http://filex.me:8080/000003/000003/52225
+#EXTINF:-1,IN | STAR MOVIES 4K
+http://filex.me:8080/000003/000003/275053
+#EXTINF:-1,IN | STAR MOVIES SELECT 4K
+http://filex.me:8080/000003/000003/275054
+#EXTINF:-1,IN | SONY PIX HD
+http://filex.me:8080/000003/000003/75
+#EXTINF:-1,IN | & PRIVE HD
+http://filex.me:8080/000003/000003/53043
+#EXTINF:-1,IN | & TV HD
+http://filex.me:8080/000003/000003/23
+#EXTINF:-1,IN | & FLIX HD
+http://filex.me:8080/000003/000003/55
+
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|US| SKY NEWS AMERICA ??" tvg-logo="http://138.199.27.237:8080/USA/SKYNEWS.png" group-title="|US| NEWS NETWORK",|US| SKY NEWS AMERICA ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75411
+#EXTINF:-1 tvg-ID="tvone.uk" tvg-name="|UK| RTE ONE ??" tvg-logo="http://138.199.27.237:8080/UK/RTEONE.png" group-title="|UK| KINGDOM",|UK| RTE ONE ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10495
+#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN Star Movies 4K" tvg-logo="https://i.ibb.co/BP0SjRS/Asset-23-24x.png" group-title="OSN 4K",OSN Star Movies 4K
+http://forevertv.me:2095/1234578/Wq6wdahq497563/207485
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="OSN Star World 4K" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.WORLD.png" group-title="OSN 4K",OSN Star World 4K
+http://forevertv.me:2095/1234578/Wq6wdahq497563/207505
+#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN Star Movies FHD" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.MOVIES.png" group-title="OSN FHD",OSN Star Movies FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/7697
+#EXTINF:-1 tvg-id="starworld.sa" tvg-name="OSN Star World FHD" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.WORLD.png" group-title="OSN FHD",OSN Star World FHD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/250
+
+#EXTINF:-1,AL: Netflix Aventure
+http://filex.me:8080/000003/000003/303810
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror HD Netflix Movies | نت فلكس افلام" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/NETFLIXMOVIES.png" group-title="Netflix Movies",Netflix Horror HD Netflix Movies | نت فلكس افلام
+http://forevertv.me:2095/1234578/Wq6wdahq497563/350192
+#EXTINF:-1 tvg-id="" tvg-name="Netflix James Bond 007" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/NETFLIXMOVIES.png" group-title="Netflix Movies",Netflix James Bond 007
+http://forevertv.me:2095/1234578/Wq6wdahq497563/349891
+
+#EXTINF:-1 tvg-ID="" tvg-name="US | The Walking Dead en espa�ol" tvg-logo="" group-title="|US| PLUTO TV",US | The Walking Dead en espa�ol
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/247022
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Harry Potter ??" tvg-logo="" group-title="|US| BOX OFFICE 24/7",24/7 Harry Potter ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419266
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 John Wick ???" tvg-logo="" group-title="|US| BOX OFFICE 24/7",24/7 John Wick ???
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419265
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Pirates of the Caribbean ??" tvg-logo="" group-title="|US| BOX OFFICE 24/7",24/7 Pirates of the Caribbean ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419268
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Baywatch" tvg-logo="" group-title="|US| BOX OFFICE 24/7",24/7 Baywatch
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419275
+
+#EXTINF:-1 tvg-id="" tvg-name="Arnold Schwarzenegger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Arnold_Schwarzenegger_by_Gage_Skidmore_4.jpg" group-title="English Cinema Stars ",Arnold Schwarzenegger
+http://forevertv.me:2095/1234578/Wq6wdahq497563/272929
+#EXTINF:-1 tvg-id="" tvg-name="Tom Cruies" tvg-logo="https://vz.cnwimg.com/thumb-1200x/wp-content/uploads/2009/09/tc.jpg" group-title="English Cinema Stars ",Tom Cruies
+http://forevertv.me:2095/1234578/Wq6wdahq497563/214629
