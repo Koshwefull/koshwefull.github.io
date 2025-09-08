@@ -1433,3 +1433,37 @@ http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/214378.mp4
 http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/260373.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR: Saw 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/harQifr8kpIVqlLP41kTR058LZB.jpg" group-title="AR| English Movies Previous-2015 |",AR: Saw 2004
 http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/260634.mp4
+
+#EXTINF:-1,I Am: Celine Dion (2024)
+http://206.212.244.71:8080/movie/5467546/3648794/216200.mp4
+
+#EXTINF:-1,NC: Mamma Mia Here We Go Again
+http://filex.me:8080/movie/000003/000003/315798.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="FR - Bohemian Rhapsody - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg" group-title="|FR| ZIGGO GO",FR - Bohemian Rhapsody - 2018
+http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/318463.mkv
+#EXTINF:-1,Beatles '64 (2024)
+http://bktv.xyz:8080/movie/Lilian3/Lil56/970461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN: Elton John Live: Farewell from Dodger Stadium" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbV1dyczIIGHbQIb1IeGTzm5D6a.jpg" group-title="EN | 2021-2022 Movies",EN: Elton John Live: Farewell from Dodger Stadium
+http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/372652.mp4
+#EXTINF:-1,TAYLOR SWIFT | THE ERAS TOUR (2023) (Leg)
+http://bktv.xyz:8080/movie/Lilian3/Lil56/916845.mp4
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png", PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+#EXTINF:-1 tvg-id="True4U.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png", True 4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+
+#EXTINF:-1,Mahar Movie
+http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8 
+#EXTINF:-1,CN Cartoon
+http://202.150.161.212:5000/live/channel27/playlist.m3u8 
+#EXTINF:-1,MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1,TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1,Family
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1,Edu
+http://203.81.84.130/hls/mwd_movie/index.m3u8
