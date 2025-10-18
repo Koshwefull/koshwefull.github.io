@@ -313,3 +313,714 @@ http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/63431
 #EXTINF:-1 group-title="|FR| ✪ BEIN SPORT" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" tvg-id="beinsportsmax10.fr" ,|FR| BEIN SPORTS MAX 10 ˢᴰ
 http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/212582
 
+
+#EXTM3U
+
+=== SPORTS ===
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="Sports" ch-number="" type="channel",004.FUBO SPORTS 3
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-538/stream.mpd
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="Sports" ,003.NBC SPORTS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="Sports" , 002.PEACOOCK SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="Sports",Sportstars
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports", SPORTSTARS 4 ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="Sports", UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="Sports",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="Sports", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss4zkN5S/download-1.png" group-title="Sports", BEIN SPORTS 1
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss4zkN5S/download-1.png" group-title="Sports", BEIN SPORTS 2
+https://wo.cma.footballii.ir/hls2/b2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss4zkN5S/download-1.png" group-title="Sports", BEIN SPORTS 3
+https://wo.cma.footballii.ir/hls2/b3.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 1 AU
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 2 AU
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 3 AU
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+#EXTINF:-1 group-title="Sports" tvg-id="The Sports Network 1" tvg-name="The Sports Network 1" tvg-logo="https://i.imgur.com/0JdGJpc.png" ,TSN 1 CA
+http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+#EXTINF:-1 group-title="Sports" tvg-id="The Sports Network 2" tvg-name="The Sports Network 2" tvg-logo="https://i.imgur.com/8gUvjoQ.png" ,TSN 2 CA
+http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+#EXTINF:-1 group-title="Sports" tvg-id="The Sports Network 3" tvg-name="The Sports Network 3" tvg-logo="https://i.imgur.com/xGXIzXg.png" ,TSN 3 CA
+http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+#EXTINF:-1 group-title="Sports" tvg-id="The Sports Network 4" tvg-name="The Sports Network 4" tvg-logo="https://i.imgur.com/Q4zVND8.png" ,TSN 4 CA
+http://otte.
+
+
+<============= Sport=================>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions3.jpg?raw=true" group-title="SPORTS",CHAMPIONS TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions5.jpg?raw=true" group-title="SPORTS",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions6.jpg?raw=true" group-title="SPORTS",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="Sports", CHAMPIONS TV 1
+http://203.77.246.14:8001/udp/239.1.2.240:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="Sports", CHAMPIONS TV 2
+http://203.77.246.14:8001/udp/239.1.2.242:5000
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="Sports", CHAMPIONS TV 3
+http://203.77.246.14:8001/udp/239.1.2.252:5000
+
+
+##EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+##https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+##EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+
+
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="NBA.TV.id" tvg-name="NBA TV", NBA TV
+#https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q\u0026s\u003d10", FIFA+ 1
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Sports",sportstar 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Sports",sportstar 4
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
+
+
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-id="sportsnet.satellite.digital.ca" ,CA Sportsnet East (D) 
+http://tvscreen.icu:8080/1uHb2R/223922/41836
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" tvg-id="sportsnetone.ca" ,CA Sportsnet One (E)
+http://tvscreen.icu:8080/1uHb2R/223922/10247
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" tvg-id="tsn4.ca" ,CA TSN 4 HD 
+http://tvscreen.icu:8080/1uHb2R/223922/16130
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" tvg-id="sportsnet360.ca" ,CA Sportsnet 360 HD 
+http://tvscreen.icu:8080/1uHb2R/223922/2219
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" tvg-id="sportsnetontario.ca" ,CA Sportsnet Ontario (FHD) 
+http://tvscreen.icu:8080/1uHb2R/223922/11649
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" tvg-id="sportsnetpacific.ca" ,CA Sportsnet Pacific (FHD) 
+http://tvscreen.icu:8080/1uHb2R/223922/9860
+#EXTINF:-1 group-title="Sports Fanatic's " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" tvg-id="sportsnetwest.ca" ,CA Sportsnet West (FHD)
+http://tvscreen.icu:8080/1uHb2R/223922/20975
+#EXTINF:-1 group-title="Sp
+
+========Sport========
+
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" tvg-id="HubPremier1.sg" ,Hub Premier 1 FHD
+http://b1g.uk/200/230/952022
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" tvg-id="HubPremier1.sg" ,Hub Premier 1 HD
+http://b1g.uk/200/230/426734
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" tvg-id="HubPremier2.sg" ,Hub Premier 2 FHD
+http://b1g.uk/200/230/952023
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" tvg-id="HubPremier2.sg" ,Hub Premier 2 HD
+http://b1g.uk/200/230/426733
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" tvg-id="HubPremier3.sg" ,Hub Premier 3 FHD
+http://b1g.uk/200/230/952024
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" tvg-id="HubPremier3.sg" ,Hub Premier 3 HD
+http://b1g.uk/200/230/426732
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" tvg-id="HubPremier4.sg" ,Hub Premier 4 FHD
+http://b1g.uk/200/230/952025
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" tvg-id="HubPremier4.sg" ,Hub Premier 4 HD
+http://b1g.uk/200/230/426731
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" tvg-id="HubPremier5.sg" ,Hub Premier 5 FHD
+http://b1g.uk/200/230/952026
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" tvg-id="HubPremier5.sg" ,Hub Premier 5 HD
+http://b1g.uk/200/230/426730
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" tvg-id="HubPremier6.sg" ,Hub Premier 6 FHD
+http://b1g.uk/200/230/952027
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" tvg-id="HubPremier6.sg" ,Hub Premier 6 HD
+http://b1g.uk/200/230/426729
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" tvg-id="HubPremier7.sg" ,Hub Premier 7 FHD
+http://b1g.uk/200/230/952028
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" tvg-id="HubPremier7.sg" ,Hub Premier 7 HD
+http://b1g.uk/200/230/426728
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" tvg-id="HubPremier8.sg" ,Hub Premier 8 FHD
+http://b1g.uk/200/230/952029
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" tvg-id="HubPremier8.sg" ,Hub Premier 8 HD
+http://b1g.uk/200/230/426727
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" ,Hub Premier 9 FHD
+http://b1g.uk/200/230/952030
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" ,Hub Premier 9 HD
+http://b1g.uk/200/230/426726
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" ,Hub Premier 10 FHD
+http://b1g.uk/200/230/952031
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" ,Hub Premier 10 HD
+http://b1g.uk/200/230/426725
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" ,Hub Premier 11 FHD
+http://b1g.uk/200/230/952032
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" ,Hub Premier 11 HD
+http://b1g.uk/200/230/426724
+#EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/PL-Star-Hub-1.png" ,Hub Premier 2 4K
+http://b1g.uk/200/230/426723
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" tvg-id="AstroPremierLeague.my" ,MY | Astro Premier League 1 FHD
+http://b1g.uk/200/230/709263
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" tvg-id="AstroPremierLeague.my" ,MY | Astro Premier League 1 HD
+http://b1g.uk/200/230/709262
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" tvg-id="AstroPremierLeague2.my" ,MY | Astro Premier League 2 FHD
+http://b1g.uk/200/230/709261
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" tvg-id="AstroPremierLeague2.my" ,MY | Astro Premier League 2 HD
+http://b1g.uk/200/230/709260
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague3.my" ,MY | Astro Premier League 3 FHD
+http://b1g.uk/200/230/848961
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague3.my" ,MY | Astro Premier League 3 HD
+http://b1g.uk/200/230/945703
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague4.my" ,MY | Astro Premier League 4 FHD
+http://b1g.uk/200/230/848960
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" tvg-id="AstroPremierLeague4.my" ,MY | Astro Premier League 4 HD
+http://b1g.uk/200/230/945704
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" tvg-id="AstroPremierLeague5.my" ,MY | Astro Premier League 5 FHD
+http://b1g.uk/200/230/848959
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" tvg-id="AstroPremierLeague5.my" ,MY | Astro Premier League 5 HD
+http://b1g.uk/200/230/945705
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" tvg-id="AstroGrandstand.my" ,MY | Astro Grandstand FHD
+http://b1g.uk/200/230/709259
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" tvg-id="AstroGrandstand.my" ,MY | Astro Grandstand HD
+http://b1g.uk/200/230/709258
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" tvg-id="AstroFootball.my" ,MY | Astro Football FHD
+http://b1g.uk/200/230/709257
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" tvg-id="AstroFootball.my" ,MY | Astro Football HD
+http://b1g.uk/200/230/709256
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" tvg-id="AstroCricket.my" ,MY | Astro Cricket FHD
+http://b1g.uk/200/230/709264
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" tvg-id="AstroBadminton.my" ,MY | Astro Badminton
+http://b1g.uk/200/230/848711
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton_2.png" tvg-id="AstroBadminton2.my" ,MY | Astro Badminton 2
+http://b1g.uk/200/230/848710
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" tvg-id="W-Sport.my" ,MY | W-Sport FHD
+http://b1g.uk/200/230/709252
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" tvg-id="beINSports.my" ,MY | beIN Sports 1 FHD
+http://b1g.uk/200/230/837115
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" tvg-id="beINSports2.my" ,MY | beIN Sports 2 FHD
+http://b1g.uk/200/230/837114
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" tvg-id="bEINSPORTS3.my" ,MY | beIN Sports 3 FHD
+http://b1g.uk/200/230/837113
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" tvg-id="WWENetwork.my" ,MY | WWE Network HD
+http://b1g.uk/200/230/709248
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" tvg-id="GolfChannel.my" ,MY | SkyNet Golf FHD
+http://b1g.uk/200/230/709249
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" tvg-id="NSW-SydneyFoxSportsUltra.au" ,MY | GNIX Sports HD
+http://b1g.uk/200/230/709255
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" tvg-id="AstroArena.my" ,MY | Astro Arena FHD
+http://b1g.uk/200/230/709254
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" tvg-id="AstroArena2.my" ,MY | Astro Arena 2 FHD
+http://b1g.uk/200/230/709266
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" tvg-id="MUTV.hk" ,MY | MUTV HD
+http://b1g.uk/200/230/709253
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" tvg-id="SPOTV.sg" ,MY | SPOTV FHD
+http://b1g.uk/200/230/709251
+#EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" tvg-id="SPOTV2.my" ,MY | SPOTV 2 FHD
+http://b1g.uk/200/230/709250
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/FuboSportPL.png" tvg-id="PremierLeagueTV.peacocktv" ,CA | Fubo Premier League TV
+http://b1g.uk/200/230/839246
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork.ca" ,CA | Fubo Sports Network 1 HD
+http://b1g.uk/200/230/839245
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork2.ca" ,CA | Fubo Sports Network 2 HD
+http://b1g.uk/200/230/839244
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork3.ca" ,CA | Fubo Sports Network 3 HD
+http://b1g.uk/200/230/839243
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork4.ca" ,CA | Fubo Sports Network 4 HD
+http://b1g.uk/200/230/839242
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork5.ca" ,CA | Fubo Sports Network 5 HD
+http://b1g.uk/200/230/839241
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork6.ca" ,CA | Fubo Sports Network 6 HD
+http://b1g.uk/200/230/839240
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork7.ca" ,CA | Fubo Sports Network 7 HD
+http://b1g.uk/200/230/839239
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork8.ca" ,CA | Fubo Sports Network 8 HD
+http://b1g.uk/200/230/839238
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork9.ca" ,CA | Fubo Sports Network 9 HD
+http://b1g.uk/200/230/839237
+#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork10.ca" ,CA | Fubo Sports Network 10 HD
+http://b1g.uk/200/230/839236
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US01 :Cycling: Tour of Holland | Stage 3 @ Oct 17 07:50 AM
+http://b1g.uk/200/230/962941
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US02 :Baseball: Brewers at Dodgers Game 4 @ Oct 17 20:00 PM
+http://b1g.uk/200/230/962942
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US03 :Triathlon: T100 Triathlon World Tour | Wollongong @ Oct 17 22:55 PM
+http://b1g.uk/200/230/962943
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US04 :
+http://b1g.uk/200/230/962944
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US05 :
+http://b1g.uk/200/230/962945
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US06 :
+http://b1g.uk/200/230/962946
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US07 :
+http://b1g.uk/200/230/962947
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US08 :
+http://b1g.uk/200/230/962948
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US09 :
+http://b1g.uk/200/230/962951
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US10 :
+http://b1g.uk/200/230/962959
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US11 :
+http://b1g.uk/200/230/962960
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US12 :
+http://b1g.uk/200/230/962961
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US13 :
+http://b1g.uk/200/230/962962
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US14 :
+http://b1g.uk/200/230/962963
+#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US15 :
+http://b1g.uk/200/230/962964
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" tvg-id="HubSports1.sg" ,SG | Hub Sports 1
+http://b1g.uk/200/230/625477
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" tvg-id="HubSports2.sg" ,SG | Hub Sports 2
+http://b1g.uk/200/230/625476
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" tvg-id="HubSports3.sg" ,SG | Hub Sports 3
+http://b1g.uk/200/230/625475
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" tvg-id="HubSports4.sg" ,SG | Hub Sports 4
+http://b1g.uk/200/230/625449
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" tvg-id="HubSports5.sg" ,SG | Hub Sports 5
+http://b1g.uk/200/230/625523
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS.sg" ,SG | beIN Sports 1
+http://b1g.uk/200/230/625423
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS2.sg" ,SG | beIN Sports 2
+http://b1g.uk/200/230/625424
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS3.sg" ,SG | beIN Sports 3
+http://b1g.uk/200/230/625422
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS4.sg" ,SG | beIN Sports 4
+http://b1g.uk/200/230/625421
+#EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS5.sg" ,SG | beIN Sports 5
+http://b1g.uk/200/230/625420
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNBCSports.png" tvg-id="NBCSportsonPeacock.peacocktv" ,US | Peacock NBC Sports
+http://b1g.uk/200/230/405295
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockPL.png" tvg-id="PremierLeagueTV.peacocktv" ,US | Peacock Premier League
+http://b1g.uk/200/230/405294
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockGolf.png" tvg-id="GolfPass.peacocktv" ,US | Peacock Golf Pass
+http://b1g.uk/200/230/405297
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNFL.png" tvg-id="NFLChannel.peacocktv" ,US | Peacock NFL Pass
+http://b1g.uk/200/230/405296
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockWWE.png" tvg-id="WWENetwork.peacocktv" ,US | Peacock WWE Pass
+http://b1g.uk/200/230/405298
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock1.peacock" ,US | Peacock 01
+http://b1g.uk/200/230/400971
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock2.peacock" ,US | Peacock 02
+http://b1g.uk/200/230/400972
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock3.peacock" ,US | Peacock 03
+http://b1g.uk/200/230/400973
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock4.peacock" ,US | Peacock 04
+http://b1g.uk/200/230/400974
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock5.peacock" ,US | Peacock 05
+http://b1g.uk/200/230/400975
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock6.peacock" ,US | Peacock 06
+http://b1g.uk/200/230/400976
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock7.peacock" ,US | Peacock 07
+http://b1g.uk/200/230/400977
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock8.peacock" ,US | Peacock 08
+http://b1g.uk/200/230/400978
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock9.peacock" ,US | Peacock 09
+http://b1g.uk/200/230/400979
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock10.peacock" ,US | Peacock 10
+http://b1g.uk/200/230/400980
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock11.peacock" ,US | Peacock 11
+http://b1g.uk/200/230/400981
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock12.peacock" ,US | Peacock 12
+http://b1g.uk/200/230/699495
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock13.peacock" ,US | Peacock 13
+http://b1g.uk/200/230/699496
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock14.peacock" ,US | Peacock 14
+http://b1g.uk/200/230/835653
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock15.peacock" ,US | Peacock 15
+http://b1g.uk/200/230/835667
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock16.peacock" ,US | Peacock 16
+http://b1g.uk/200/230/835677
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock17.peacock" ,US | Peacock 17
+http://b1g.uk/200/230/835679
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock_13" ,US | Peacock 18
+http://b1g.uk/200/230/835682
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock_13" ,US | Peacock 19
+http://b1g.uk/200/230/835684
+#EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock_13" ,US | Peacock 20
+http://b1g.uk/200/230/835686
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta1.ge" ,GA | Setanta Event 01
+http://b1g.uk/200/230/428868
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta2.ge" ,GA | Setanta Event 02
+http://b1g.uk/200/230/428869
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta3.ge" ,GA | Setanta Event 03
+http://b1g.uk/200/230/428870
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta4.ge" ,GA | Setanta Event 04
+http://b1g.uk/200/230/428871
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta5.ge" ,GA | Setanta Event 05
+http://b1g.uk/200/230/428872
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta6.ge" ,GA | Setanta Event 06
+http://b1g.uk/200/230/428873
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta7.ge" ,GA | Setanta Event 07
+http://b1g.uk/200/230/428874
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta8.ge" ,GA | Setanta Event 08
+http://b1g.uk/200/230/428875
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta9.ge" ,GA | Setanta Event 09
+http://b1g.uk/200/230/428876
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta10.ge" ,GA | Setanta Event 10
+http://b1g.uk/200/230/428877
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta11.ge" ,GA | Setanta Event 11
+http://b1g.uk/200/230/428878
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta12.ge" ,GA | Setanta Event 12
+http://b1g.uk/200/230/428879
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta13.ge" ,GA | Setanta Event 13
+http://b1g.uk/200/230/428880
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta14.ge" ,GA | Setanta Event 14
+http://b1g.uk/200/230/428881
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta15.ge" ,GA | Setanta Event 15
+http://b1g.uk/200/230/428882
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta16.ge" ,GA | Setanta Event 16
+http://b1g.uk/200/230/428883
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta17.ge" ,GA | Setanta Event 17
+http://b1g.uk/200/230/428884
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta18.ge" ,GA | Setanta Event 18
+http://b1g.uk/200/230/428885
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta19.ge" ,GA | Setanta Event 19
+http://b1g.uk/200/230/428886
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta20.ge" ,GA | Setanta Event 20
+http://b1g.uk/200/230/428887
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta21" ,GA | Setanta Event 21
+http://b1g.uk/200/230/428888
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta22" ,GA | Setanta Event 22
+http://b1g.uk/200/230/428889
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta23" ,GA | Setanta Event 23
+http://b1g.uk/200/230/428890
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta24" ,GA | Setanta Event 24
+http://b1g.uk/200/230/428891
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta25" ,GA | Setanta Event 25
+http://b1g.uk/200/230/428892
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta26" ,GA | Setanta Event 26
+http://b1g.uk/200/230/428893
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta27" ,GA | Setanta Event 27
+http://b1g.uk/200/230/428894
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta28" ,GA | Setanta Event 28
+http://b1g.uk/200/230/428895
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta29" ,GA | Setanta Event 29
+http://b1g.uk/200/230/428896
+#EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="setanta30" ,GA | Setanta Event 30
+http://b1g.uk/200/230/428897
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" tvg-id="TNTSportsUltimate.uk" ,UK-TNT Sports Ultimate 4K HDR
+http://b1g.uk/200/230/697067
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" tvg-id="TNTSports1.uk" ,UK-TNT Sports 1 50FPS
+http://b1g.uk/200/230/697057
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" tvg-id="TNTSports1.uk" ,UK-TNT Sports 1 FHD HEVC
+http://b1g.uk/200/230/697054
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" tvg-id="TNTSports1.uk" ,UK-TNT Sports 1 HD
+http://b1g.uk/200/230/697061
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" tvg-id="TNTSports2.uk" ,UK-TNT Sports 2 50FPS
+http://b1g.uk/200/230/697056
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" tvg-id="TNTSports2.uk" ,UK-TNT Sports 2 FHD HEVC
+http://b1g.uk/200/230/697053
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" tvg-id="TNTSports2.uk" ,UK-TNT Sports 2 HD
+http://b1g.uk/200/230/697059
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" tvg-id="TNTSports3.uk" ,UK-TNT Sports 3 50FPS
+http://b1g.uk/200/230/697055
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" tvg-id="TNTSports3.uk" ,UK-TNT Sports 3 FHD HEVC
+http://b1g.uk/200/230/697052
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" tvg-id="TNTSports3.uk" ,UK-TNT Sports 3 HD
+http://b1g.uk/200/230/697058
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" tvg-id="TNTSports4.uk" ,UK-TNT Sports 4 FHD HEVC
+http://b1g.uk/200/230/697051
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" tvg-id="TNTSports4.uk" ,UK-TNT Sports 4 HD
+http://b1g.uk/200/230/697060
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-5.png" tvg-id="TNTSports5.uk" ,UK-TNT Sports 5 FHD
+http://b1g.uk/200/230/697062
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-6.png" tvg-id="TNTSports6.uk" ,UK-TNT Sports 6 FHD
+http://b1g.uk/200/230/697063
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-7.png" tvg-id="TNTSports7.uk" ,UK-TNT Sports 7 FHD
+http://b1g.uk/200/230/697064
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-8.png" tvg-id="TNTSports8.uk" ,UK-TNT Sports 8 FHD
+http://b1g.uk/200/230/697065
+#EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-9.png" tvg-id="TNTSports9.uk" ,UK-TNT Sports 9 FHD
+http://b1g.uk/200/230/697066
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event1" ,Discovery+ Event 01 (Live Event Only)
+http://b1g.uk/200/230/922184
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event2" ,Discovery+ Event 02 (Live Event Only)
+http://b1g.uk/200/230/922183
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event3" ,Discovery+ Event 03 (Live Event Only)
+http://b1g.uk/200/230/922182
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event4" ,Discovery+ Event 04 (Live Event Only)
+http://b1g.uk/200/230/922181
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event5" ,Discovery+ Event 05 (Live Event Only)
+http://b1g.uk/200/230/922180
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event6" ,Discovery+ Event 06 (Live Event Only)
+http://b1g.uk/200/230/922179
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event7" ,Discovery+ Event 07 (Live Event Only)
+http://b1g.uk/200/230/922178
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event8" ,Discovery+ Event 08 (Live Event Only)
+http://b1g.uk/200/230/922177
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event9" ,Discovery+ Event 09 (Live Event Only)
+http://b1g.uk/200/230/922176
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event10" ,Discovery+ Event 10 (Live Event Only)
+http://b1g.uk/200/230/922175
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event11" ,Discovery+ Event 11 (Live Event Only)
+http://b1g.uk/200/230/922204
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event12" ,Discovery+ Event 12 (Live Event Only)
+http://b1g.uk/200/230/922203
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event13" ,Discovery+ Event 13 (Live Event Only)
+http://b1g.uk/200/230/922202
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event14" ,Discovery+ Event 14 (Live Event Only)
+http://b1g.uk/200/230/922201
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event15" ,Discovery+ Event 15 (Live Event Only)
+http://b1g.uk/200/230/922200
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event16" ,Discovery+ Event 16 (Live Event Only)
+http://b1g.uk/200/230/922199
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event17" ,Discovery+ Event 17 (Live Event Only)
+http://b1g.uk/200/230/922198
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event18" ,Discovery+ Event 18 (Live Event Only)
+http://b1g.uk/200/230/922197
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event19" ,Discovery+ Event 19 (Live Event Only)
+http://b1g.uk/200/230/922196
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event20" ,Discovery+ Event 20 (Live Event Only)
+http://b1g.uk/200/230/922195
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event21" ,Discovery+ Event 21 (Live Event Only)
+http://b1g.uk/200/230/922194
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event22" ,Discovery+ Event 22 (Live Event Only)
+http://b1g.uk/200/230/922193
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event23" ,Discovery+ Event 23 (Live Event Only)
+http://b1g.uk/200/230/922192
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event24" ,Discovery+ Event 24 (Live Event Only)
+http://b1g.uk/200/230/922191
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event25" ,Discovery+ Event 25 (Live Event Only)
+http://b1g.uk/200/230/922190
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event26" ,Discovery+ Event 26 (Live Event Only)
+http://b1g.uk/200/230/922189
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event27" ,Discovery+ Event 27 (Live Event Only)
+http://b1g.uk/200/230/922188
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event28" ,Discovery+ Event 28 (Live Event Only)
+http://b1g.uk/200/230/922187
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event29" ,Discovery+ Event 29 (Live Event Only)
+http://b1g.uk/200/230/922186
+#EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event30" ,Discovery+ Event 30 (Live Event Only)
+http://b1g.uk/200/230/922185
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Premier.png" tvg-id="SkyCinemaPremiere.uk" ,UK-Sky Cinema Premiere FHD
+http://b1g.uk/200/230/20181
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Premier.png" tvg-id="SkyCinemaPremiere.uk" ,UK-Sky Cinema Premiere HD
+http://b1g.uk/200/230/11913
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Animation.png" tvg-id="SkyCinemaAnimation.uk" ,UK-Sky Cinema Animation FHD*
+http://b1g.uk/200/230/80321
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Animation.png" tvg-id="SkyCinemaAnimation.uk" ,Sky Cinema Animation HD
+http://b1g.uk/200/230/651481
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Great.png" tvg-id="SkyCinemaGreats.uk" ,UK-Sky Cinema Great FHD
+http://b1g.uk/200/230/11800
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Great.png" tvg-id="SkyCinemaGreats.uk" ,UK-Sky Cinema Greats HD
+http://b1g.uk/200/230/20184
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Hit.png" tvg-id="SkyCinemaHits.uk" ,UK-Sky Cinema Hits FHD
+http://b1g.uk/200/230/20183
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Hit.png" tvg-id="SkyCinemaHits.uk" ,UK-Sky Cinema Hits HD
+http://b1g.uk/200/230/11911
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Scifi.png" tvg-id="SkyCinemaSci-fiAndHorror.uk" ,UK-Sky Cinema SciFi & Horror FHD
+http://b1g.uk/200/230/20190
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Scifi.png" tvg-id="SkyCinemaSci-fiAndHorror.uk" ,UK-Sky Cinema SciFi & Horror HD*
+http://b1g.uk/200/230/11904
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Family.png" tvg-id="SkyCinemaFamily.uk" ,UK-Sky Cinema Family FHD
+http://b1g.uk/200/230/20186
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Family.png" tvg-id="SkyCinemaFamily.uk" ,UK-Sky Cinema Family HD
+http://b1g.uk/200/230/11910
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Action.png" tvg-id="SkyCinemaAction.uk" ,UK-Sky Cinema Action FHD*
+http://b1g.uk/200/230/20187
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Action.png" tvg-id="SkyCinemaAction.uk" ,UK-Sky Cinema Action HD
+http://b1g.uk/200/230/11907
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Comedy.png" tvg-id="SkyCinemaComedy.uk" ,UK-Sky Cinema Comedy FHD*
+http://b1g.uk/200/230/20188
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Comedy.png" tvg-id="SkyCinemaComedy.uk" ,UK-Sky Cinema Comedy HD
+http://b1g.uk/200/230/11908
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Thriller.png" tvg-id="SkyCinemaThriller.uk" ,UK-Sky Cinema Thriller FHD*
+http://b1g.uk/200/230/20191
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Thriller.png" tvg-id="SkyCinemaThriller.uk" ,UK-Sky Cinema Thriller HD
+http://b1g.uk/200/230/11906
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Drama.png" tvg-id="SkyCinemaDrama.uk" ,UK-Sky Cinema Drama FHD
+http://b1g.uk/200/230/20182
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Drama.png" tvg-id="SkyCinemaDrama.uk" ,UK-Sky Cinema Drama HD
+http://b1g.uk/200/230/11909
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Select.png" tvg-id="SkyCinemaSelect.uk" ,UK-Sky Cinema Select FHD*
+http://b1g.uk/200/230/20189
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Select.png" tvg-id="SkyCinemaSelect.uk" ,UK-Sky Cinema Select HD*
+http://b1g.uk/200/230/11905
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Film4.png" tvg-id="Film4.uk" ,UK-Film 4 FHD*
+http://b1g.uk/200/230/14531
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Film4-1.png" tvg-id="Film4+1.uk" ,UK-Film 4 +1 SD*
+http://b1g.uk/200/230/14532
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/LegendXtra.png" tvg-id="LegendXtra.uk" ,UK-Legend Xtra SD*
+http://b1g.uk/200/230/11899
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Legend-Xtra1.png" tvg-id="LegendXtra+1.uk" ,UK-Legend Xtra+ 1 SD*
+http://b1g.uk/200/230/80332
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Great-TV.png" tvg-id="GreatTV.uk" ,UK-Sony Great! TV SD*
+http://b1g.uk/200/230/11900
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Great-Movies.png" tvg-id="GreatMovies.uk" ,UK-Sony Great! Movies SD*
+http://b1g.uk/200/230/16661
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Great-TV.png" tvg-id="GreatTV.uk" ,UK-Sony Great! TV SD*
+http://b1g.uk/200/230/22383
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Great-Action.png" tvg-id="GreatAction.uk" ,UK-Sony Great! Action SD*
+http://b1g.uk/200/230/11872
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Talking-Picture-TV.png" tvg-id="TalkingPicturesTV.uk" ,UK-Talking Picture TV SD*
+http://b1g.uk/200/230/11902
+#EXTINF:-1 group-title="UK | Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png" tvg-id="Movies24.uk" ,UK-Movies 24 SD
+http://b1g.uk/200/230/842883
