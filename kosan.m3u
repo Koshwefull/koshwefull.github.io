@@ -501,8 +501,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #EXTVLCOPT:http-reconnect=true
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="Sports", CHAMPIONS TV 1
 http://203.77.246.14:8001/udp/239.1.2.240:5000
 
@@ -626,6 +624,7 @@ http://b1g.uk/200/230/952032
 http://b1g.uk/200/230/426724
 #EXTINF:-1 group-title="LIVE | Hub Premier (EPL)" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/PL-Star-Hub-1.png" ,Hub Premier 2 4K
 http://b1g.uk/200/230/426723
+
 #EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" tvg-id="AstroPremierLeague.my" ,MY | Astro Premier League 1 FHD
 http://b1g.uk/200/230/709263
 #EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" tvg-id="AstroPremierLeague.my" ,MY | Astro Premier League 1 HD
@@ -684,58 +683,7 @@ http://b1g.uk/200/230/709253
 http://b1g.uk/200/230/709251
 #EXTINF:-1 group-title="SPORTS | Astro Sports" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" tvg-id="SPOTV2.my" ,MY | SPOTV 2 FHD
 http://b1g.uk/200/230/709250
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/FuboSportPL.png" tvg-id="PremierLeagueTV.peacocktv" ,CA | Fubo Premier League TV
-http://b1g.uk/200/230/839246
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork.ca" ,CA | Fubo Sports Network 1 HD
-http://b1g.uk/200/230/839245
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork2.ca" ,CA | Fubo Sports Network 2 HD
-http://b1g.uk/200/230/839244
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork3.ca" ,CA | Fubo Sports Network 3 HD
-http://b1g.uk/200/230/839243
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork4.ca" ,CA | Fubo Sports Network 4 HD
-http://b1g.uk/200/230/839242
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork5.ca" ,CA | Fubo Sports Network 5 HD
-http://b1g.uk/200/230/839241
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork6.ca" ,CA | Fubo Sports Network 6 HD
-http://b1g.uk/200/230/839240
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork7.ca" ,CA | Fubo Sports Network 7 HD
-http://b1g.uk/200/230/839239
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork8.ca" ,CA | Fubo Sports Network 8 HD
-http://b1g.uk/200/230/839238
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork9.ca" ,CA | Fubo Sports Network 9 HD
-http://b1g.uk/200/230/839237
-#EXTINF:-1 group-title="SPORTS | Fubo Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" tvg-id="fuboSportsNetwork10.ca" ,CA | Fubo Sports Network 10 HD
-http://b1g.uk/200/230/839236
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US01 :Cycling: Tour of Holland | Stage 3 @ Oct 17 07:50 AM
-http://b1g.uk/200/230/962941
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US02 :Baseball: Brewers at Dodgers Game 4 @ Oct 17 20:00 PM
-http://b1g.uk/200/230/962942
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US03 :Triathlon: T100 Triathlon World Tour | Wollongong @ Oct 17 22:55 PM
-http://b1g.uk/200/230/962943
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US04 :
-http://b1g.uk/200/230/962944
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US05 :
-http://b1g.uk/200/230/962945
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US06 :
-http://b1g.uk/200/230/962946
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US07 :
-http://b1g.uk/200/230/962947
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US08 :
-http://b1g.uk/200/230/962948
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US09 :
-http://b1g.uk/200/230/962951
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US10 :
-http://b1g.uk/200/230/962959
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US11 :
-http://b1g.uk/200/230/962960
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US12 :
-http://b1g.uk/200/230/962961
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US13 :
-http://b1g.uk/200/230/962962
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US14 :
-http://b1g.uk/200/230/962963
-#EXTINF:-1 group-title="SPORTS | HBO Max" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/10/MaxUS.png" tvg-id="StreamingOnThisService.bossdummy" ,MAX US15 :
-http://b1g.uk/200/230/962964
+
 #EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" tvg-id="HubSports1.sg" ,SG | Hub Sports 1
 http://b1g.uk/200/230/625477
 #EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" tvg-id="HubSports2.sg" ,SG | Hub Sports 2
@@ -756,6 +704,7 @@ http://b1g.uk/200/230/625422
 http://b1g.uk/200/230/625421
 #EXTINF:-1 group-title="SPORTS | Hub Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" tvg-id="beINSPORTS5.sg" ,SG | beIN Sports 5
 http://b1g.uk/200/230/625420
+
 #EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockNBCSports.png" tvg-id="NBCSportsonPeacock.peacocktv" ,US | Peacock NBC Sports
 http://b1g.uk/200/230/405295
 #EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/PeacockPL.png" tvg-id="PremierLeagueTV.peacocktv" ,US | Peacock Premier League
@@ -806,6 +755,7 @@ http://b1g.uk/200/230/835682
 http://b1g.uk/200/230/835684
 #EXTINF:-1 group-title="SPORTS | Peacock" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Peacock.png" tvg-id="Peacock_13" ,US | Peacock 20
 http://b1g.uk/200/230/835686
+
 #EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta1.ge" ,GA | Setanta Event 01
 http://b1g.uk/200/230/428868
 #EXTINF:-1 group-title="SPORTS | Setanta" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Setanta-Sports.png" tvg-id="Setanta2.ge" ,GA | Setanta Event 02
@@ -868,6 +818,7 @@ http://b1g.uk/200/230/428896
 http://b1g.uk/200/230/428897
 #EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" tvg-id="TNTSportsUltimate.uk" ,UK-TNT Sports Ultimate 4K HDR
 http://b1g.uk/200/230/697067
+
 #EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" tvg-id="TNTSports1.uk" ,UK-TNT Sports 1 50FPS
 http://b1g.uk/200/230/697057
 #EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" tvg-id="TNTSports1.uk" ,UK-TNT Sports 1 FHD HEVC
@@ -900,6 +851,7 @@ http://b1g.uk/200/230/697064
 http://b1g.uk/200/230/697065
 #EXTINF:-1 group-title="UK | TNT Sports" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-9.png" tvg-id="TNTSports9.uk" ,UK-TNT Sports 9 FHD
 http://b1g.uk/200/230/697066
+
 #EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event1" ,Discovery+ Event 01 (Live Event Only)
 http://b1g.uk/200/230/922184
 #EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event2" ,Discovery+ Event 02 (Live Event Only)
@@ -960,6 +912,7 @@ http://b1g.uk/200/230/922187
 http://b1g.uk/200/230/922186
 #EXTINF:-1 group-title="UK | Discovery+" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2025/05/Discovery.png" tvg-id="dplusuk/event30" ,Discovery+ Event 30 (Live Event Only)
 http://b1g.uk/200/230/922185
+
 #EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Premier.png" tvg-id="SkyCinemaPremiere.uk" ,UK-Sky Cinema Premiere FHD
 http://b1g.uk/200/230/20181
 #EXTINF:-1 group-title="UK | Movies" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Cinema-Premier.png" tvg-id="SkyCinemaPremiere.uk" ,UK-Sky Cinema Premiere HD
