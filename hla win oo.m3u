@@ -12,6 +12,13 @@ http://xu.port360.xyz:8080/metin-5/p3NHWHu/6665.ts
 #EXTINF:-1,Astro Sport4
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/6666.ts
 
+#EXTINF:-1,HR: Arena Sport 1
+http://filex.me:8080/000003/000003/317325
+#EXTINF:-1,HR: Arena Sport 2
+http://filex.me:8080/000003/000003/317326
+#EXTINF:-1,HR: Arena Sport 3
+http://filex.me:8080/000003/000003/317327
+
 #EXTINF:-1,BR: SPORTV
 http://filex.me:8080/000003/000003/304301
 #EXTINF:-1,BR: SPORTV 2
@@ -42,10 +49,28 @@ http://xu.port360.xyz:8080/metin-5/p3NHWHu/10930.ts
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10932.ts
 
 
-l#EXTINF:-1,IN | STAR SPORTS SELECT 1 HD
+#EXTINF:-1,A SPORTS FHD
+http://filex.me:8080/000003/000003/247168
+#EXTINF:-1,FAST SPORTS HD
+http://filex.me:8080/000003/000003/247169
+#EXTINF:-1,PTV SPORTS FHD
+http://filex.me:8080/000003/000003/247170
+#EXTINF:-1,TEN SPORTS FHD
+http://filex.me:8080/000003/000003/247171
+
+
+
+
+#EXTINF:-1,IN | STAR SPORTS SELECT 1 HD
 http://filex.me:8080/000003/000003/52098
+
 #EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
 http://filex.me:8080/000003/000003/52100
+
+#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
+http://filex.me:8080/000003/000003/52100
+
+
 #EXTINF:-1,IN | SONY TEN 1 HD
 http://filex.me:8080/000003/000003/52083
 #EXTINF:-1,IN | SONY TEN 2 HD
@@ -60,6 +85,68 @@ http://filex.me:8080/000003/000003/453435
 
 #EXTINF:-1,PK | PTV SPORTS HD
 http://filex.me:8080/000003/000003/453434
+
+#EXTINF:-1 tvg-id="DD Sports" tvg-name="PTV Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="CRICKET ? 4K",PTV Sports 4K
+http://filex.me:8080//live/000003/000003/247170.ts
+#EXTINF:-1 tvg-id="DD Sports" tvg-name="A Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="CRICKET ? 4K",A Sports 4K
+http://filex.me:8080//live/000003/000003/247168.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO Super 4K" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_super.png" group-title="CRICKET ? 4K",GEO Super 4K
+http://filex.me:8080//live/000003/000003/247167.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="CRICKET ? 4K",TEN Sports 4K
+http://filex.me:8080//live/000003/000003/247171.ts
+#EXTINF:-1 tvg-id="STAR Sports 1" tvg-name="IN | STAR Sports 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="CRICKET ? 4K",IN | STAR Sports 1 4K
+http://filex.me:8080//live/000003/000003/247159.ts
+#EXTINF:-1 tvg-id="STAR Sports 2" tvg-name="IN | STAR Sports 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="CRICKET ? 4K",IN | STAR Sports 2 4K
+http://filex.me:8080//live/000003/000003/247160.ts
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="IN | STAR Sports Select 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="CRICKET ? 4K",IN | STAR Sports Select 1 4K
+http://filex.me:8080//live/000003/000003/247161.ts
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="IN | STAR Sports Select 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="CRICKET ? 4K",IN | STAR Sports Select 2 4K
+http://filex.me:8080//live/000003/000003/247162.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1" tvg-name="IN | SONY Sports 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="CRICKET ? 4K",IN | SONY Sports 1 4K
+http://filex.me:8080//live/000003/000003/247155.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2" tvg-name="IN | SONY Sports 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="CRICKET ? 4K",IN | SONY Sports 2 4K
+http://filex.me:8080//live/000003/000003/247156.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3" tvg-name="IN | SONY Sports 3 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="CRICKET ? 4K",IN | SONY Sports 3 4K
+http://filex.me:8080//live/000003/000003/247157.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5" tvg-name="IN | SONY Sports 5 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="CRICKET ? 4K",IN | SONY Sports 5 4K
+http://filex.me:8080//live/000003/000003/247158.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAST Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png" group-title="CRICKET ? 4K",FAST Sports 4K
+http://filex.me:8080//live/000003/000003/247169.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight HD (1)" tvg-logo="" group-title="UFC FIGHT",UFC Fight HD (1)
+http://filex.me:8080//live/000003/000003/509255.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight HD (2)" tvg-logo="" group-title="UFC FIGHT",UFC Fight HD (2)
+http://filex.me:8080//live/000003/000003/509256.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight HD (3)" tvg-logo="" group-title="UFC FIGHT",UFC Fight HD (3)
+http://filex.me:8080//live/000003/000003/509257.ts
+
+#EXTINF:-1 tvg-id="STAR Sports 1" tvg-name="TNT Spots 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CRICKET ?",TNT Spots 1 HD
+http://filex.me:8080//live/000003/000003/529243.ts
+#EXTINF:-1 tvg-id="STAR Sports 2" tvg-name="TNT Spots 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CRICKET ?",TNT Spots 2 HD
+http://filex.me:8080//live/000003/000003/529247.ts
+#EXTINF:-1 tvg-id="Star Sports 3" tvg-name="TNT Spots 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CRICKET ?",TNT Spots 3 HD
+http://filex.me:8080//live/000003/000003/529251.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS (1)" tvg-logo="" group-title="CRICKET ?",BEIN SPORTS (1)
+http://filex.me:8080//live/000003/000003/683620.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS (2)" tvg-logo="" group-title="CRICKET ?",BEIN SPORTS (2)
+http://filex.me:8080//live/000003/000003/683623.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS (3)" tvg-logo="" group-title="CRICKET ?",BEIN SPORTS (3)
+http://filex.me:8080//live/000003/000003/683626.ts
+
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="IN | STAR Sports Select 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET ?",IN | STAR Sports Select 1 HD
+http://filex.me:8080//live/000003/000003/52098.ts
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="IN | STAR Sports Select 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET ?",IN | STAR Sports Select 2 HD
+http://filex.me:8080//live/000003/000003/52100.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="CRICKET ?",IN | SONY TEN 1 HD
+http://filex.me:8080//live/000003/000003/52083.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="CRICKET ?",IN | SONY TEN 2 HD
+http://filex.me:8080//live/000003/000003/52085.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="CRICKET ?",IN | SONY TEN 3 HD
+http://filex.me:8080//live/000003/000003/5208https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png6.ts
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5" tvg-name="IN | SONY TEN 5 HD" tvg-logo="" group-title="CRICKET ?",IN | SONY TEN 5 HD
+http://filex.me:8080//live/000003/000003/453435.ts
 
 
 #EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ??" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| SPORTS",|UK| SKY SPORTS FOOTBALL ??
@@ -76,9 +163,21 @@ http://filex.me:8080/000003/000003/500255
 http://filex.me:8080/000003/000003/247155
 #EXTINF:-1,IN | SONY SPORTS 2 4K
 http://filex.me:8080/000003/000003/247156
+#EXTINF:-1,IN | SONY SPORTS 3 4K
+http://filex.me:8080/000003/000003/247157
 
-#EXTM3U
-#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ᵁᴴᴰ
+#EXTINF:-1,IN | STAR SPORTS SELECT 1 FHD
+http://filex.me:8080/000003/000003/247161
+
+#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
+http://filex.me:8080/000003/000003/52100
+
+
+#EXTINF:-1,IN | STAR SPORTS SELECT 2 FHD
+http://filex.me:8080/000003/000003/247162
+
+
+#EXTM3U#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ᵁᴴᴰ
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256123
 #EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/256629
@@ -109,6 +208,58 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/114146
 #EXTINF:-1 tvg-ID="canalpluspremierleague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE ˢᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ PREMIER LEAGUE ˢᴰ
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/115874
 
+
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY Sports 1 FHD" tvg-logo="https://i.ibb.co/vx1FF65Z/stz-1.jpg" group-title="SZPI STARZPLAY SPORTS",STARZPLAY Sports 1 FHD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/165035.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY Sports 2 HD" tvg-logo="https://i.ibb.co/RGbGXtcJ/stz-2.jpg" group-title="SZPI STARZPLAY SPORTS",STARZPLAY Sports 2 HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/165036.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY Sports 2 FHD" tvg-logo="https://i.ibb.co/RGbGXtcJ/stz-2.jpg" group-title="SZPI STARZPLAY SPORTS",STARZPLAY Sports 2 FHD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/165037.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY Sports 3 HD" tvg-logo="https://i.ibb.co/20LXHGMr/stz-3.jpg" group-title="SZPI STARZPLAY SPORTS",STARZPLAY Sports 3 HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/165038.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY Sports 3 FHD" tvg-logo="https://i.ibb.co/20LXHGMr/stz-3.jpg" group-title="SZPI STARZPLAY SPORTS",STARZPLAY Sports 3 FHD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/165039.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="https://docdog.top/logo/countries/turkey/a-spor-tr.png" group-title="TR | SPORT VIP",TR: A SPOR
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141347
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR FHD" tvg-logo="https://docdog.top/logo/countries/turkey/a-spor-tr.png" group-title="TR | SPORT VIP",TR: A SPOR FHD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141348
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="https://docdog.top/logo/countries/turkey/a-spor-tr.png" group-title="TR | SPORT VIP",TR: A SPOR HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141349
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="TR | SPORT VIP",TR: S SPORT 2 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141399
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-2-tr.png" group-title="TR | SPORT VIP",TR: S SPORT 2 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141400
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT FHD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="TR | SPORT VIP",TR: S SPORT FHD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141401
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD" tvg-logo="https://docdog.top/logo/countries/turkey/s-sport-tr.png" group-title="TR | SPORT VIP",TR: S SPORT HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141402
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 1 FHD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141360
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports1.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 1 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141361
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 2 FHD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141362
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports2.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 2 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141363
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 3 FHD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141364
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports3.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 3 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141365
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 4 FHD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141366
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports4.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 4 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141367
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 5 HD" tvg-logo="https://docdog.top/logo/countries/turkey/beinsports5.png" group-title="TR | SPORT VIP",TR: BEIN SPORTS 5 HD
+http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/141368
+
 #EXTINF:-1,Canel Extra 1
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/9841.ts
  
@@ -121,64 +272,6 @@ http://xu.port360.xyz:8080/metin-5/p3NHWHu/9845.ts
 #EXTINF:-1,Canel Extra 4
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/9847.ts
  
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN SPORTS 1 EN 4K" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="beIN Sports 4K ⚽",beIN SPORTS 1 EN 4K
-http://forevertv.me:2095/1234578/Wq6wdahq497563/142781
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN SPORTS 2 EN 4K" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="beIN Sports 4K ⚽",beIN SPORTS 2 EN 4K
-http://forevertv.me:2095/1234578/Wq6wdahq497563/142782
-
-
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-na
-#EXTINF:-1,IN | SONY SPORTS 3 4K
-http://filex.me:8080/000003/000003/247157
-
-#EXTINF:-1,IN | STAR SPORTS SELECT 1 FHD
-http://filex.me:8080/000003/000003/247161
-#EXTINF:-1,IN | STAR SPORTS SELECT 2 FHD
-http://filex.me:8080/000003/000003/24716http
-
-
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN SPORTS 1 English FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="beIN Sports FHD ⚽",beIN SPORTS 1 English FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/71054
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN SPORTS 2 English FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="beIN Sports FHD ⚽",beIN SPORTS 2 English FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/71055
-
-
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="SERIE A 1 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD1.png" group-title="beIN Sports FHD ⚽",SERIE A 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/164551
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="SERIE A 2 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD2.png" group-title="beIN Sports FHD ⚽",SERIE A 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/202005
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="Serei A 2 HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.SERIES.HD2.png" group-title="beIN Sports FHD ⚽",Serei A 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/202004
-
-
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT 1 HD" tvg-logo="http://194.163.160.164/STARZPLAY/STARZPLAY.SPORT1.png" group-title="STARZ PLAY",STARZPLAY SPORT 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302939
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORT 2 HD" tvg-logo="http://194.163.160.164/STARZPLAY/STARZPLAY.SPORT2.png" group-title="STARZ PLAY",STARZPLAY SPORT 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302940
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORT ASIA 1 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.ASIA1.png" group-title="STARZ PLAY",AD SPORT ASIA 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302941
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORT ASIA 2 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.ASIA2.png" group-title="STARZ PLAY",AD SPORT ASIA 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302942
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 1 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM1.HD.png" group-title="STARZ PLAY",AD SPORT PREMUIM 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302949
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 1  4K" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM1.4K.png" group-title="STARZ PLAY",AD SPORT PREMUIM 1  4K
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302950
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 2 HD" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM2.HD.png" group-title="STARZ PLAY",AD SPORT PREMUIM 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302951
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORT PREMUIM 2 4K" tvg-logo="http://194.163.160.164/STARZPLAY/AD.SPORT.PREMUIM2.4K.png" group-title="STARZ PLAY",AD SPORT PREMUIM 2 4K
-http://forevertv.me:2095/1234578/Wq6wdahq497563/302952
-#EXTINF:-1 tvg-id="" tvg-name="STARZPLAY SPORTS" tvg-logo="http://194.163.160.164/STARZPLAY/STARZPLAY.SPORTS.png" group-title="STARZ PLAY",STARZPLAY SPORTS
-http://forevertv.me:2095/1234578/Wq6wdahq497563/306382
-
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY Premier League" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" group-title="UK Sports",UK: SKY Premier League
-http://forevertv.me:2095/1234578/Wq6wdahq497563/103647
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="UK Sports",UK: Sky Sports Arena FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/166293
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="UK Sports",UK: SKY SPORTS FOOTBALL
-http://forevertv.me:2095/1234578/Wq6wdahq497563/103652
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6752.1507600241.png" group-title="UK Sports",UK: SKY SPORTS FOOTBALL HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/103653
-
 #EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|UK| BEIN SPORTS ?? EN 1" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| BEIN SPORT",|UK| BEIN SPORTS ?? EN 1
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/73973
 #EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|UK| BEIN SPORTS ?? EN 2" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| BEIN SPORT",|UK| BEIN SPORTS ?? EN 2
@@ -189,6 +282,7 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/403758
 
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| BEIN SPORT 3" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| SPORTS",|UK| BEIN SPORT 3
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/403759
+
 
 #EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| BEIN SPORT" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="|UK| SPORTS",|UK| BEIN SPORT
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/403757
@@ -219,28 +313,14 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/510916
 #EXTINF:-1,CO: Win Sports + FHD
 http://206.212.244.71:8080/5467546/3648794/78717
 
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="|UK| MUTV ??" tvg-logo="http://138.199.27.237:8080/UK/MUTV.png" group-title="|UK| UK SD",|UK| MUTV ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205877
 
-#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="UK: BT Sport 5 FHD" tvg-logo="http://194.163.160.164/UK/BTSPORTS5.png" group-title="UK Sports",UK: BT Sport 5 FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/334151
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="|UK|  LIVERPOOL TV" tvg-logo="http://138.199.27.237:8080/UK/LIVERPOOL.png" group-title="|UK| SPORTS",|UK|  LIVERPOOL TV
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/77412
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="http://194.163.160.164/SSC/SSC1.png" group-title="SSC ⚽",SSC 1 FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/314799
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="http://194.163.160.164/SSC/SSC1.png" group-title="SSC ⚽",SSC 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/408378
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2  FHD" tvg-logo="http://194.163.160.164/SSC/SSC2.png" group-title="SSC ⚽",SSC 2  FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/383766
-#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="http://194.163.160.164/SSC/SSC2.png" group-title="SSC ⚽",SSC 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/247128
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 FHD" tvg-logo="http://194.163.160.164/SSC/SSC3.png" group-title="SSC ⚽",SSC 3 FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/240455
-#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="http://194.163.160.164/SSC/SSC3.png" group-title="SSC ⚽",SSC 3 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/240445
-#EXTINF:-1 tvg-id="" tvg-name="SSC 4 FHD" tvg-logo="http://194.163.160.164/SSC/SSC4.png" group-title="SSC ⚽",SSC 4 FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/239701
-#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="http://194.163.160.164/SSC/SSC4.png" group-title="SSC ⚽",SSC 4 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/166825
-#EXTINF:-1 tvg-id="" tvg-name="SSC 5 FHD" tvg-logo="http://194.163.160.164/SSC/SSC5.png" group-title="SSC ⚽",SSC 5 FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/160575
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://img2.pngio.com/index-of-logos-spo-mutv-png-300_198.png" group-title="UK Sports",UK: MUTV HD
+http://forevertv.me:2095/1234578/Wq6wdahq497563/103643
 
 http://ott.watch/stream/D3FX33QMIH1/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Футбол 1 HD
@@ -301,28 +381,6 @@ http://ott.watch/stream/D3FX33QMIH1/333.m3u8
 #EXTINF:-1,AF: SUPERSPORT PREMIER LEAGUE
 http://vlue.life:80/live/Amia4029@/snzLttrWzS/423977.m3u8
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="🔴SONY(OTT)",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="🔴SONY(OTT)", SONY TEN 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN- Star Sports Select 1 HD" tvg-logo="http://www.vod-logo.net/photos/0fd2842de38cb92a4889bcddc7f95867.jpg" group-title="IND. General / भारतीय जनरल",IN- Star Sports Select 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33356
-
-#EXTINF:-1,IN | STAR SPORTS SELECT 2 HD
-http://filex.me:8080/000003/000003/52100
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-http://103.120.172.74:4700
-
 #EXTINF:-1 tvg-ID="atandtsportsnetsouthwest.us" tvg-name="|US| TSN Sport 1 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3522.png" group-title="|US| SPORTS NETWORK",|US| TSN Sport 1 ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12350
 
@@ -333,6 +391,25 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/12351
 EXTINF:-1,CO: ESPN COLOMBIA
 http://206.212.244.71:8080/5467546/3648794/86765
 
+#EXTINF:-1,BR: ESPN
+http://filex.me:8080/000003/000003/304295
+#EXTINF:-1,BR: ESPN 2
+http://filex.me:8080/000003/000003/304296
+#EXTINF:-1,BR: ESPN 3
+http://filex.me:8080/000003/000003/304297
+#EXTINF:-1,BR: ESPN 4
+http://filex.me:8080/000003/000003/304298
+#EXTINF:-1,BR: ESPN Extra
+http://filex.me:8080/000003/000003/304299
+#EXTINF:-1,BR: FOX SPORTS
+http://filex.me:8080/000003/000003/304300
+#EXTINF:-1,BR: SPORTV
+http://filex.me:8080/000003/000003/304301
+#EXTINF:-1,BR: SPORTV 2
+http://filex.me:8080/000003/000003/304302
+#EXTINF:-1,BR: SPORTV 3
+http://filex.me:8080/000003/000003/304303
+
 #EXTINF:-1 tvg-ID="foxsports1.us" tvg-name="|US| Fox Sports 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/3513.png" group-title="|US| SPORTS NETWORK",|US| Fox Sports 1
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13148
 
@@ -341,7 +418,7 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11148
 #EXTINF:-1 tvg-ID="goltv.us" tvg-name="|US|  GOL TV ??? 1080" tvg-logo="http://138.199.27.237:8080/USA/GOLF.png" group-title="|US| SPORTS NETWORK",|US|  GOL TV ??? 1080
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54230
 
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ??" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| UK SD",|UK| SskyskysY SPORTS FOOTBALL ??
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ??" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="|UK| UK SD",|UK| SKY SPORTS FOOTBALL ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/205924
 
 #EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 1 ???
@@ -352,28 +429,6 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303257
 
 #EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 3 ???" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="|UK| SPORTS",|UK| PREMIER SPORTS 3 ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54885
-
-#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="NL- Ziggo Sport Extra 1 HD" tvg-logo="http://www.vod-logo.net/photos/15a8ca74fc26e58e0c26c644a14b0a6c.jpg" group-title="Netherlands",NL- Ziggo Sport Extra 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33471
-#EXTINF:-1 tvg-id="ziggosportextra2.nl" tvg-name="NL- Ziggo Sport Extra 2" tvg-logo="http://www.vod-logo.net/photos/f25a308f8e6dfe78684c3f771ee11b7d.jpg" group-title="Netherlands",NL- Ziggo Sport Extra 2
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33472
-
-#EXTINF:-1 tvg-id="" tvg-name="Ro- Digi Sport 1 HD" tvg-logo="http://www.vod-logo.net/photos/52ec543832518c5d3128cd6fa2ec0a36.jpg" group-title="Romania",Ro- Digi Sport 1 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33423
-#EXTINF:-1 tvg-id="" tvg-name="Ro- Digi Sport 2 HD" tvg-logo="http://www.vod-logo.net/photos/1d8d750cc255929b495a9ff5bb7ab64e.jpg" group-title="Romania",Ro- Digi Sport 2 HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33424
-#EXTINF:-1 tvg-id="" tvg-name="Ro- Digi Sport 3" tvg-logo="http://www.vod-logo.net/photos/c779c83dfdf3ec0ccb445551551789c6.jpg" group-title="Romania",Ro- Digi Sport 3
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33425
-
-#EXTINF:-1 tvg-id="" tvg-name="[SE] TV4 Fotboll" tvg-logo="" group-title="Sweden / svenska",[SE] TV4 Fotboll
-http://forevertv.me:2095/1234578/Wq6wdahq497563/467556
-
-#EXTINF:-1,HR: Arena Sport 1
-http://filex.me:8080/000003/000003/317325
-#EXTINF:-1,HR: Arena Sport 2
-http://filex.me:8080/000003/000003/317326
-#EXTINF:-1,HR: Arena Sport 3
-http://filex.me:8080/000003/000003/317327
 
 #EXTINF:-1,BE: ELEVEN SPORTS 1
 http://filex.me:8080/000003/000003/317612
@@ -388,6 +443,13 @@ http://filex.me:8080/000003/000003/317631
 http://filex.me:8080/000003/000003/317632
 #EXTINF:-1,BE: Play Sports 3
 http://filex.me:8080/000003/000003/317633
+
+#EXTINF:-1,AL: SuperSport 1
+http://filex.me:8080/000003/000003/304013
+#EXTINF:-1,AL: SuperSport 2
+http://filex.me:8080/000003/000003/304014
+#EXTINF:-1,AL: SuperSport 3
+http://filex.me:8080/000003/000003/304015
 
 #EXTINF:-1,Eleven Sport SD1
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/5413.ts
@@ -434,29 +496,6 @@ http://filex.me:8080/000003/000003/529247
 #EXTINF:-1,TNT SPOTS 3 HD
 http://filex.me:8080/000003/000003/529251
 
-#EXTINF:-1,A SPORTS FHD
-http://filex.me:8080/000003/000003/247168
-#EXTINF:-1,FAST SPORTS HD
-http://filex.me:8080/000003/000003/247169
-#EXTINF:-1,PTV SPORTS FHD
-http://filex.me:8080/000003/000003/247170
-#EXTINF:-1,TEN SPORTS FHD
-http://filex.me:8080/000003/000003/247171
-
-#EXTINF:-1 tvg-id="Bar?a TV" tvg-name="ES: BARCA TV" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="ES | DEPORTES",ES: BARCA TV
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/5560
-#EXTINF:-1 tvg-id="0" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ES | DEPORTES",ES: REAL MADRID TV
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/5729
-
-
-#EXTINF:-1,AL: SuperSport 1
-http://filex.me:8080/000003/000003/304013
-#EXTINF:-1,AL: SuperSport 2
-http://filex.me:8080/000003/000003/304014
-#EXTINF:-1,AL: SuperSport 3
-http://filex.me:8080/000003/000003/304015
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="UEFA  | 01 - Belgium vs Italy 5:00pm" tvg-logo="http://138.199.27.237:8080/USA/UEFA.png" group-title="|UK| UEFA CHAMPIONS LEAGUE",UEFA  | 01 - Belgium vs Italy 5:00pm
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/311725
 
@@ -491,9 +530,6 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303256
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/968928
 
 
-
-#EXTINF:-1 tvg-id="ext" group-title="|AR| SPORTS ARABIC",|SPO| AD SPORT 3 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/50159
 #EXTINF:-1 tvg-ID="fightnetwork.us" tvg-name="|US| FIGHT NETWORK" tvg-logo="http://138.199.27.237:8080/USA/FIGHTNETWORK.png" group-title="|US| SPORTS NETWORK",|US| FIGHT NETWORK
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54240
 
@@ -501,9 +537,6 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54240
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246970
 #EXTINF:-1 tvg-ID="" tvg-name="|US| UFC Channel" tvg-logo="http://138.199.27.237:8080/USA/UFC.png" group-title="|US| UFC NETWORK",|US| UFC Channel
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/156530
-
-#EXTINF:-1 tvg-ID="" tvg-name="EN | DAZN FIFA CUP HD EN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/2015_FIFA_Club_World_Cup.svg/1200px-2015_FIFA_Club_World_Cup.svg.png" group-title="|UK| SPORTS",EN | DAZN FIFA CUP HD EN
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1390353
 
 #EXTINF:-1 tvg-ID="espn.nz" tvg-name="|NZ| SKY ESPN ???" tvg-logo="https://pbs.twimg.com/profile_images/629268708620431360/lS_hY3As_400x400.jpg" group-title="|NZ| NEW ZEALAND",|NZ| SKY ESPN ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579815
@@ -513,12 +546,8 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579814
 
 #EXTINF:-1 tvg-ID="skysport1.nz" tvg-name="|NZ| SKY SPORTS 1 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 1 ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579826
-
 #EXTINF:-1 tvg-ID="skysport2.nz" tvg-name="|NZ| SKY SPORTS 2 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 2 ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579825
-
-#EXTINF:-1 tvg-ID="skys
-
 #EXTINF:-1 tvg-ID="skysport3.nz" tvg-name="|NZ| SKY SPORTS 3 ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS 3 ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/579824
 #EXTINF:-1 tvg-ID="eden.nz" tvg-name="|NZ| SKY SPORTS Premier League ???" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="|NZ| NEW ZEALAND",|NZ| SKY SPORTS Premier League ???
@@ -560,10 +589,6 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11203
 #EXTINF:-1 tvg-ID="espn2.us" tvg-name="|US| ESPN 2 ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="|US| SPORTS NETWORK",|US| ESPN 2 ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11204
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 1 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 1 ??
-http://top102856-4k.org:80/abderahimkangoo201/
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 1 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 1 ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304468
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| OPTUS SPORT 2 ??" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="|UK| HUB SPORTS",|UK| OPTUS SPORT 2 ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/304469
@@ -579,28 +604,12 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/50272
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/303269
 
 
-#EXTINF:-1 tvg-id="Astro.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/SsFqsF1w/IMG-2881.png", Astro Premier League
-https://live.catvod.com/smart.php?id=go_assp1/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/wxF8KmHK/IMG-2880.webp", Astro Premier League 2
-https://live.catvod.com/smart.php?id=go_assp2/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/xCcH0m7s/IMG-2879.png", Astro Football 
-https://live.catvod.com/smart.php?id=go_assp4/playlist.m3u8
-#EXTINF:-1 ,True Premier 1
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 ,True Premier 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 ,True Premier 3
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 ,True Premier 4
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 1
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 3
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
 
 
 
@@ -623,62 +632,12 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/5427001/pk6o5g2s9o/5426
 #EXTINF:-1 tvg-ID="foxnews.us" tvg-name="|US| FOX NEWS. ???." tvg-logo="http://138.199.27.237:8080/USA/FOXNEWSHD.png" group-title="|US| NEWS NETWORK",|US| FOX NEWS. ???.
 http://top102856-4k.org:80/abderahimkangoo201/pk6#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
 http://top102856-4k.org:80/abderahimkangoo2
-#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|US| SKY NEWS AMERICA ??" tvg-logo="http://138.199.27.237:8080/USA/SKYNEWS.png" group-title="|US| NEWS NETWORK",|US| SKY NEWS AMERICA ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75411
+
 #EXTINF:-1 tvg-ID="newsnation.us" tvg-name="|US| NEWS NATION HD" tvg-logo="" group-title="|US| NEWS NETWORK",|US| NEWS NATION HD
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1262308
-#EXTINF:-1 tvg-ID="tvone.uk" tvg-name="|UK| RTE ONE ??" tvg-logo="http://138.199.27.237:8080/UK/RTEONE.png" group-title="|UK| KINGDOM",|UK| RTE ONE ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10495
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/126230
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RT NEWS ENGLISH" tvg-logo="http://194.163.160.164/NEWS/RT.png" group-title="News ",RT NEWS ENGLISH
-http://forevertv.me:2095/1234578/Wq6wdahq497563/395722
-#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| TV5  Style HD" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TV5MONDESTYLE.png" group-title="|FR| TNT HD",|FR| TV5  Style HD
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/2583
-#EXTINF:-1 tvg-id="cnninternationalna.ca" tvg-name="CA: CNN INTERNATIONAL HD" tvg-logo="https://i.ibb.co/qyW6WyP/Asset-2-8x.png" group-title="Canada",CA: CNN INTERNATIONAL HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/87596
-#EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75417
-#EXTINF:-1 tvg-ID="cnn.us" tvg-name="|US| CNN ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.png" group-title="|US| NEWS NETWORK",|US| CNN ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13154
-#EXTINF:-1 tvg-ID="fox.uk" tvg-name="||UK|| FOX NEWS" tvg-logo="http://138.199.27.237:8080/UK/FOX.png" group-title="|UK| KINGDOM",||UK|| FOX NEWS
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13640
-#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|UK| EURONEWS" tvg-logo="http://138.199.27.237:8080/UK/EURONEWS.png" group-title="|UK| KINGDOM",|UK| EURONEWS
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13638
-#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| ALJAZEERA NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|UK| KINGDOM",|UK| ALJAZEERA NEWS ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13644
-#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="|UK| BBC WORLD NEWS" tvg-logo="http://138.199.27.237:8080/UK/BBCNEWS.png" group-title="|UK| KINGDOM",|UK| BBC WORLD NEWS
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13645
-#EXTINF:-1 tvg-ID="" tvg-name="|US| BBC World News" tvg-logo="
-
-
-#EXTINF:-1,US: ABC News
-http://filex.me:8080/000003/000003/291227
-#EXTINF:-1 tvg-ID="aljazeeraenglish.qa" tvg-name="|US| AL JAZEERA ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|US| NEWS NETWORK",|US| AL JAZEERA ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279310
-#EXTINF:-1 tvg-ID="bbcworldnewsnorthamerica.us" tvg-name="|US| BBC WORLD NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/BBCWORLDNEWS.png" group-title="|US| NEWS NETWORK",|US| BBC WORLD NEWS ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279309
-#EXTINF:-1 tvg-ID="cnninternational.us" tvg-name="|US| CNN INTERNATIONAL ??" tvg-logo="http://138.199.27.237:8080/USA/CNNHD.group-title
-
-roup-title="|US| NEWS NETWORK",|US| CNN INTERNATIONAL ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/279311
-#EXTINF:-1 tvg-ID="dwenglishl.us" tvg-name="|US| DW" tvg-logo="http://138.199.27.237:8080/USA/DW.png" group-title="|US| NEWS NETWORK",|US| DW
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75367
-#EXTINF:-1 tvg-id="dwenglishl.us" tvg-name="US- DW English" tvg-logo="https://i.ibb.co/S7QdSKp/Asset-1-8x.png" group-title="USA ",US- DW English
-http://forevertv.me:2095/1234578/Wq6wdahq497563/82429
-#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
-http://top102856-4k.org:80/abderahimkangoo2
-#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|US| FRANCE 24 (English)" tvg-logo="http://138.199.27.237:8080/USA/FRANCE24.png" group-title="|US| NEWS NETWORK",|US| FRANCE 24 (English)
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/5427001/pk6o5g2s9o/54268
-#EXTINF:-1 tvg-ID="foxnews.us" tvg-name="|US| FOX NEWS. ???." tvg-logo="http://138.199.27.237:8080/USA/FOXNEWSHD.png" group-title="|US| NEWS NETWORK",|US| FOX NEWS. ???.
-http://top102856-4k.org:80/abderahimkangoo201/pk6#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="|US| EURONEWS" tvg-logo="http://138.199.27.237:8080/USA/EURONEWS.png" group-title="|US| NEWS NETWORK",|US| EURONEWS
-http://top102856-4k.org:80/abderahimkangoo2
-#EXTINF:-1 tvg-ID="newsnation.us" tvg-name="|US| NEWS NATION HD" tvg-logo="" group-title="|US| NEWS NETWORK",|US| NEWS NATION HD
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1262308
-
+#EXTINF:-1,UK: RTE NEWS
+http://206.212.244.71:8080/5467546/3648794/79108
 #EXTINF:-1 tvg-id="" tvg-name="RT NEWS ENGLISH" tvg-logo="http://194.163.160.164/NEWS/RT.png" group-title="News ",RT NEWS ENGLISH
 http://forevertv.me:2095/1234578/Wq6wdahq497563/395722
 #EXTINF:-1 tvg-ID="" tvg-name="|US| TRT WORLD ???" tvg-logo="http://138.199.27.237:8080/USA/TRTWORLD.png" group-title="|US| NEWS NETWORK",|US| TRT WORLD ???
@@ -703,20 +662,46 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13645
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/230835
 #EXTINF:-1 tvg-id="France24.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5t7VKhvW/IMG-2682.png", France 24
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-#EXTINF:-1 tvg-id="DW.gr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.
+#EXTINF:-1 tvg-id="DW.gr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/02JnwwPq/IMG-2745.png", DW En
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="Aljazeera.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/ZRX02B3m/IMG-2686.png", Al Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="BBC.cn" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Kzv35v22/IMG-1948.png", BBC World News 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
+#EXTINF:-1 tvg-id="CNN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/hvgm5x6D/IMG-2117.png", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="FOX.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8zTkSnj4/IMG-2254.png", FOX News
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FOX.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3Ns0rNzT/IMG-2315.png", LiveNow from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="||UK|| FOX NEWS" tvg-logo="http://138.199.27.237:8080/UK/FOX.png" group-title="|UK| KINGDOM",||UK|| FOX NEWS
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13640
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="|UK| ALJAZEERA NEWS ??" tvg-logo="http://138.199.27.237:8080/USA/ALJAZEERA.png" group-title="|UK| KINGDOM",|UK| ALJAZEERA NEWS ??
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13644
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="|US| FRANCE 24 (English)" tvg-logo="http://138.199.27.237:8080/USA/FRANCE24.png" group-title="|US| NEWS NETWORK",|US| FRANCE 24 (English)
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54270
 
 
-#EXTINF:-1 tvg-id="bbcearthenglish.qa" tvg-name="BeIN BBC Earth HD" tvg-logo="http://194.163.160.164/BEIN/BEIN.BBC.EARTH.HD.png" group-title="beIN Entertainment",BeIN BBC Earth HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/10723
-#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="BeIN National Geographic Wild FHD" tvg-logo="http://194.163.160.164/BEIN/BEIN.NATIONAL.GEOGRAPHIC.WILD.FHD.png" group-title="beIN Entertainment",BeIN National Geographic Wild FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/33609
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| RUSSIA TODAY HD" tvg-logo="" group-title=" AFI DSTV GENERAL ENTERTAINMENT",DSTV| RUSSIA TODAY HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/85681.ts
 
-#EXTINF:-1,NL: ANIMAL PLANET
-http://filex.me:8080/000003/000003/303611
-#EXTINF:-1,NL: Love Nature
-http://filex.me:8080/000003/000003/303612
-#EXTINF:-1,NL: NAT GEO Wild
-http://filex.me:8080/000003/000003/303613
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| AL JAZEERA HD" tvg-logo="" group-title=" AFI DSTV GENERAL ENTERTAINMENT",DSTV| AL JAZEERA HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/85646.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| CNN INTERNATIONAL HD" tvg-logo="" group-title=" AFI DSTV GENERAL ENTERTAINMENT",DSTV| CNN INTERNATIONAL HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/85647.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| WILD EARTH HD" tvg-logo="" group-title=" AFI DSTV DOCUMENTAIRES",DSTV| WILD EARTH HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/85639.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| BBC EARTH HD" tvg-logo="" group-title=" AFI DSTV DOCUMENTAIRES",DSTV| BBC EARTH HD
+http://wolfultra.sbs:8880/live/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/85640.ts
+
 
 #EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="|UK| ANIMAL PLANT ???" tvg-logo="http://138.199.27.237:8080/UK/ANIMALPLANETHD.png" group-title="|UK|  DOCUMENTARY",|UK| ANIMAL PLANT ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/58613
@@ -736,12 +721,7 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/246722
 
 #EXTINF:-1 tvg-id="Xplore.us" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/c4qbpfNk/IMG-2820.png", Xplore
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="BBC.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/KvN6yXcp/IMG-1985.png", BBC Earth 
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
-#EXTINF:-1 tvg-id="Natgeo.us" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/vZpcKfxJ/IMG-2120.png", Nat Geo Wild
-http://143.244.60.30/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="Wildearth.uk" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/W11QN9hN/IMG-2020.png", Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
 
 #EXTINF:-1 tvg-id="WildNature.ca" group-title=" THAILAND" tvg-logo="https://i.postimg.cc/8C4ksyxP/IMG-2459.png", Wild Nature 
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/491.m3u8
@@ -751,10 +731,7 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 https://fl5.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| LOVE NATURE  ???" tvg-logo="" group-title="|UK|  DOCUMENTARY",|UK| LOVE NATURE  ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/264338
-#EXTINF:-1,NL: Love Nature HD
-http://vlue.life:80/live/Amia4029@/snzLttrWzS/486097.m3u8
-#EXTINF:-1,NL: Love Nature 4K
-http://vlue.life:80/live/Amia4029@/snzLttrWzS/486098.m3u8
+
 #EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="|US| National Geographic Wild ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|US| ENTERTAINMENT NETWORK",|US| National Geographic Wild ??
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11171
 #EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="|US| Nat Geo Wild ??" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Nat Geo Wild ??
@@ -763,14 +740,14 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13106
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11173
 #EXTINF:-1 tvg-ID="natgeo.us" tvg-name="|US| Nat Geo ?? West" tvg-logo="http://138.199.27.237:8080/USA/NATGEOUSA.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Nat Geo ?? West
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/276023
-#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="|US| Animal Planet" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Ani
+#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="|US| Animal Planet" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Animal Planet
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11192
+#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="|US| Animal Planet ?? West" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="|US| ENTERTAINMENT NETWORK",|US| Animal Planet ?? West
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/276022
 
-#EXTINF:-1 tvg-id="natgeowild.sa" tvg-name="OSN National Geographic Wild FHD" tvg-logo="http://194.163.160.164/OSN/OSN.NATIONAL.GEOGRAPHIC.WILD.png" group-title="OSN FHD",OSN National Geographic Wild FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/984
-#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet HD" tvg-logo="http://194.163.160.164/OSN/OSN.ANIMAL.PLANET.png" group-title="OSN FHD",OSN Animal Planet HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/2587
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA: LOVE NATURE HD" tvg-logo="http://luz20.com/logos/picon-canada/lovenature.png" group-title="Canada",CA: LOVE NATURE HD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/87634
+
+
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="|UK| PLUTO TV HORROR" tvg-logo="http://138.199.27.237:8080/UK/PLUTO.png" group-title="|UK|  PLUTO TV",|UK| PLUTO TV HORROR
@@ -819,8 +796,26 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11194
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54246
 #EXTINF:-1,US SONY Movies FHD 
 http://206.212.244.71:8080/5467546/3648794/2214
-#EXTINF:-1 tvg-ID="americanheroeschannel.us" tvg-name="|US| American Heroes Channel" tvg-logo="http://185.165.243.195/logo_plus/USA/AMERICANHEROCHANNELHD.png" group-title="|US| ENTERTAINMENT NETWORK",|US| American Heroes Channel
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/11193
+
+
+#EXTINF:-1 tvg-ID="bbcamerica.us" tvg-name="|US| BBC AMERICA" tvg-logo="http://138.199.27.237:8080/USA/BBCAmerica.png" group-title="|US| MOVIES NETWORK",|US| BBC AMERICA
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/13085
+
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BOX OFFICE 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/320.png" group-title="|UK| BOX OFFICE 24/7",|UK| BOX OFFICE 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54355
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BOX OFFICE 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/320.png" group-title="|UK| BOX OFFICE 24/7",|UK| BOX OFFICE 1
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54355
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BOX OFFICE 2" tvg-logo="http://138.199.27.237:8080/0tv_logo/321.png" group-title="|UK| BOX OFFICE 24/7",|UK| BOX OFFICE 2
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54356
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BOX OFFICE 3" tvg-logo="http://138.199.27.237:8080/0tv_logo/322.png" group-title="|UK| BOX OFFICE 24/7",|UK| BOX OFFICE 3
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54357
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BOX OFFICE 4" tvg-logo="http://138.199.27.237:8080/0tv_logo/323.png" group-title="|UK| BOX OFFICE 24/7",|UK| BOX OFFICE 4
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54358
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BOX OFFICE 5" tvg-logo="http://138.199.27.237:8080/0tv_logo/324.png" group-title="|UK| BOX OFFICE 24/7",|UK| BOX OFFICE 5
+http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/54359
+
+
+
 
 #EXTINF:-1,IN | MOVIE NOW HD
 http://filex.me:8080/000003/000003/113
@@ -841,25 +836,68 @@ http://filex.me:8080/000003/000003/23
 #EXTINF:-1,IN | & FLIX HD
 http://filex.me:8080/000003/000003/55
 
-#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="|US| SKY NEWS AMERICA ??" tvg-logo="http://138.199.27.237:8080/USA/SKYNEWS.png" group-title="|US| NEWS NETWORK",|US| SKY NEWS AMERICA ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/75411
-#EXTINF:-1 tvg-ID="tvone.uk" tvg-name="|UK| RTE ONE ??" tvg-logo="http://138.199.27.237:8080/UK/RTEONE.png" group-title="|UK| KINGDOM",|UK| RTE ONE ??
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/10495
-#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN Star Movies 4K" tvg-logo="https://i.ibb.co/BP0SjRS/Asset-23-24x.png" group-title="OSN 4K",OSN Star Movies 4K
-http://forevertv.me:2095/1234578/Wq6wdahq497563/207485
-#EXTINF:-1 tvg-id="starworld.sa" tvg-name="OSN Star World 4K" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.WORLD.png" group-title="OSN 4K",OSN Star World 4K
-http://forevertv.me:2095/1234578/Wq6wdahq497563/207505
-#EXTINF:-1 tvg-id="starmovies.sa" tvg-name="OSN Star Movies FHD" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.MOVIES.png" group-title="OSN FHD",OSN Star Movies FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/7697
-#EXTINF:-1 tvg-id="starworld.sa" tvg-name="OSN Star World FHD" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.WORLD.png" group-title="OSN FHD",OSN Star World FHD
-http://forevertv.me:2095/1234578/Wq6wdahq497563/250
 
-#EXTINF:-1,AL: Netflix Aventure
-http://filex.me:8080/000003/000003/303810
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror HD Netflix Movies | نت فلكس افلام" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/NETFLIXMOVIES.png" group-title="Netflix Movies",Netflix Horror HD Netflix Movies | نت فلكس افلام
-http://forevertv.me:2095/1234578/Wq6wdahq497563/350192
-#EXTINF:-1 tvg-id="" tvg-name="Netflix James Bond 007" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/NETFLIXMOVIES.png" group-title="Netflix Movies",Netflix James Bond 007
-http://forevertv.me:2095/1234578/Wq6wdahq497563/349891
+
+
+#EXTINF:-1 tvg-id="andPrive HD" tvg-name="IN | & Prive 4K HD" tvg-logo="" group-title="INDIAN ? 4K",IN | & Prive 4K HD
+http://filex.me:8080//live/000003/000003/275043.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN | & FLIX TV 4K HD" tvg-logo="" group-title="INDIAN ? 4K",IN | & FLIX TV 4K HD
+http://filex.me:8080//live/000003/000003/275041.ts
+
+#EXTINF:-1 tvg-id="STAR Movies" tvg-name="IN | STAR Movies HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png" group-title="INDIAN ? ENTERTAINMENT",IN | STAR Movies HD
+http://filex.me:8080//live/000003/000003/52223.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN | Movie NOW HD" tvg-logo="https://i.imgur.com/LP27MEL.png" group-title="INDIAN ? ENTERTAINMENT",IN | Movie NOW HD
+http://filex.me:8080//live/000003/000003/113.ts
+#EXTINF:-1 tvg-id="Star Movies Select" tvg-name="IN | STAR Movies Select English HD" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png" group-title="INDIAN ? ENTERTAINMENT",IN | STAR Movies Select English HD
+http://filex.me:8080//live/000003/000003/52225.ts
+
+#EXTINF:-1 tvg-id="MN+ HD" tvg-name="IN | MN PLUS 4K HD" tvg-logo="" group-title="INDIAN ? 4K",IN | MN PLUS 4K HD
+http://filex.me:8080//live/000003/000003/275057.ts
+#EXTINF:-1 tvg-id="MNX" tvg-name="IN | MNX 4K HD" tvg-logo="" group-title="INDIAN ? 4K",IN | MNX 4K HD
+http://filex.me:8080//live/000003/000003/530420.ts
+#EXTINF:-1 tvg-id="MNX" tvg-name="IN | MnxHD 4K" tvg-logo="" group-title="INDIAN ? 4K",IN | MnxHD 4K
+http://filex.me:8080//live/000003/000003/530421.ts
+
+#EXTINF:-1 tvg-id="SONY PIX" tvg-name="IN | SONY PIX 4K HD" tvg-logo="" group-title="INDIAN ? 4K",IN | SONY PIX 4K HD
+http://filex.me:8080//live/000003/000003/275048.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | Movie NOW HD" tvg-logo="https://i.imgur.com/LP27MEL.png" group-title="INDIAN ? ENTERTAINMENT",IN | Movie NOW HD
+http://filex.me:8080//live/000003/000003/113.ts
+
+
+
+#EXTINF:-1,M4: Megan Fox
+http://206.212.244.71:8080/5467546/3648794/215428
+#EXTINF:-1,M4: Sandra Bullock
+http://206.212.244.71:8080/5467546/3648794/215417
+#EXTINF:-1,M4: Nicole Kidman
+http://206.212.244.71:8080/5467546/3648794/215413
+#EXTINF:-1,M4: Tom Cruise
+http://206.212.244.71:8080/5467546/3648794/215370
+#EXTINF:-1,M4: Tom Hanks
+http://206.212.244.71:8080/5467546/3648794/215371
+#EXTINF:-1,M4: Will Smith
+http://206.212.244.71:8080/5467546/3648794/215372
+#EXTINF:-1,M4: Adam Sandler
+http://206.212.244.71:8080/5467546/3648794/215373
+#EXTINF:-1,M4: Arnold Schwarzenegger
+http://206.212.244.71:8080/5467546/3648794/215374
+#EXTINF:-1,M4: Daniel Craig
+http://206.212.244.71:8080/5467546/3648794/215375
+#EXTINF:-1,M4: Dwayne Johnson
+http://206.212.244.71:8080/5467546/3648794/215376
+#EXTINF:-1,M4: Gerard Butler
+http://206.212.244.71:8080/5467546/3648794/215377
+#EXTINF:-1,M4: Jackie Chan
+http://206.212.244.71:8080/5467546/3648794/215378
+#EXTINF:-1,M4: Jason Statham
+http://206.212.244.71:8080/5467546/3648794/215379
+#EXTINF:-1,M4: Kevin Hart
+http://206.212.244.71:8080/5467546/3648794/215380
+#EXTINF:-1,M4: Orlando Bloom
+http://206.212.244.71:8080/5467546/3648794/215381
+#EXTINF:-1,M4: Sylvester Stallone
+http://206.212.244.71:8080/5467546/3648794/215382
 
 #EXTINF:-1 tvg-ID="" tvg-name="US | The Walking Dead en espa�ol" tvg-logo="" group-title="|US| PLUTO TV",US | The Walking Dead en espa�ol
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/247022
@@ -872,567 +910,546 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419268
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 Baywatch" tvg-logo="" group-title="|US| BOX OFFICE 24/7",24/7 Baywatch
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/419275
 
-#EXTINF:-1 tvg-id="" tvg-name="Arnold Schwarzenegger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Arnold_Schwarzenegger_by_Gage_Skidmore_4.jpg" group-title="English Cinema Stars ",Arnold Schwarzenegger
-http://forevertv.me:2095/1234578/Wq6wdahq497563/272929
-#EXTINF:-1 tvg-id="" tvg-name="Tom Cruies" tvg-logo="https://vz.cnwimg.com/thumb-1200x/wp-content/uploads/2009/09/tc.jpg" group-title="English Cinema Stars ",Tom Cruies
-http://forevertv.me:2095/1234578/Wq6wdahq497563/214629
 
 #EXTINF:-1,NC: Anaconda
 http://filex.me:8080/movie/000003/000003/315559.mkv
 #EXTINF:-1,NC: Anacondas-The Hunt For The Blood Orchid
 http://filex.me:8080/movie/000003/000003/315560.mkv
-#EXTINF:-1,Anaconda (1997)
-http://filex.me:8080/movie/000003/000003/483975.mp4
-#EXTINF:-1,Anacondas: The Hunt for the Blood Orchid (2004)
-http://filex.me:8080/movie/000003/000003/483976.mkv
 
-#EXTINF:-1,Apocalypto
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147120.mp4
-#EXTINF:-1,AVATAR 2022
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/389717.mp4
-#EXTINF:-1,August Rush
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105817.mp4
-#EXTINF:-1,A Brave Heart
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105793.mp4
-#EXTINF:-1,Braveheart 1995
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105393.mkv
-#EXTINF:-1,Behind Enemy Lines 2001
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/657265.mp4
-#EXTINF:-1,Behind Enemy Lines II Axis of Evil
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147156.mp4
-#EXTINF:-1,Black Hawk Down
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105829.mp4
-#EXTINF:-1,Blood Diamond
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170627.mp4
-#EXTINF:-1,Blade II
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170617.mp4
-#EXTINF:-1,Blade
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Rain (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNtzC4qQBoSVf81lNZ5xDkNMCqL.jpg" group-title="VOD | FRANCE",Black Rain (1989)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/32528.mp4
 #EXTINF:-1,NC: Basic Instinct
-http://filex.me:8080/movie/000003/000003/315594.mkv
-
-#EXTINF:-1,Conan The Destroyer
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170950.mkv
-#EXTINF:-1,Conan The Barbarian
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170949.mkv
-#EXTINF:-1,Con Air
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170948.mkv
-#EXTINF:-1,Cellular
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146992.mp4
-#EXTINF:-1,Crying Freeman
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170981.mp4
-#EXTINF:-1,Casino Royale
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146989.mp4q
-
-#EXTINF:-1,Deep Blue Sea 1 1999
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/484910.mp4
-#EXTINF:-1,Deep Blue Sea 2 2018
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/484911.mp4
-#EXTINF:-1,Deep Blue Sea 3 2020
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/484912.mp4
-#EXTINF:-1,Double Impact
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171078.mkv
-#EXTINF:-1,Django Unchained
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171058.mp4
-
-#EXTINF:-1,Enemy at the Gates
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105532.mp4
-#EXTINF:-1,Enemy of the State
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171126.mkv
-#EXTINF:-1,For A Few Dollars More
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171203.mp4
+http://filex.me:8080/movie/000003/000003/315594.m
 #EXTINF:-1 tvg-ID="" tvg-name="FR - Evil Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg" group-title="|FR| HOROR",FR - Evil Dead
 http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/322584.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="FR - Evil Dead 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg" group-title="|FR| HOROR",FR - Evil Dead 2
 http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/322582.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="FR - Evil Dead 3 : L'Arm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg" group-title="|FR| HOROR",FR - Evil Dead 3 : L'Arm
-http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/322583.mkv
-#EXTINF:-1,Hard Target
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171316.mkv
-#EXTINF:-1,Forrest Gump
-http://vlue.life:80/movie/Amia4
-029@/snzLttrWzS/171207.mkv
-#EXTINF:-1,Fury 2014
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/289608.mp4
-#EXTINF:-1,Saving Private Ryan
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EN: Saving Private Ryan 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JC8KQ2BXaAIFEU8zEuakiwUQSr.jpg" group-title="EN | Top Rated IMDb",EN: Saving Private Ryan 1998
-http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/88055.mp4
-#EXTINF:-1,Ghost Rider: Spirit of Vengeance
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171250.mp4
-#EXTINF:-1,Ghost Rider Spirit Of Vengeance
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171249.mkv
-#EXTINF:-1,Ghost Rider
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171248.mkv
-#EXTINF:-1,Valkyrie
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141269.mp4
-#EXTINF:-1,NC: The Rock
-http://filex.me:8080/movie/000003/000003/314586.mkv
-#EXTINF:-1,Hitman Agent 47
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PER: Die Another Day 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg" group-title="Iranian Movies (Subtitle) ",PER: Die Another Day 2002
-http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/158649.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PER: Casino Royale2006" tvg-logo="https://productimages.hepsiburada.net/s/92/375/110000034855574.jpg" group-title="Iranian Movies (Subtitle) ",PER: Casino Royale2006
-http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/157996.mkv
-#EXTINF:-1,Sword of Destiny
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/235842.mkv
-#EXTINF:-1,Total Recall
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171826.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="FR - Evil Dead 3 : L'Arm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg" group-title=
+
 #EXTINF:-1,DE: Ghosts Of War
 http://filex.me:8080/movie/000003/000003/307204.mkv
-#EXTINF:-1,Indiana Jones And The Raiders Of The Lost Ark
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170824.mp4
-#EXTINF:-1,Indiana Jones and the Last Crusade
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170823.mp4
-#EXTINF:-1,Independence Day
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170822.mkv
 
-#EXTINF:-1,Skyfall
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149520.mp4
-#EXTINF:-1,Shooter
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149511.mp4
-#EXTINF:-1,Ninja Assassin
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149384.mp4
-#EXTINF:-1,I Am Legend
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Am Legend 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD | FRANCE",I Am Legend 2
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/33133.mkv
-#EXTINF:-1,Maximum Risk
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171431.mkv
-#EXTINF:-1,Lone Survivor
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171392.mkv
-#EXTINF:-1,Titanic 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/499222.mkv
-#EXTINF:-1,Pretty Woman 1990
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/489517.mp4
-
-#EXTINF:-1,Titanic 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/499222.mp
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/572680.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="FR - The Revenant - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="|FR| WESTERN",FR - The Revenant - 2015
 http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/315176.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="FR - River of No Return - 1954" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXYjgPad6IIfZfCtzLuWTnJdijo.jpg" group-title="|FR| WESTERN",FR - River of No Return - 1954
-http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/315120.mkv
-#EXTINF:-1,The Last of the Mohicans 1992
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/579687.mp
-#EXTINF:-1,T 34
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147291.mp4
-#EXTINF:-1,Mr. & Mrs. Smith (2005)
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/608620.mkv
-
-#EXTINF:-1,Evil Dead Rise 4K 2023
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/411876.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Rain (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNtzC4qQBoSVf81lNZ5xDkNMCqL.jpg" group-title="VOD | FRANCE",Black Rain (1989)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/32528.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Terminator: Dark Fate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82HDCTyZodnquPmX1dmGlfDVysL.jpg" group-title="VOD | GERMANY NEU",Terminator: Dark Fate (2019)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/55592.mkv
-
-#EXTINF:-1,Jason Bourne
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146969.mp4
-
-#EXTINF:-1,Forrest Gump
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171207.mkv
 
 
-#EXTINF:-1,Ip Man 2008
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633707.mp4
-#EXTINF:-1,Ip Man 2 2010
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633708.mp4
-#EXTINF:-1,Ip Man 3 2015
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633709.mp4
-#EXTINF:-1,Ip Man 4 The Finale 2019
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633710.mp4
-#EXTINF:-1,Ip Man Kung Fu Master 2019
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633711.mp4
-#EXTINF:-1,Ip Man The Awakening 2022
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633712.mp4
-#EXTINF:-1,Ip Man The Final Fight 2013
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633713.mp4
-#EXTINF:-1,Master Z Ip Man Legacy 2018
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633714.mp4
-#EXTINF:-1,The Legend Is Born Ip Man 2010
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/633715.mp4
-#EXTINF:-1,Once Upon a Time in the West (1968)
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/622788.mkv
-#EXTINF:-1,Predator
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171605.mkv
-#EXTINF:-1,NC: Predator 2
-http://filex.me:8080/movie/000003/000003/315287.mkv
-#EXTINF:-1,NC: Predator 3
-http://filex.me:8080/movie/000003/000003/315288.mkv
-#EXTINF:-1,O Predador: A Caçada (2022)
-http://bktv.xyz:8080/movie/Lilian3/Lil56/1141265.mp4
-
-#EXTINF:-1,Mission Impossible 1 1996
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561822.mkv
-#EXTINF:-1,Mission Impossible 2 2000
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561823.mkv
-#EXTINF:-1,Mission Impossible 3 2006
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561824.mkv
-#EXTINF:-1,Mission Impossible Dead Reckoning Part One 2023
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561825.mkv
-#EXTINF:-1,Mission Impossible Fallout 2018
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561826.mkv
-#EXTINF:-1,Mission Impossible Ghost Protocol 2011
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561827.mkv
-#EXTINF:-1,Mission Impossible Rogue Nation 2015
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/561828.mkv
-#EXTINF:-1,Mission: Impossible - The Final Reckoning Cam (2025)
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/734653.mkv
-#EXTINF:-1,Ong.Bak.1
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/372352.mkv
-#EXTINF:-1,Ong.Bak.2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/372353.mkv
-#EXTINF:-1,Ong.Bak.3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/372354.mk
-
-#EXTINF:-1,Fury
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171238.mp4
-#EXTINF:-1,Hollow Man
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141404.mp4
-#EXTINF:-1,Transporter 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141258.mp4
-#EXTINF:-1,Transporter 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141257.mp4
-#EXTINF:-1,The Transporter Refueled
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141247.mp4
-#EXTINF:-1,The Perfect Storm
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141243.mp4
-#EXTINF:-1,Sniper
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/155281.mp4
-#EXTINF:-1,The Italian Job
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147363.mp4
-#EXTINF:-1,The Bourne Ultimatum
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147323.mp4
-#EXTINF:-1,The Bourne Supremacy
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147322.mp4
-#EXTINF:-1,The Bourne Legacy
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147321.mp4
-#EXTINF:-1,The Bourne Identity
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147320.mp4
-#EXTINF:-1,Jason Bourne
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146969.mp4
-#EXTINF:-1,The Bouncer
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147319.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="|FR|  NETFLIX PREMIUM" tvg-logo="https://cryptonaute.fr/wp-content/uploads/2020/09/Netflix.png" group-title="|FR| CINEMA",|FR|  NETFLIX PREMIUM
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/231345
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE PREMIUM red" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="|FR| NUMERICABLE",|FR| ORANGE PREMIUM red
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/235467
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| ADULT SWIM red" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ADULTSWIM.png" group-title="|FR| NUMERICABLE",|FR| ADULT SWIM red
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/235468
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT FRANCE" tvg-logo="https://lo1.in/belg/rtfr.png" group-title="|FR| INFORMATIONS",|FR| RT FRANCE
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1082713
-#EXTINF:-1,T-34 2018
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/537109.mkv
-#EXTINF:-1,Face Off 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/551194.mkv
-#EXTINF:-1,A Night of Horror: Nightmare Radio
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/236850.mp4
-#EXTINF:-1,The Conjuring: The Devil Made Me Do It
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/232180.mkv
-#EXTINF:-1,Thir13en Ghosts
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/142067.mp4
-#EXTINF:-1,Fury
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171238.mp4
-#EXTINF:-1,Hollow Man
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141404.mp4
-#EXTINF:-1,Transporter 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141258.mp4
-#EXTINF:-1,Transporter 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141257.mp4
-#EXTINF:-1,The Transporter Refueled
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141247.mp4
-#EXTINF:-1,The Perfect Storm
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141243.mp4
-#EXTINF:-1,Sniper
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/155281.mp4
-#EXTINF:-1,The Italian Job
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147363.mp4
-#EXTINF:-1,The Bourne Ultimatum
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147323.mp4
-#EXTINF:-1,The Bourne Supremacy
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147322.mp4
-#EXTINF:-1,The Bourne Legacy
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147321.mp4
-#EXTINF:-1,The Bourne Identity
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147320.mp4
-#EXTINF:-1,Jason Bourne
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146969.mp4
-#EXTINF:-1,The Bouncer
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147319.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|  NETFLIX PREMIUM" tvg-logo="https://cryptonaute.fr/wp-content/uploads/2020/09/Netflix.png" group-title="|FR| CINEMA",|FR|  NETFLIX PREMIUM
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/231345
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE PREMIUM red" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="|FR| NUMERICABLE",|FR| ORANGE PREMIUM red
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/235467
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| ADULT SWIM red" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ADULTSWIM.png" group-title="|FR| NUMERICABLE",|FR| ADULT SWIM red
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/235468
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT FRANCE" tvg-logo="https://lo1.in/belg/rtfr.png" group-title="|FR| INFORMATIONS",|FR| RT FRANCE
-http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1082713
-#EXTINF:-1,T-34 2018
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/537109.mkv
-#EXTINF:-1,Face Off 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/551194.mkv
-#EXTINF:-1,A Night of Horror: Nightmare Radio
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/236850.mp4
-#EXTINF:-1,The Conjuring: The Devil Made Me Do It
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/232180.mkv
-#EXTINF:-1,Thir13en Ghosts
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/142067.mp4
 
-#EXTINF:-1,Parker
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141165.mp4
-#EXTINF:-1,Scream 1
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/426087.mp4
-#EXTINF:-1,Scream 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/426088.mp4
-#EXTINF:-1,Fright.Night.1985.4k
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/315509.mkv
-#EXTINF:-1,Lion
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105485.mp4
-#EXTINF:-1,The Equalizer 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146735.mp4
-#EXTINF:-1,The Equalizer
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146734.mp4
-#EXTINF:-1,The Marksman
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146775.mp4
-#EXTINF:-1,Four Brothers
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146887.mp4
-#EXTINF:-1,Die Another Day
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147038.mp4
-#EXTINF:-1,Apocalypto
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147120.mp4
 
-#EXTINF:-1,Dragon Blade the Beginning
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147650.mp4
-#EXTINF:-1,Once Upon a Time in Mexico
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149297.mp4
-#EXTINF:-1,Swords Of Legends
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/155164.mp4
-#EXTINF:-1,Sword Dynasty Fantasy Masterwork
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/155163.mp4
-#EXTINF:-1,The Nightmare
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/155566.mp4
-#EXTINF:-1,Vampires vs  the Bronx
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/156054.mp4
 
-#EXTINF:-1,Taken 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147295.mp4
-#EXTINF:-1,Taken 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147294.mp4
-#EXTINF:-1,Taken
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147293.mp4
-#EXTINF:-1,Train To Busan 2016
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/430208.mp4
-#EXTINF:-1,Train To Busan Presents Peninsula 2020
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/430209.mp4
-#EXTINF:-1,Venom: 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303333.mkv
-#EXTINF:-1,Venom: 1
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303332.mkv
-
-#EXTINF:-1,The Terminator 1984
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/454567.mp4
-#EXTINF:-1,Terminator 2 1991
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/454562.mp4
-#EXTINF:-1,Terminator 3 Rise of The Machines 2003
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/454563.mp4
-#EXTINF:-1,Terminator Salvation 2009
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/454566.mp4
-#EXTINF:-1,Terminator Genisys 2015
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/454565.mp4
-#EXTINF:-1,Terminator Dark Fate 2019
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/454564.mp4
-
-#EXTINF:-1,War
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/172112.mp4
-#EXTINF:-1,Windtalkers
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171896.mkv
-#EXTINF:-1,The World Is Not Enough
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149574.mp4
-#EXTINF:-1,Kung Fu Hustle
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147506.mp4
-#EXTINF:-1,King Kong
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147502.mp4
-#EXTINF:-1,The Last Samurai
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146764.mp4
-#EXTINF:-1,Resident Evil The Final Chapter
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149348.mp4
-#EXTINF:-1,Resident Evil Retribution
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149347.mp4
-#EXTINF:-1,Resident Evil Extinction
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149346.mp4
-#EXTINF:-1,Resident Evil Apocalypse
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149345.mp4
-#EXTINF:-1,Resident Evil Afterlife
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149344.mp4
-#EXTINF:-1,Resident Evil
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149343.mp4
-
-#EXTINF:-1,Troy
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141260.mp4
-#EXTINF:-1,300
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303203.mkv
-#EXTINF:-1,10.000 A.C. (2008)
-http://bktv.xyz:8080/movie/Lilian3/Lil56/1141326.mp4
-#EXTINF:-1,Underworld (2003)
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/698120.mkv
-#EXTINF:-1,Underworld Evolution (2006)
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/698121.mkv
 #EXTINF:-1,Underworld: Awakening (2012)
 http://206.212.244.71:8080/movie/5467546/3648794/200931.mp4
 #EXTINF:-1,Underworld: Blood Wars (2016)
 http://206.212.244.71:8080/movie/5467546/3648794/200932.mp4
-#EXTINF:-1,Underworld Awakening
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171844.mp4
-#EXTINF:-1,Underworld: Rise of the Lycans
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171843.mp4
-#EXTINF:-1,Underworld: Blood Wars
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171841.mp4
-#EXTINF:-1,Underwater
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171839.mp4
+
 #EXTINF:-1 tvg-ID="" tvg-name="Sholay - 1975" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg" group-title="|FR| BOLLYWOOD VOST",Sholay - 1975
 http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/449945.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="FR - The Revenant - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="|FR| ZIGGO GO",FR - The Revenant - 2015
 http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/318576.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="FR - The Marksman - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vcDalR50RWa309vBH1NLmG2rjQ.jpg" group-title="|FR| ZIGGO GO",FR - The Marksman - 2021
 http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/318574.mkv
-#EXTINF:-1,Active Shooter
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/163625.mp4
-#EXTINF:-1,Spider Man Far from Home
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149539.mp4
-#EXTINF:-1,Spider Man 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149538.mp4
-#EXTINF:-1,Spider Man 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149537.mp4
-#EXTINF:-1,Sniper Special Ops
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149528.mp4
-#EXTINF:-1,Sniper Reloaded
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149527.mp4
-#EXTINF:-1,Sniper Legacy
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149526.mp4
-#EXTINF:-1,Sniper Assassins End
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/149525.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Apocalypto (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg"
+
+ group-title="MLTI ACTION - AVENTURE",Apocalypto (2006)
+http://wolfultra.sbs:8880/movie/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/94646.avi
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Battleship (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg" group-title="MLTI ACTION - AVENTURE",Battleship (2012)
+http://wolfultra.sbs:8880/movie/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/94671.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg" group-title="MLTI ACTION - AVENTURE",Mission: Impossible - Rogue Nation (2015)
+http://wolfultra.sbs:8880/movie/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/95019.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="So Close (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdw5bISsOT9JLS4mB9OPxH91Sg5.jpg" group-title="MLTI ACTION - AVENTURE",So Close (2002)
+http://wolfultra.sbs:8880/movie/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/95131.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Total Recall (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg" group-title="MLTI ACTION - AVENTURE",Total Recall (1990)
+http://wolfultra.sbs:8880/movie/JaponBc:45:5b:c2:ab:ba/cEOOYqVxZg/95206.mkv
+
+
+
+
+
+
+
+#EXTINF:-1,The Lord of the Rings: The Fellowship of the Ring (2001)
+http://206.212.244.71:8080/movie/5467546/3648794/200893.mp4
+#EXTINF:-1,The Lord of the Rings: The Return of the King (2003)
+http://206.212.244.71:8080/movie/5467546/3648794/200894.mp4
+#EXTINF:-1,The Lord of the Rings: The Two Towers (2002)
+http://206.212.244.71:8080/movie/5467546/3648794/200895.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Evil Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcym9A0idLCFI1iIMRFiXKRvnbs.jpg" group-title="AMAZON | Science Fiction",Evil Eye (2022)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/143888.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Django the Bastard (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtzylsOLaSkMGZDBiFb5PGbrT9A.jpg" group-title="AMAZON | Western",Django the Bastard (1969)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/144166.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Behind Enemy Lines (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmNfyRNLKz7QaUOx49FeaHj82Aq.jpg" group-title="DISNEY | Action/Adventure",Behind Enemy Lines (2001)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/136916.mkv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="AMAZON | Documentaries",Underwater (2020)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/138351.mkv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Vampire Sisters (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygjHbvTM2pugSvGmy1oXZGQeqRq.jpg" group-title="AMAZON | Kids And Family",Vampire Sisters (2012)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/139437.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - The Final Reckoning (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" group-title="AMAZON | TOP",Mission: Impossible - The Final Reckoning (2025)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142507.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Forrest Gump (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg" group-title="AMAZON | TOP",Forrest Gump (1994)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142516.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg" group-title="AMAZON | TOP",Godzilla (2014)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142531.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr. & Mrs. Smith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg" group-title="AMAZON | TOP",Mr. & Mrs. Smith (2005)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142708.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Platoon (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg" group-title="AMAZON | TOP",Platoon (1986)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142765.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Red Corner (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsIbKOO1CacqTagyJmEGGf4kOnn.jpg" group-title="AMAZON | TOP",Red Corner (1997)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142779.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far From Home (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="AMAZON | TOP",Spider-Man: Far From Home (2019)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="AMAZON | TOP",Spider-Man: Homecoming (2017)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="AMAZON | TOP",Spider-Man: No Way Home (2021)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142850.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Legacy (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="AMAZON | TOP",The Bourne Legacy (2012)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142900.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Ultimatum (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg" group-title="AMAZON | TOP",The Bourne Ultimatum (2007)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142901.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg" group-title="AMAZON | TOP",The Equalizer 2 (2018)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg" group-title="AMAZON | TOP",The Equalizer (2014)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142919.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghosts of War (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jR2SSICqmyaVV4lcR3PfNldJBPc.jpg" group-title="AMAZON | Mystery And Thriller",Ghosts of War (2020)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/143235.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs4vieNstSEfbgLFEelXXOPvr6h.jpg" group-title="AMAZON | Western",Django (1966)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/144100.mkv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Predator (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg" group-title="DISNEY | Action/Adventure",The Predator (2018)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/137052.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jason Bourne (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziU0b3hRM6raH1u4wym02EYMLZ6.jpg" group-title="AMAZON | TOP",Jason Bourne (2016)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/142597.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Predator (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qa5e5AcwGfKFHHkXlqWNuPi7Yb.jpg" group-title="AMAZON | Historical",The Predator (2007)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/138815.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Thin Red Line (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg" group-title="AMAZON | Documentaries",The Thin Red Line (1998)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/138275.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Swordsman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r08U3dwiOeStXcjYmfnRyumgKyq.jpg" group-title="AMAZON | Action And Adventure",The Swordsman (2020)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/138026.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sword Master (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3nS6VMgudE3Urd6t4cG0bCXs5Y.jpg" group-title="AMAZON | Action And Adventure",Sword Master (2016)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/138014.mkv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Kingdom of the Crystal Skull (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56As6XEM1flWvprX4LgkPl8ii4K.jpg" group-title="AMAZON | Action And Adventure",Indiana Jones and the Kingdom of the Crystal Skull (2008)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/137957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Last Crusade (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg" group-title="AMAZON | Action And Adventure",Indiana Jones and the Last Crusade (1989)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/137958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Temple of Doom (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg" group-title="AMAZON | Action And Adventure",Indiana Jones and the Temple of Doom (1984)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/137959.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Predators (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7yrQtm8dc8jAomyGvZdcHIgq4X.jpg" group-title="AMAZON | 2025",Predators (2025)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/134533.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sword of Blood (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2u02Qj3NkselzB11wyjHDJqw72E.jpg" group-title="AMAZON | Historical",Sword of Blood (2011)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/138843.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Revenant (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="AMAZON | Horror",The Revenant (2012)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/139105.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Basic Instinct 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNRSbx6AhOlW673t2073Wr2iH4U.jpg" group-title="AMAZON | Mystery And Thriller",Basic Instinct 2 (2006)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/143118.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="To Die For (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg" group-title="AMAZON | Mystery And Thriller",To Die For (1995)
+http://vipboacnn.top:8080/movie/VIP0113172679126129/51732389530751/143552.mkv
+
+
+
+#EXTINF:-1,NC: T-34
+http://filex.me:8080/movie/000003/000003/314370.mkv
+
+#EXTINF:-1,NC: Saving Private Ryan
+http://filex.me:8080/movie/000003/000003/314700.mkv
+
+
+#EXTINF:-1,NC: Waterworld
+http://filex.me:8080/movie/000003/000003/314749.mkv
+
+#EXTINF:-1,NC: Django Unchained  [ Nordic-Subbed]
+http://filex.me:8080/movie/000003/000003/314754.mkv
+
+#EXTINF:-1,NC: Fury
+http://filex.me:8080/movie/000003/000003/315276.mkv
+
+#EXTINF:-1,NC: Titanic
+http://filex.me:8080/movie/000003/000003/315521.mkv
+
+
+#EXTINF:-1,Underworld: Awakening (2012)
+http://206.212.244.71:8080/movie/5467546/3648794/200931.mp4
+#EXTINF:-1,Underworld: Blood Wars (2016)
+http://206.212.244.71:8080/movie/5467546/3648794/200932.mp4
+#EXTINF:-1,Underworld: Evolution (2006)
+http://206.212.244.71:8080/movie/5467546/3648794/200933.mp4
+
+
+#EXTINF:-1,Blood Diamond (2006)
+http://206.212.244.71:8080/movie/5467546/3648794/199252.mp4
+
+
+
+
+
+
+#EXTINF:-1,Ghost  (1990)
+http://206.212.244.71:8080/movie/5467546/3648794/199909.mkv
+
+
+#EXTINF:-1,The Fugitive (1993)
+http://206.212.244.71:8080/movie/5467546/3648794/200146.mp4
+
+
+#EXTINF:-1,Waterworld (1995)
+http://206.212.244.71:8080/movie/5467546/3648794/200940.mp4
+
+
+
+#EXTINF:-1,The Hitman's Bodyguard (2017)
+http://206.212.244.71:8080/movie/5467546/3648794/201882.mkv
+
+
+
+#EXTINF:-1,Platoon (1986)
+http://206.212.244.71:8080/movie/5467546/3648794/202122.mp4
+
+
+
+#EXTINF:-1,Red Cliff Part 1 (2008)
+http://206.212.244.71:8080/movie/5467546/3648794/202125.mp4
+#EXTINF:-1,Red Cliff Part 2 (2009)
+http://206.212.244.71:8080/movie/5467546/3648794/202126.mp4
+
+
+#EXTINF:-1,The Guns of Navarone (1961)
+http://206.212.244.71:8080/movie/5467546/3648794/202162.mp4
+
+
+#EXTINF:-1,Spiral: Saw (2021)
+http://206.212.244.71:8080/movie/5467546/3648794/203160.mp4
+
+
+
+#EXTINF:-1,The Marksman (2021)
+http://206.212.244.71:8080/movie/5467546/3648794/203226.mkv
+
+
+#EXTINF:-1,Gone with the Wind (1939)
+http://206.212.244.71:8080/movie/5467546/3648794/205274.mp4
+
+
+
+#EXTINF:-1,The Departed (2006)
+http://206.212.244.71:8080/movie/5467546/3648794/205896.mp4
+
+
+#EXTINF:-1,The Face of Fu Manchu (1965)
+http://206.212.244.71:8080/movie/5467546/3648794/205903.mp4
+
+
+#EXTINF:-1,The Jackal (1997)
+http://206.212.244.71:8080/movie/5467546/3648794/205933.mp4
+
+
+#EXTINF:-1,The Saint (1997)
+http://206.212.244.71:8080/movie/5467546/3648794/205977.mp4
+
+
+#EXTINF:-1,The Equalizer 3 (2023)
+http://206.212.244.71:8080/movie/5467546/3648794/210430.mp4
+
+
+
+#EXTINF:-1,Saw X (2023)
+http://206.212.244.71:8080/movie/5467546/3648794/210726.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="War of the Arrows (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFt6SOJZH3ywiP2l6saryXCv8Jl.jpg" group-title="VOD | FRANCE",War of the Arrows (2011)
 http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/34435.mkv
-#EXTINF:-1,Nightmare Alley 4K
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/166489.mkv
-#EXTINF:-1,John Wick: Chapter 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303308.mkv
-#EXTINF:-1,John Wick: Chapter 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303280.mkv
-#EXTINF:-1,John Wick: Chapter 1
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303279.mkv
 
-#EXTINF:-1,The Matrix: 4
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303327.mkv
-#EXTINF:-1,The Matrix: 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303326.mkv
-#EXTINF:-1,The Matrix: 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303325.mkv
-#EXTINF:-1,The Matrix: 1
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/303324.mkv
-#EXTINF:-1,A View to a Kill
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147136.mp4
-#EXTINF:-1,Sniper: The Last Stand (2025)
-http://vlue.life:80/movie/Amia402)))))9@/snzLttrWzS/691788.mkv
-#EXTINF:-1,Tomorrow Never Dies 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/143218.mp4
-#EXTINF:-1,The Godfather Part II
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105552.mp4
-#EXTINF:-1,The Godfather
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105551.mp4
-#EXTINF:-1,Enemy at the Gates
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105532.mp4
-#EXTINF:-1,Red Dawn
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171646.mp4
-#EXTINF:-1,Django Unchained
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171058.mp4
-#EXTINF:-1,Live and Let Die 1973
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/143224.mp4
-#EXTINF:-1,Titanic 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/499222.mkv
-#EXTINF:-1,X-Men Origins: Wolverine
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171905.mp4
-#EXTINF:-1,X Men The Last Stand
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171904.mp4
-#EXTINF:-1,X-Men: First Class
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171903.mp4
-#EXTINF:-1,X-Men: Days of Future Past
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171902.mp4
-#EXTINF:-1,Iron Man 3
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170857.mp4
-#EXTINF:-1,Iron Man 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170856.mp4
-#EXTINF:-1,Iron Man
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/170855.mp4
-#EXTINF:-1,Ghost House
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/142044.mp4
-#EXTINF:-1,Ghost in the Shell
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141391.mp4
-#EXTINF:-1,Shanghai Noon
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141191.mp4
-#EXTINF:-1,Enemy at the Gates
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105532.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Sniper: The White Raven - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/295gZzTXMvuiIG0U19h4M44PXxI.jpg" group-title="|FR| GUERRE ET HISTOIRE",Sniper: The White Raven - 2022
-http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/301361.mkv
 
-#EXTINF:-1,Titanic 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/499222.mkv
-#EXTINF:-1,Mission: Impossible - The Final Reckoning Cam (2025)
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/734653.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Terminator: Dark Fate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82HDCTyZodnquPmX1dmGlfDVysL.jpg" group-title="VOD | GERMANY NEU",Terminator: Dark Fate (2019)
+http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/55592.mkv
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR - Skyfall - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNFECkwmrYoUQ17EnPTcSlRictV.jpg" group-title="|FR| 4K LIGHT",FR - Skyfall - 2012
+http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/316301.mkv
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR - Ghost Ship - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8xH46GiXAFmeFKpIstXJ5FqAL1.jpg" group-title="|FR| FILMS",FR - Ghost Ship - 2002
+http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/292793.mkv
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR - Evil Dead 3 : L'Arm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg" group-title="|FR| HOROR",FR - Evil Dead 3 : L'Arm
+http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/322583.mkv
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR - River of No Return - 1954" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXYjgPad6IIfZfCtzLuWTnJdijo.jpg" group-title="|FR| WESTERN",FR - River of No Return - 1954
+http://top102856-4k.org:80/movie/abderahimkangoo201/pk6o5g2s9o/315120.mkv
+
+
 #EXTINF:-1,Dracula Untold (2014)
 http://206.212.244.71:8080/movie/5467546/3648794/200675.mp4
-#EXTINF:-1,National Treasure
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171471.mkv
-#EXTINF:-1,National Treasure 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171470.mkv
-#EXTINF:-1,Lion Heart
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171379.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Six_Days_Seven_Nights" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lcqeZEvmQwZmFyhNDGLASpPUhl.jpg" group-title="VOD | SPAIN",Six_Days_Seven_Nights
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/36314.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Candyman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40FuQAiHjCvh9fYFigGAVWJ6Czu.jpg" group-title="VOD | SPAIN",Candyman (2021)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/35356.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The Gateway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUilTInQpzoK7iCkPjysamiVmjS.jpg" group-title="VOD | FRANCE",The Gateway (2021)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/34117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Getaway (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjht4NChg0ApadCRiqOPVVcRvtq.jpg" group-title="VOD | FRANCE",The Getaway (2017)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/34119.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5Q5o00Fxxt5E0rNpXrSLQyG50O.jpg" group-title="VOD | FRANCE",Django (1966)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/32824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Django Unchained (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hodO0759IB5LbzUiiLKB50gT2UO.jpg" group-title="VOD | FRANCE",Django Unchained (2012)
-http://nodns1.top:8080/movie/4671739083124675/76ec0877c8d6/32825.mp4
-#EXTINF:-1,Mark of the Devil
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/156139.mp4
-#EXTINF:-1,Revolution
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/171664.mkv
-#EXTINF:-1,FR: Django
-http://filex.me:8080/movie/000003/000003/170526.mkv
-#EXTINF:-1,Flying Swords Of Dragon Gate (2011)
-http://filex.me:8080/movie/000003/000003/484155.mp4
-#EXTINF:-1,T 34
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/147291.mp4
-#EXTINF:-1,Never Say Never Again
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/146865.mp4
-#EXTINF:-1,Tomorrow Never Dies 1997
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/143218.mp4
-#EXTINF:-1,Street Fighter 1994
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/143186.mkv
-#EXTINF:-1,The Peacemaker
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141241.mp4
-#EXTINF:-1,The Conjuring 2
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/141217.mp4
-#EXTINF:-1,The Pianist
-http://vlue.life:80/movie/Amia4029@/snzLttrWzS/105716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR: The Mummy Returns 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg" group-title="AR| English Movies Previous-2015 |",AR: The Mummy Returns 2001
-http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/214378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR: The Covenant 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jwVlbGt3BeLr8HCbCTVa72IcWe.jpg" group-title="AR| English Movies Previous-2015 |",AR: The Covenant 2006
-http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/260373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR: Saw 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/harQifr8kpIVqlLP41kTR058LZB.jpg" group-title="AR| English Movies Previous-2015 |",AR: Saw 2004
-http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/260634.mp4
+
+
+#EXTINF:-1,Hit Man (2024)
+http://206.212.244.71:8080/movie/5467546/3648794/215927.mp4
+
+
+#EXTINF:-1,Force 10 from Navarone (1978)
+http://206.212.244.71:8080/movie/5467546/3648794/199884.mp4
+
+
+
+#EXTINF:-1,Full Metal Jacket (1987)
+http://206.212.244.71:8080/movie/5467546/3648794/199898.mp4
+
+
+#EXTINF:-1,Highlander (1986)
+http://206.212.244.71:8080/movie/5467546/3648794/200741.mp4
+.
+#EXTINF:-1,My Nightmare Landlord (2020)
+http://206.212.244.71:8080/movie/5467546/3648794/201650.mp4
+
+
+
+#EXTINF:-1,1917 (2019)
+http://206.212.244.71:8080/movie/5467546/3648794/202037.mp4
+
+
+
+
+#EXTINF:-1,NC: Taken
+http://filex.me:8080/movie/000003/000003/315044.mkv
+#EXTINF:-1,NC: Taken 2
+http://filex.me:8080/movie/000003/000003/315045.mkv
+
+
+#EXTINF:-1,NC: Predator
+http://filex.me:8080/movie/000003/000003/315286.mkv
+#EXTINF:-1,NC: Predator 2
+http://filex.me:8080/movie/000003/000003/315287.mkv
+#EXTINF:-1,NC: Predator 3
+http://filex.me:8080/movie/000003/000003/315288.mkv
+
+#EXTINF:-1,NC: Force 10 From Navarone
+http://filex.me:8080/movie/000003/000003/315483.mkv
+
+
+#EXTINF:-1,NC: Shooter
+http://filex.me:8080/movie/000003/000003/315497.mkv
+#EXTINF:-1,NC: Terminator 1
+http://filex.me:8080/movie/000003/000003/315498.mkv
+#EXTINF:-1,NC: Terminator 2-Judgement Day
+http://filex.me:8080/movie/000003/000003/315499.mkv
+#EXTINF:-1,NC: Terminator 3-Rise Of The Machines
+http://filex.me:8080/movie/000003/000003/315500.mkv
+#EXTINF:-1,NC: Terminator 4-Salvation
+http://filex.me:8080/movie/000003/000003/315501.mkv
+#EXTINF:-1,NC: Terminator 5-Genisys
+http://filex.me:8080/movie/000003/000003/315502.mkv
+
+#EXTINF:-1,NC: Anaconda
+http://filex.me:8080/movie/000003/000003/315559.mkv
+#EXTINF:-1,NC: Anacondas-The Hunt For The Blood Orchid
+http://filex.me:8080/movie/000003/000003/315560.mkv
+
+
+#EXTINF:-1,NC: Black Hawk Down
+http://filex.me:8080/movie/000003/000003/315608.mkv
+
+
+#EXTINF:-1,NC: Blood Diamond
+http://filex.me:8080/movie/000003/000003/315611.mkv
+
+
+#EXTINF:-1,NC: Con Air
+http://filex.me:8080/movie/000003/000003/315678.mkv
+#EXTINF:-1,NC: Conan The Barbarian
+http://filex.me:8080/movie/000003/000003/315679.mkv
+
+#EXTINF:-1,NC: The Departed
+http://filex.me:8080/movie/000003/000003/315707.mkv
+
+#EXTINF:-1,NC: Windtalkers
+http://filex.me:8080/movie/000003/000003/315711.mkv
+
+
+#EXTINF:-1,NC: Platoon
+http://filex.me:8080/movie/000003/000003/315981.mkv
+
+
+#EXTINF:-1,PL: Terminator: Dark Fate (2019)
+http://filex.me:8080/movie/000003/000003/332036.avi
+
+
+#EXTINF:-1,PL: The Evil Dead (1981)
+http://filex.me:8080/movie/000003/000003/332048.avi
+
+
+#EXTINF:-1,PL: Titanic 1997
+http://filex.me:8080/movie/000003/000003/332088.avi
+
+
+
+
+#EXTINF:-1,DE: Evil Dead Rise
+http://filex.me:8080/movie/000003/000003/305615.mkv
+
+
+#EXTINF:-1,DE: Saw 3D - Vollendung
+http://filex.me:8080/movie/000003/000003/306011.mp4
+#EXTINF:-1,DE: Saw II
+http://filex.me:8080/movie/000003/000003/306012.mp4
+#EXTINF:-1,DE: Saw III
+http://filex.me:8080/movie/000003/000003/306013.mp4
+
+
+
+#EXTINF:-1,NC: Waterworld
+http://filex.me:8080/movie/000003/000003/314749.mkv
+
+
+#EXTINF:-1,NC: Django Unchained  [ Nordic-Subbed]
+http://filex.me:8080/movie/000003/000003/314754.mkv
+
+
+
+#EXTINF:-1,NC: Fury
+http://filex.me:8080/movie/000003/000003/315276.mkv
+
+
+#EXTINF:-1,NC: Titanic
+http://filex.me:8080/movie/000003/000003/315521.mkv
+
+#EXTINF:-1,NC: Blood Diamond
+http://filex.me:8080/movie/000003/000003/315611.mkv
+
+
+#EXTINF:-1,NC: Air Force One
+http://filex.me:8080/movie/000003/000003/315536.mkv
+
+
+
+#EXTINF:-1,NC: Shooter
+http://filex.me:8080/movie/000003/000003/315497.mkv
+#EXTINF:-1,NC: Terminator 1
+http://filex.me:8080/movie/000003/000003/315498.mkv
+#EXTINF:-1,NC: Terminator 2-Judgement Day
+http://filex.me:8080/movie/000003/000003/315499.mkv
+#EXTINF:-1,NC: Terminator 3-Rise Of The Machines
+http://filex.me:8080/movie/000003/000003/315500.mkv
+
+
+#EXTINF:-1,NC: Windtalkers
+http://filex.me:8080/movie/000003/000003/315711.mkv
+
+#EXTINF:-1,NC: Con Air
+http://filex.me:8080/movie/000003/000003/315678.mkv
+#EXTINF:-1,NC: Conan The Barbarian
+http://filex.me:8080/movie/000003/000003/315679.mkv
+
+#EXTINF:-1,NC: Basic Instinct
+http://filex.me:8080/movie/000003/000003/315594.mkv
+
+
+#EXTINF:-1,NC: Apocalypto
+http://filex.me:8080/movie/000003/000003/315072.mkv
+
+#EXTINF:-1,NC: Django Unchained  [ Nordic-Subbed]
+http://filex.me:8080/movie/000003/000003/314754.mkv
+
+#EXTINF:-1,NC: Waterworld
+http://filex.me:8080/movie/000003/000003/314749.mkv
+
+
+#EXTINF:-1,NC: Saving Private Ryan
+http://filex.me:8080/movie/000003/000003/314700.mkv
+
+
+#EXTINF:-1,NC: T-34
+http://filex.me:8080/movie/000003/000003/314370.mkv
+
+
+#EXTINF:-1,NC: Enemy At The Gates
+http://filex.me:8080/movie/000003/000003/314357.mkv
+
+#EXTINF:-1,NC: The Deep Blue Sea
+http://filex.me:8080/movie/000003/000003/314133.mkv
+
+
+#EXTINF:-1,NC: The Bourne Identity
+http://filex.me:8080/movie/000003/000003/314038.mkv
+#EXTINF:-1,NC: The Bourne Legacy
+http://filex.me:8080/movie/000003/000003/314039.mkv
+#EXTINF:-1,NC: The Bourne Supremacy
+http://filex.me:8080/movie/000003/000003/314040.mkv
+#EXTINF:-1,NC: The Bourne Ultimatum
+http://filex.me:8080/movie/000003/000003/314041.mkv
+
+
+
 
 #EXTINF:-1,I Am: Celine Dion (2024)
 http://206.212.244.71:8080/movie/5467546/3648794/216200.mp4
@@ -1448,12 +1465,15 @@ http://forevertv.me:2095/movie/1234578/Wq6wdahq497563/372652.mp4
 #EXTINF:-1,TAYLOR SWIFT | THE ERAS TOUR (2023) (Leg)
 http://bktv.xyz:8080/movie/Lilian3/Lil56/916845.mp4
 
+
 #EXTINF:-1 tvg-id="PPTVHD36.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png", PPTV HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+
 #EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 #EXTINF:-1 tvg-id="True4U.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png", True 4U
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+
 
 #EXTINF:-1,Mahar Movie
 http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8 
@@ -1467,3 +1487,10 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1,Edu
 http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+
+ 
+
+ 
+
+
